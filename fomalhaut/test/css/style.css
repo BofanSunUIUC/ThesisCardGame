@@ -1,0 +1,42 @@
+/*
+4.Numbers should be centered horizontally 
+and vertically in each table cell.
+*/
+/*
+6.The table should have a black/white checkered pattern.
+*/
+.table .wcell {
+    display: table-cell;
+    color: black;
+    background-color: white;
+    text-align: center;
+    vertical-align: middle; 
+}
+.table .bcell {
+    display: table-cell;
+    color: white; 
+    background-color: black; 
+    text-align: center;
+    vertical-align: middle; 
+}
+
+/*
+5.The table should have a minimum width of 700px and a minimum 
+height of 450px, but it should have no maximum width or height
+*/
+.row{
+    display: table;
+    table-layout: fixed;    
+    margin: 0;
+    padding: 0;
+}
+.table{
+    min-height: 450px;
+    margin:auto;
+    padding:auto;
+}
+#container{
+    margin-left:100px;
+    margin-right:100px;
+}
+

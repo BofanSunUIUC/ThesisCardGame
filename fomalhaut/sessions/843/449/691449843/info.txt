@@ -1,0 +1,1265 @@
+100
+In Rare Unity, Hospitals, Doctors and Insurers Criticize Health Bill
+https://www.nytimes.com/2017/05/04/health/health-care-bill-criticisms.html
+The House?s passage of the bill led to an outcry from the health care industry and consumer groups, which found an uncommon ally in some insurers.
+https://static01.nyt.com/images/2017/05/05/us/05INSURE/05INSURE-articleInline.jpg
+BLOCKS START 6
+America's Health Insurance Plans
+ENTITY: 0
+Health Insurance and Managed Care
+House of Representatives
+Patient Protection and Affordable Care Act (2010)
+United States Politics and Government
+BLOCKS END
+2017 Kentucky Derby Contenders: The Experts Make Their Picks
+https://www.nytimes.com/2017/05/05/sports/kentucky-derby-picks-predictions.html
+Joe Drape and Melissa Hoppert of The New York Times weigh in on the contenders for the 143rd running of the Kentucky Derby.
+https://static01.nyt.com/images/2017/05/06/sports/tapwrit/tapwrit-articleInline.jpg
+BLOCKS START 6
+Churchill Downs Inc
+ENTITY: 1
+Horse Racing
+Jockeys, Drivers and Trainers
+Kentucky Derby
+Triple Crown (Horse Racing)
+BLOCKS END
+18 Penn State Students Charged in Fraternity Death
+https://www.nytimes.com/2017/05/05/us/penn-state-fraternity-death-timothy-piazza.html
+Eight were charged with involuntary manslaughter ? as was the fraternity itself, Beta Theta Pi ? in the death of Timothy Piazza on Feb. 4.
+https://static01.nyt.com/images/2017/05/06/us/06pennhazing_web1/06pennhazing_web1-articleInline.jpg
+BLOCKS START 9
+Alcohol Abuse
+Beta Theta Pi
+Colleges and Universities
+ENTITY: 2
+Fraternities and Sororities
+Hazing
+Murders, Attempted Murders and Homicides
+Pennsylvania State University
+Piazza, Timothy (1997-2017)
+BLOCKS END
+House Passes Measure to Repeal and Replace the Affordable Care Act
+https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html
+After weeks of struggle, House Republicans narrowly passed hard-fought legislation to repeal and replace large parts of the Affordable Care Act.
+https://static01.nyt.com/images/2017/05/05/us/05health_mobile3/05health_mobile3-articleInline.jpg
+BLOCKS START 9
+ENTITY: 3
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+Ryan, Paul D Jr
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+G.O.P. Cheers a Big Victory. But Has It Stirred a ?Hornet?s Nest??
+https://www.nytimes.com/2017/05/05/us/politics/house-democrats-health-repeal-republicans.html
+Democrats saw a mirror image of their own politically disastrous health care experience in 2010, and they also saw an opportunity to possibly recapture the House.
+https://static01.nyt.com/images/2017/05/06/us/06hulse_web1/06hulse_web1-articleInline.jpg
+BLOCKS START 8
+Democratic Party
+ENTITY: 4
+Elections, House of Representatives
+House of Representatives
+Midterm Elections (2018)
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+Police Officer Who Fatally Shot 15-Year-Old Texas Boy Is Charged With Murder
+https://www.nytimes.com/2017/05/05/us/roy-oliver-charged-murder-dallas-police-shooting-jordan-edwards.html
+The Dallas Sheriff?s Department issued a warrant for the arrest of the officer, Roy D. Oliver II, who killed Jordan Edwards as he left a party.
+null
+BLOCKS START 6
+Balch Springs (Tex)
+ENTITY: 5
+Edwards, Jordan (d 2017)
+Murders, Attempted Murders and Homicides
+Oliver, Roy D (1979- )
+Police Brutality, Misconduct and Shootings
+BLOCKS END
+A Little-Noticed Target in the House Health Bill: Special Education
+https://www.nytimes.com/2017/05/03/us/politics/health-bill-medicaid-special-education-affordable-care-act.html
+A provision of the Republican plan to replace the Affordable Care Act would sharply cut Medicaid funds for special education programs across the country.
+https://static01.nyt.com/images/2017/05/04/us/04medicaid/04medicaid-articleInline.jpg
+BLOCKS START 8
+ENTITY: 6
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Medicaid
+Patient Protection and Affordable Care Act (2010)
+Special Education
+United States Politics and Government
+BLOCKS END
+Student Arrested After Crawling Into a Duct to Steal an Exam
+https://www.nytimes.com/2017/05/04/us/university-of-kentucky-stolen-test.html
+The plot, carried out in the wee hours of Wednesday at the University of Kentucky, was foiled because the instructor was working late, an official said.
+https://static01.nyt.com/images/2017/05/05/education/05UK_xp/05UK_xp-articleInline.jpg
+BLOCKS START 7
+Cain, John P
+Cheating
+ENTITY: 7
+Kiphuth, Troy
+Lynch, Henry II
+Tests and Examinations
+University of Kentucky
+BLOCKS END
+Who Wins and Who Loses in the Latest G.O.P. Health Care Bill
+https://www.nytimes.com/2017/05/04/upshot/who-wins-and-who-loses-in-the-latest-gop-health-care-bill.html
+The rich and healthy benefit, but poor and disabled people who use Medicaid could lose out.
+https://static01.nyt.com/images/2017/05/05/us/05up-winlose/up-winlose-articleInline.jpg
+BLOCKS START 8
+ENTITY: 8
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Medicaid
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+Macron Campaign Says It Was Target of ?Massive? Hacking Attack
+https://www.nytimes.com/2017/05/05/world/europe/france-macron-hacking.html
+A trove of internal campaign documents was posted online, campaign staff for the French presidential candidate said.
+https://static01.nyt.com/images/2017/05/06/world/06FRANCE-a1/06FRANCE-a1-articleInline.jpg
+BLOCKS START 6
+Cyberwarfare and Defense
+ENTITY: 9
+Elections
+France
+Le Pen, Marine
+Macron, Emmanuel (1977- )
+BLOCKS END
+North Korea Accuses South and U.S. of Plotting to Kill Kim Jong-un
+https://www.nytimes.com/2017/05/05/world/asia/kim-jong-un-north-korea-us-assassination.html
+The North said that the South had hired a man to infiltrate the North to kill Mr. Kim. The South?s spy agency denied the accusation.
+https://static01.nyt.com/images/2017/05/06/world/06NKorea/06NKorea-articleInline.jpg
+BLOCKS START 7
+Assassinations and Attempted Assassinations
+ENTITY: 10
+Espionage and Intelligence Services
+Kim Jong-un
+North Korea
+South Korea
+United States International Relations
+BLOCKS END
+Fact Check: Rumors, Claims and Context on G.O.P. Health Bill
+https://www.nytimes.com/2017/05/05/us/politics/pre-existing-conditions-health-care.html
+Many of the rumors surrounding the Republican health care bill ? that it counts rape as an uninsurable pre-existing condition, for example ? are overly simplistic.
+https://static01.nyt.com/images/2017/05/06/us/06FACTCHECK-01p/06FACTCHECK-01p-articleInline.jpg
+BLOCKS START 8
+Domestic Violence
+ENTITY: 11
+Health Insurance and Managed Care
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+Sex Crimes
+United States Politics and Government
+BLOCKS END
+The Trumpcare Disaster
+https://www.nytimes.com/2017/05/04/opinion/obamacare-house-vote.html
+Now that Republicans have rammed their health care-destroying bill through the House, Americans have to hope the Senate will stop it.
+https://static01.nyt.com/images/2017/05/05/opinion/05fri1web/05fri1web-articleInline.jpg
+BLOCKS START 9
+ENTITY: 12
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+Ryan, Paul D Jr
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+G.O.P. House Candidate in Montana Is Caught on Tape Praising Health Bill
+https://www.nytimes.com/2017/05/05/us/politics/montana-house-special-election-greg-gianforte-health-bill.html
+The House?s vote to repeal Obamacare has extended to Montana?s special congressional election, in which the Republican nominee had, at first, tried to distance himself from the measure.
+https://static01.nyt.com/images/2017/05/06/us/06MONTANA-01/06MONTANA-01-articleInline.jpg
+BLOCKS START 9
+ENTITY: 13
+Elections, House of Representatives
+Gianforte, Greg (1961- )
+Health Insurance and Managed Care
+Montana
+Patient Protection and Affordable Care Act (2010)
+Quist, Robert (1948- )
+Republican Party
+United States Politics and Government
+BLOCKS END
+Review: ?Guardians of the Galaxy Vol. 2? Wants That Loving Feeling
+https://www.nytimes.com/2017/05/04/movies/guardians-of-the-galaxy-2-review-chris-pratt.html
+Chris Pratt, Zoe Saldana and the crew are back for this sequel to the 2014 hit about a ragtag group of futuristic fighters.
+https://static01.nyt.com/images/2017/05/05/arts/0505GUARDIANS1/0505GUARDIANS1-articleInline.jpg
+BLOCKS START 7
+ENTITY: 14
+Guardians of the Galaxy Vol 2 (Movie)
+Gunn, James (1970- )
+Movies
+Pratt, Chris
+Russell, Kurt
+Saldana, Zoe
+BLOCKS END
+Joe Scarborough and Mika Brzezinski of ?Morning Joe? Are Engaged
+https://www.nytimes.com/2017/05/04/business/media/morning-joe-engaged.html
+The couple had never publicly discussed their romantic relationship, though many people had speculated about it.
+https://static01.nyt.com/images/2017/05/05/multimedia/05joemika_xp/05joemika_xp-articleInline.jpg
+BLOCKS START 6
+Brzezinski, Mika
+Dating and Relationships
+ENTITY: 15
+MSNBC
+Morning Joe (TV Program)
+Scarborough, Joe
+BLOCKS END
+Eliud Kipchoge Runs World?s Fastest Marathon, in Nike?s Special Shoes
+https://www.nytimes.com/2017/05/06/sports/eliud-kipchoge-marathon-nike-shoes.html
+The Olympic champion covered 26.2 miles in 2 hours 25 seconds in Italy, but the time will not count as a record, mainly because of rules regarding pace-setting.
+https://static01.nyt.com/images/2017/05/06/sports/marathon-img2/marathon-img2-articleInline.jpg
+BLOCKS START 8
+Bekele, Kenenisa
+Desisa, Lelisa
+ENTITY: 16
+Kenya
+Kipchoge, Eliud
+Marathon Running
+Monza (Italy)
+NIKE Inc
+BLOCKS END
+Judy Woodruff, the Woman of the Hour
+https://www.nytimes.com/2017/05/06/style/judy-woodruff-pbs-newshour.html
+Though still mourning her ?PBS NewsHour? co-anchor, Gwen Ifill, Ms. Woodruff continues to be a pioneering role model in journalism.
+https://static01.nyt.com/images/2017/05/07/fashion/07WOODRUFF5-WEB/07WOODRUFF5-WEB-articleInline.jpg
+BLOCKS START 4
+ENTITY: 17
+Judy Woodruff
+News and News Media
+Public Broadcasting Service
+BLOCKS END
+Fox News Besieged by New Bias Lawsuit and Federal Inquiry
+https://www.nytimes.com/2017/05/04/business/media/fox-news-lawsuit-gender-discrimination-sky-takeover.html
+A Fox News Radio reporter sued the network on the same day that a woman who accused Bill O?Reilly of harassment said she would meet with British regulators about a proposed Fox merger.
+https://static01.nyt.com/images/2017/05/05/business/05FOX/05FOX-articleInline.jpg
+BLOCKS START 12
+Discrimination
+ENTITY: 18
+Fox News Channel
+Golloher, Jessica
+Mergers, Acquisitions and Divestitures
+News and News Media
+O'Reilly, Bill
+Sexual Harassment
+Sky PLC
+Suits and Litigation (Civil)
+Walsh, Wendy (1962- )
+Women and Girls
+BLOCKS END
+When That Feisty Neighbor Becomes the President
+https://www.nytimes.com/2017/05/06/us/politics/donald-trump-mar-a-lago.html
+As a businessman, Donald J. Trump peppered local officials in Florida with requests, and governments pushed back. Now, some approvals come more easily.
+https://static01.nyt.com/images/2017/05/07/us/07Florida1/xxFlorida1-articleInline.jpg
+BLOCKS START 9
+Airlines and Airplanes
+Airports
+ENTITY: 19
+Florida
+Letters
+Mar-a-Lago (Palm Beach, Fla)
+Palm Beach (Fla)
+Suits and Litigation (Civil)
+Trump Organization
+BLOCKS END
+In Venezuela?s Chaos, Elites Play a High-Stakes Game for Survival
+https://www.nytimes.com/2017/05/06/world/americas/venezuela-unrest-protests.html
+Worsening unrest and economic collapse give powerful officials reason to want a change in leadership and an opportunity to impose it.
+https://static01.nyt.com/images/2017/05/07/world/07int-venezuela1/07int-venezuela1-articleInline.jpg
+BLOCKS START 7
+Caracas (Venezuela)
+Demonstrations, Protests and Riots
+ENTITY: 20
+Maduro, Nicolas
+Ortega, Luisa (1958- )
+Politics and Government
+Venezuela
+BLOCKS END
+Senate Asks Trump Associates for Records of Communication With Russians
+https://www.nytimes.com/2017/05/05/us/politics/senate-russia-trump-associates.html
+The step by the Senate Intelligence Committee in its investigation into Russian election meddling may be a way to open a path to subpoenas if needed.
+https://static01.nyt.com/images/2017/05/06/us/06intel1/06intel1-articleInline.jpg
+BLOCKS START 12
+Burr, Richard M
+Cyberwarfare and Defense
+ENTITY: 21
+Espionage and Intelligence Services
+Page, Carter
+Presidential Election of 2016
+Russia
+Senate Committee on Intelligence
+Stone, Roger J Jr
+Trump, Donald J
+United States Politics and Government
+Warner, Mark R
+BLOCKS END
+China?s New Jetliner, the Comac C919, Takes Flight for First Time
+https://www.nytimes.com/2017/05/05/business/china-airplane-boeing-airbus.html
+The first Chinese-built passenger jetliner symbolizes the industrial might of an emerging superpower ? and its ambition to take on Boeing and Airbus.
+https://static01.nyt.com/images/2017/05/06/world/asia/06chinaplane-4/06chinaplane-4-articleInline.jpg
+BLOCKS START 6
+Airbus Industrie
+Airlines and Airplanes
+Boeing Company
+China
+Commercial Aircraft Corporation of China
+ENTITY: 22
+BLOCKS END
+My So-Called (Instagram) Life
+https://www.nytimes.com/2017/05/05/style/modern-love-my-so-called-instagram-life.html
+When the person you?re trying to be on social media takes over the person you are in real life, it can be hard to break character.
+https://static01.nyt.com/images/2017/05/07/fashion/07LOVE/07LOVE-articleInline.jpg
+BLOCKS START 4
+Dating and Relationships
+ENTITY: 23
+Instagram Inc
+Social Media
+BLOCKS END
+A Principal Is Accused of Being a Communist, Rattling a Brooklyn School
+https://www.nytimes.com/2017/05/04/nyregion/a-principal-is-accused-of-being-a-communist-rattling-a-brooklyn-school.html
+The principal at Park Slope Collegiate, Jill Bloomberg, says allegations of Communist organizing are retaliation for her outspokenness about race and segregation in New York City schools.
+https://static01.nyt.com/images/2017/05/05/nyregion/05PRINCIPAL1/04PRINCIPAL1-articleInline.jpg
+BLOCKS START 11
+Bloomberg, Jill (1964- )
+Civil Rights and Liberties
+ENTITY: 24
+Education (K-12)
+Education Department (NYC)
+Freedom of Speech and Expression
+Minorities
+Park Slope (Brooklyn, NY)
+Park Slope Collegiate
+Progressive Labor Party
+Teachers and School Employees
+BLOCKS END
+Second Chance for ?Obamacare? Repeal. And for Reince Priebus.
+https://www.nytimes.com/2017/05/05/us/politics/reince-priebus-health-care.html
+President Trump blamed Mr. Priebus, his chief of staff, for the failure of his first push on health care, and Mr. Priebus saw this week?s vote as a make-or-break moment.
+https://static01.nyt.com/images/2017/05/05/us/05priebus1/05priebus1-articleInline.jpg
+BLOCKS START 8
+ENTITY: 25
+Health Insurance and Managed Care
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Priebus, Reince R
+Republican Party
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Trump?s 2nd Nominee for Army Secretary Withdraws
+https://www.nytimes.com/2017/05/05/us/politics/mark-green-army-secretary-nominee-withdraws.html
+Mark E. Green, a Tennessee state senator and former Army surgeon, said his nomination had become a distraction because of ?false and misleading attacks.?
+https://static01.nyt.com/images/2017/05/06/us/06green/06green-articleInline.jpg
+BLOCKS START 6
+Appointments and Executive Changes
+ENTITY: 26
+Green, Mark E (1964- )
+Trump, Donald J Jr
+United States Defense and Military Forces
+United States Politics and Government
+BLOCKS END
+Justin Trudeau and the Case of the ?Star Wars? Socks
+https://www.nytimes.com/2017/05/05/fashion/justin-trudeau-star-wars-socks.html
+There?s nothing like bonding over a mass-movie phenomenon to convince a swath of voters that you share their value system.
+https://static01.nyt.com/images/2017/05/06/world/05OTR1/05OTR1-articleInline.jpg
+BLOCKS START 5
+Canada
+ENTITY: 27
+Socks
+Star Wars (Movie)
+Trudeau, Justin
+BLOCKS END
+What the Republican Health Plan Gets Right
+https://www.nytimes.com/2017/05/05/opinion/what-the-republican-health-plan-gets-right.html
+The only way to make premiums affordable for most people is to limit excessive cost-sharing.
+https://static01.nyt.com/images/2017/05/05/opinion/05siegelWeb/05brownWeb-articleInline.jpg
+BLOCKS START 6
+ENTITY: 28
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Republican Party
+United States Politics and Government
+BLOCKS END
+U.S. Far-Right Activists Promote Hacking Attack Against Macron
+https://www.nytimes.com/2017/05/06/world/europe/emmanuel-macron-hack-french-election-marine-le-pen.html
+The role of American far-right groups in promoting the breach online highlights their growing resolve to spread extremist messages beyond the United States.
+https://static01.nyt.com/images/2017/05/06/world/europe/06macron1/06macron1-articleInline.jpg
+BLOCKS START 10
+Cyberattacks and Hackers
+ENTITY: 29
+Elections
+France
+Le Pen, Marine
+Macron, Emmanuel (1977- )
+Politics and Government
+Russia
+United States
+WikiLeaks
+BLOCKS END
+Michelle Obama Tweets Phone Number of Former White House Staff Member
+https://www.nytimes.com/2017/05/05/us/politics/michelle-obama-twitter.html
+The tweet contained no text aside from the phone number, and it was quickly deleted, but not before many had taken notice.
+https://static01.nyt.com/images/2017/05/06/us/06michelle_xp/06michelle_xp-articleInline.jpg
+BLOCKS START 4
+ENTITY: 30
+First Ladies (US)
+Obama, Michelle
+Twitter
+BLOCKS END
+Where?s Ivanka When We Need Her?
+https://www.nytimes.com/2017/05/05/opinion/wheres-ivanka-when-we-need-her.html
+Reproductive rights go all wrong in Washington.
+https://static01.nyt.com/images/2017/05/06/opinion/06collinsWeb/06collinsWeb-articleInline.jpg
+BLOCKS START 10
+Abortion
+Birth Control and Family Planning
+Books and Literature
+ENTITY: 31
+Health and Human Services Department
+Trump, Donald J
+Trump, Ivanka
+United States Politics and Government
+Women Who Work: Rewriting the Rules for Success (Book)
+Women and Girls
+BLOCKS END
+On Campuses Far From China, Still Under Beijing?s Watchful Eye
+https://www.nytimes.com/2017/05/04/us/chinese-students-western-campuses-china-influence.html
+A group for Chinese students has worked in tandem with Beijing to promote a pro-Chinese agenda and tamp down anti-Chinese speech on Western campuses.
+https://static01.nyt.com/images/2017/05/02/us/00chinesestudents-01/00chinesestudents-01-articleInline.jpg
+BLOCKS START 7
+China
+Chinese Students and Scholars Assn
+Colleges and Universities
+Dalai Lama
+ENTITY: 32
+Foreign Students (in US)
+University of California, San Diego
+BLOCKS END
+At $495, Lonzo Ball?s ZO2 Sneakers Have Tastemakers Saying No Thanks
+https://www.nytimes.com/2017/05/05/sports/basketball/lonzo-lavar-ball-shoes-zo2.html
+The price tag for the least expensive model doesn?t go over well as the basketball star and his father try a different business model.
+null
+BLOCKS START 8
+Ball, LaVar (1968- )
+Ball, Lonzo (1997- )
+Basketball
+ENTITY: 33
+NIKE Inc
+Sneakers
+Sporting Goods and Equipment
+ZO2
+BLOCKS END
+What?s in the AHCA: The Major Provisions of the Republican Health Bill
+https://www.nytimes.com/2017/05/04/us/politics/major-provisions-republican-health-care-bill.html
+Here are some of the terms of the bill to repeal and replace large portions of the Affordable Care Act, which is up for a House vote.
+https://static01.nyt.com/images/2017/05/05/us/05provisions/05provisions-articleInline.jpg
+BLOCKS START 3
+ENTITY: 34
+House of Representatives
+Patient Protection and Affordable Care Act (2010)
+BLOCKS END
+Jared Kushner?s Sister Highlights Family Ties in Pitch to Chinese Investors
+https://www.nytimes.com/2017/05/06/world/asia/jared-kushner-sister-nicole-meyer-china-investors.html
+Nicole Meyer sought $150 million for a Jersey City, N.J., housing development from more than 100 investors gathered at the Ritz-Carlton in Beijing.
+https://static01.nyt.com/images/2017/05/13/world/07kushner-sister1/07kushner-sister1-articleInline.jpg
+BLOCKS START 8
+Anbang Insurance Group Co
+Beijing (China)
+Conflicts of Interest
+ENTITY: 35
+Foreign Investments
+Kushner Cos
+Kushner, Jared
+nicole meyer
+BLOCKS END
+The Best TV Shows and Movies New to Netflix, Amazon and More in May
+https://www.nytimes.com/2017/05/01/watching/new-on-netflix-hbo-amazon-prime-hulu-may.html
+Here are the titles we think are most interesting, broken down by streaming service.
+https://static01.nyt.com/images/2017/04/28/watching/moonlight-watching/moonlight-watching-articleInline-v2.jpg
+BLOCKS START 1
+ENTITY: 36
+BLOCKS END
+The Soccer Team No One Wants to Play
+https://www.nytimes.com/2017/05/04/sports/soccer/the-soccer-team-no-one-wants-to-play.html
+After some F.C. Porto ultras joined a lower-division team in Portugal, opponents ? citing on-field violence and off-field threats ? boycotted it.
+https://static01.nyt.com/images/2017/05/05/sports/05SCARYTEAM01/05SCARYTEAM01-articleInline.jpg
+BLOCKS START 6
+Boycotts
+Canelas 2010 (Soccer Team)
+ENTITY: 37
+Madureira, Fernando
+Porto (Soccer Team)
+Soccer
+BLOCKS END
+Measure on Pre-existing Conditions Energizes Opposition to Health Bill
+https://www.nytimes.com/2017/05/05/us/politics/republican-health-care-bill-pre-existing-conditions.html
+A blast of grass-roots energy against the Republican bill has been generated by a single clause, which Democrats have vowed to make a campaign issue.
+https://static01.nyt.com/images/2017/05/06/us/06PreExisting/06PreExisting-articleInline.jpg
+BLOCKS START 8
+Democratic Party
+ENTITY: 38
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+Take It From a 93-Year-Old Yogi: Stretch, Hold and Laugh
+https://www.nytimes.com/2017/05/05/nyregion/ronnie-arond-yoga-teacher.html
+Ronnie Arond learned her yoga at a Y.M.C.A. and her jokes in the Catskills. She uses both in teaching yoga classes.
+https://static01.nyt.com/images/2017/05/07/nyregion/07CHARACTER1/07CHARACTER1-articleInline-v4.jpg
+BLOCKS START 4
+Arond, Ronnie
+ENTITY: 39
+Queens (NYC)
+Yoga
+BLOCKS END
+The Best TV Shows and Movies New to Netflix, Amazon and More in May
+https://www.nytimes.com/2017/05/01/watching/new-on-netflix-hbo-amazon-prime-hulu-may.html
+Here are the titles we think are most interesting, broken down by streaming service.
+https://static01.nyt.com/images/2017/04/28/watching/moonlight-watching/moonlight-watching-articleInline-v2.jpg
+BLOCKS START 1
+ENTITY: 40
+BLOCKS END
+Measure on Pre-existing Conditions Energizes Opposition to Health Bill
+https://www.nytimes.com/2017/05/05/us/politics/republican-health-care-bill-pre-existing-conditions.html
+A blast of grass-roots energy against the Republican bill has been generated by a single clause, which Democrats have vowed to make a campaign issue.
+https://static01.nyt.com/images/2017/05/06/us/06PreExisting/06PreExisting-articleInline.jpg
+BLOCKS START 8
+Democratic Party
+ENTITY: 41
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+No Country for This Old Man
+https://www.nytimes.com/2017/05/05/opinion/trump-antiquities-act-utah.html
+Trump, as president, hasn?t been west of the Mississippi. Now he?s punishing the region, blue and red states alike.
+https://static01.nyt.com/images/2017/05/05/opinion/05eganWeb/05eganWeb-articleInline.jpg
+BLOCKS START 9
+Bears Ears National Monument (Utah)
+California
+ENTITY: 42
+Federal Lands
+Land Use Policies
+National Parks, Monuments and Seashores
+Trump, Donald J
+United States Politics and Government
+Western States (US)
+BLOCKS END
+Email Attack Hits Google: What to Do if You Clicked
+https://www.nytimes.com/2017/05/03/technology/personaltech/email-attack-hits-google-what-to-do-if-you-clicked.html
+Recipients who clicked on the email and followed its instructions probably gave spammers access to their contact lists, letting them send more email.
+null
+BLOCKS START 7
+Computer Security
+Cyberattacks and Hackers
+E-Mail
+ENTITY: 43
+Google Inc
+Phishing (Computer Fraud)
+Spam (Electronic)
+BLOCKS END
+Navy SEAL Killed in Somalia in First U.S. Combat Death There Since 1993
+https://www.nytimes.com/2017/05/05/world/africa/navy-seal-killed-in-raid-against-islamic-militants-in-somalia.html
+The death comes as American military commanders in the country are holding newfound additional authority in reserve, citing caution.
+https://static01.nyt.com/images/2017/05/06/world/06somalia1_hp/06somalia1_hp-articleInline.jpg
+BLOCKS START 7
+Deaths (Fatalities)
+ENTITY: 44
+Milliken, Kyle J (1979-2017)
+Navy Seals
+Shabab
+Somalia
+United States Defense and Military Forces
+BLOCKS END
+Younger Men, Older Women: A Pairing Becomes More Common
+https://www.nytimes.com/2017/05/05/style/macron-emmanuel-brigitte-relationships.html
+The French presidential candidate Emmanuel Macron and his wife, Brigitte, are just the latest couple to capture the public?s attention with their age difference.
+https://static01.nyt.com/images/2017/05/07/fashion/07AGEGAP1-WEB/07AGEGAP1-WEB-articleInline.jpg
+BLOCKS START 7
+Dating and Relationships
+ENTITY: 45
+Elections
+France
+Macron, Brigitte
+Macron, Emmanuel (1977- )
+Single Persons
+BLOCKS END
+HBO to Develop ?Game of Thrones? Spinoffs
+https://www.nytimes.com/2017/05/04/arts/television/hbo-game-of-thrones-spinoffs.html
+The series, which only has 13 episodes left to air, will conclude in 2018.
+https://static01.nyt.com/images/2016/06/27/arts/thrones-cersei/thrones-cersei-articleInline.jpg
+BLOCKS START 5
+ENTITY: 46
+Game of Thrones (TV Program)
+Home Box Office
+Martin, George R R
+Television
+BLOCKS END
+As French Elections Nears, So Does a Step Into the Unknown
+https://www.nytimes.com/2017/05/06/world/europe/france-election-emmanuel-macron-marine-le-pen.html
+In a deeply divided country, some ask whether either Emmanuel Macron or Marine Le Pen will have enough authority to actually govern.
+https://static01.nyt.com/images/2017/05/07/world/jp-france/jp-france-articleInline.jpg
+BLOCKS START 6
+Cyberattacks and Hackers
+ENTITY: 47
+Elections
+France
+Le Pen, Marine
+Macron, Emmanuel (1977- )
+BLOCKS END
+Understanding What Makes Plants Happy
+https://www.nytimes.com/2017/04/30/style/understanding-what-makes-plants-happy.html
+Thomas Rainer?s work is a revelation: It turns out that plants are social, and have a body language that explains what they need.
+null
+BLOCKS START 3
+ENTITY: 48
+Flowers and Plants
+Gardens and Gardening
+BLOCKS END
+Late Night Is Unimpressed With the House?s Health Care Bill
+https://www.nytimes.com/2017/05/05/arts/television/health-care-passes-house-late-night.html
+Seth Meyers isn?t surprised Republicans passed a bill without a cost estimate. In November they also supported Donald Trump ?without knowing the cost,? he said.
+https://static01.nyt.com/images/2017/05/05/arts/05latenight1/05latenight1-articleInline.png
+BLOCKS START 9
+Colbert, Stephen
+ENTITY: 49
+Kid Mero (1983- )
+Kimmel, Jimmy
+Late Night with Seth Meyers (TV Program)
+Late Show with Stephen Colbert (TV Program)
+Meyers, Seth
+Noah, Trevor (1984- )
+Trump, Donald J
+BLOCKS END
+What?s the Matter With Europe?
+https://www.nytimes.com/2017/05/05/opinion/european-union-france-election.html
+Le Pen must be beaten, but then what?
+https://static01.nyt.com/images/2017/05/05/opinion/05krugmanWeb/05krugmanWeb-articleInline.jpg
+BLOCKS START 7
+ENTITY: 50
+Elections
+European Union
+France
+Great Britain Withdrawal from EU (Brexit)
+Le Pen, Marine
+Macron, Emmanuel (1977- )
+BLOCKS END
+Molly at the Marriott: Inside America?s Premier Psychedelics Conference
+https://www.nytimes.com/2017/05/06/style/psychedelic-drug-resurgence-daily-life.html
+At a recent convention of the Multidisciplinary Association for Psychedelic Studies, mainstream use of Ecstasy and other drugs was on the agenda.
+https://static01.nyt.com/images/2017/05/07/fashion/07PSYCH/07PSYCH-articleInline-v2.jpg
+BLOCKS START 7
+Doblin, Rick
+ENTITY: 51
+Ecstasy (Drug)
+LSD (Lysergic Acid Diethylamide)
+Multidisciplinary Assn for Psychedelic Studies
+Post-Traumatic Stress Disorder
+ayahuasca
+BLOCKS END
+The Broken Promises of Choice in New York City Schools
+https://www.nytimes.com/2017/05/05/nyregion/school-choice-new-york-city-high-school-admissions.html
+The city?s high school admissions process was supposed to give every student a real chance to attend a good school. But 14 years in, it has not delivered.
+https://static01.nyt.com/images/2017/04/08/nyregion/00CHOICE-bryant6/00CHOICE-bryant6-articleInline.jpg
+BLOCKS START 24
+Beacon School (Manhattan, NY)
+Blacks
+Bloomberg, Michael R
+Bronx (NYC)
+Bronx High School of Science
+Brooklyn (NYC)
+Brooklyn Technical High School
+ENTITY: 52
+Education (K-12)
+Education (Secondary)
+Education Department (NYC)
+Equal Educational Opportunities
+George Washington Carver High School (New Orleans)
+Graduation Rates
+Hispanic-Americans
+Lehman High School
+Magnet Schools
+Manhattan (NYC)
+Manhattan Center for Science and Mathematics
+Queens (NYC)
+Segregation and Desegregation
+Stuyvesant High School
+Townsend Harris High School
+de Blasio, Bill
+BLOCKS END
+Always Dreaming Wins the Kentucky Derby
+https://www.nytimes.com/2017/05/06/sports/kentucky-derby-always-dreaming.html
+Always Dreaming, ridden by John Velazquez, captured the 143rd running of the Kentucky Derby on a soggy Saturday at Churchill Downs.
+https://static01.nyt.com/images/2017/05/07/sports/07derby_web10/07derby_web10-articleInline.jpg
+BLOCKS START 6
+Always Dreaming (race horse)
+ENTITY: 53
+Horse Racing
+Jockeys, Drivers and Trainers
+Kentucky Derby
+Triple Crown (Horse Racing)
+BLOCKS END
+Democrats Taunt Republicans With ?Hey, Hey, Hey, Goodbye? During Health Vote
+https://www.nytimes.com/2017/05/04/us/politics/democrats-sing-na-na-hey-hey-good-bye-health-care-bill-vote.html
+A late-1960s song by the group Steam again entered the political realm, as a warning to G.O.P. representatives that they will suffer politically.
+https://static01.nyt.com/images/2017/05/05/us/05xp-congress_web1/05xp-congress_web1-articleInline.jpg
+BLOCKS START 9
+Democratic Party
+ENTITY: 54
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Na Na Hey Hey (Kiss Him Goodbye) (Song)
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+Minnesota Sees Largest Outbreak of Measles in Almost 30 Years
+https://www.nytimes.com/2017/05/05/us/measles-minnesota-vaccines.html
+Officials attribute some of the causes to unvaccinated children of Somali immigrants whose parents fell under the sway of anti-vaccination activists.
+https://static01.nyt.com/images/2017/05/06/us/06measles_xp/06measles_xp-articleInline.jpg
+BLOCKS START 6
+ENTITY: 55
+Epidemics
+German Measles (Rubella)
+Minnesota
+Somali-Americans
+Vaccination and Immunization
+BLOCKS END
+The Reality of a Pre-Existing Condition
+https://www.nytimes.com/2017/05/04/opinion/pre-existing-condition-gop-bill.html
+My family and others have surmounted so many obstacles, only to encounter one we thought was set aside for good.
+https://static01.nyt.com/images/2017/05/04/opinion/04chira/04chira-articleInline.jpg
+BLOCKS START 4
+ENTITY: 56
+Health Insurance and Managed Care
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+BLOCKS END
+Activism at the Met Gala
+https://www.nytimes.com/2017/05/04/fashion/joe-gebbia-yeonmi-park-met-gala.html
+The party of the year may seem as if it?s all about fun and fashion, but a founder of Airbnb and a North Korean refugee had other ideas.
+https://static01.nyt.com/images/2017/05/05/fashion/04OTR/04OTR-articleInline.jpg
+BLOCKS START 9
+Airbnb
+Costume Institute
+ENTITY: 57
+Fashion and Apparel
+Gebbia, Joe
+Met Gala
+Park, Yeonmi
+Parties (Social)
+Refugees and Displaced Persons
+BLOCKS END
+One Award-Winning Chef ? and His Surprisingly Cheap Eating Habits
+https://www.nytimes.com/2017/05/01/t-magazine/wylie-dufresne-dus-donuts-food-diary.html
+Despite being known for inventive molecular gastronomy, Wylie Dufresne buys sandwiches from a bodega ? and Pret a Manger ? nearly every day.
+https://static01.nyt.com/images/2017/04/24/t-magazine/24tmag-wylie-slide-389W/24tmag-wylie-slide-389W-articleInline.jpg
+BLOCKS START 7
+Alder (Manhattan, NY, Restaurant)
+Cooking and Cookbooks
+Doughnuts
+Du's Donuts (Brooklyn, NY, Bakery)
+Dufresne, Wylie
+ENTITY: 58
+Restaurants
+BLOCKS END
+Uber Faces Federal Inquiry Over Use of Greyball Tool to Evade Authorities
+https://www.nytimes.com/2017/05/04/technology/uber-federal-inquiry-software-greyball.html
+The inquiry concerns Uber?s use of a software tool called Greyball, which helped identify and evade officials trying to clamp down on the ride-hailing service.
+https://static01.nyt.com/images/2017/05/05/us/05UBER/05UBER-articleInline.jpg
+BLOCKS START 7
+Car Services and Livery Cabs
+ENTITY: 59
+Justice Department
+Kalanick, Travis
+Mobile Applications
+Regulation and Deregulation of Industry
+Uber Technologies Inc
+BLOCKS END
+Uber Faces Federal Inquiry Over Use of Greyball Tool to Evade Authorities
+https://www.nytimes.com/2017/05/04/technology/uber-federal-inquiry-software-greyball.html
+The inquiry concerns Uber?s use of a software tool called Greyball, which helped identify and evade officials trying to clamp down on the ride-hailing service.
+https://static01.nyt.com/images/2017/05/05/us/05UBER/05UBER-articleInline.jpg
+BLOCKS START 7
+Car Services and Livery Cabs
+ENTITY: 60
+Justice Department
+Kalanick, Travis
+Mobile Applications
+Regulation and Deregulation of Industry
+Uber Technologies Inc
+BLOCKS END
+Republicans Get Their Health Bill. But It May Cost Them.
+https://www.nytimes.com/2017/05/04/us/politics/house-republican-health-bill.html
+The legislative victory may weaken G.O.P. lawmakers facing re-election in moderate districts. ?Will it cause headaches for people? Absolutely,? one said.
+https://static01.nyt.com/images/2017/05/04/us/xxhealth-daily/xxhealth-daily-articleInline.jpg
+BLOCKS START 9
+ENTITY: 61
+Health Insurance and Managed Care
+House Freedom Caucus
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+Ryan, Paul D Jr
+United States Politics and Government
+BLOCKS END
+Pakistan?s Triangle of Hate
+https://www.nytimes.com/2017/05/04/opinion/pakistans-triangle-of-hate.html
+The Pakistani Army has enlisted a notorious Taliban commander in its campaign against India.
+https://static01.nyt.com/images/2017/05/05/opinion/05hanif-inyt/05hanif-inyt-articleInline-v2.jpg
+BLOCKS START 4
+Defense and Military Forces
+ENTITY: 62
+Pakistan
+Taliban
+BLOCKS END
+85-Year-old Everest Climber, Trying to Reclaim Record, Dies
+https://www.nytimes.com/2017/05/06/world/asia/min-bahadur-sherchan-nepal.html
+Min Bahadur Sherchan, who once held the title as the oldest person to climb the mountain, died at base camp, officials said.
+https://static01.nyt.com/images/2017/05/07/world/07nepal/07nepal-articleInline.jpg
+BLOCKS START 3
+ENTITY: 63
+Mount Everest
+Mountaineering
+BLOCKS END
+Fight Brews Over Push to Shield Americans in Warrantless Surveillance
+https://www.nytimes.com/2017/05/06/us/politics/congress-surveillance-nsa-privacy.html
+Privacy-minded lawmakers in Congress look to limit the N.S.A.?s use of information about Americans that it incidentally collects while spying on foreigners.
+https://static01.nyt.com/images/2017/05/07/us/07fisa1/00fisa1-articleInline.jpg
+BLOCKS START 6
+Classified Information and State Secrets
+ENTITY: 64
+Law and Legislation
+National Security Agency
+Surveillance of Citizens by Government
+United States Politics and Government
+BLOCKS END
+White House Proposes Cutting Drug Control Office Funding by 95%
+https://www.nytimes.com/2017/05/05/us/politics/white-house-proposes-cutting-drug-control-office-funding-by-95.html
+When he campaigned for the presidency, Mr. Trump vowed to invest heavily in programs to get heroin and other opioids out of circulation.
+https://static01.nyt.com/images/2017/05/06/us/06drugs/06drugs-articleInline.jpg
+BLOCKS START 7
+Drug Abuse and Traffic
+ENTITY: 65
+Federal Budget (US)
+Office of Management and Budget (US)
+Office of National Drug Control Policy
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+A Fatal and Fiery Photograph Reawakens Memories of a Soldier?s Life
+https://www.nytimes.com/2017/05/05/us/hilda-clayton-army-photograph.html
+A photograph taken in Afghanistan by Specialist Hilda Clayton at the moment a mortar tube exploded in 2013 has been republished this week, reviving details of the lost life of the young soldier.
+https://static01.nyt.com/images/2017/05/03/world/00XP-PHOTOGRAPHER1/00XP-PHOTOGRAPHER1-articleInline.jpg
+BLOCKS START 8
+Afghanistan
+Afghanistan War (2001-14)
+Augusta (Ga)
+ENTITY: 66
+Photography
+United States Army
+United States Defense and Military Forces
+Women and Girls
+BLOCKS END
+The Death and Life of Jersey City
+https://www.nytimes.com/2017/05/05/nyregion/the-death-and-life-of-jersey-city.html
+The downtown boom, visible in the new night-life scene along Newark Avenue, poses a threat to the urban pioneers from the city?s grittier days.
+https://static01.nyt.com/images/2017/05/07/nyregion/07JERSEYCITY-FULLBLEED/07JERSEYCITY-FULLBLEED-articleInline.jpg
+BLOCKS START 9
+Bars and Nightclubs
+ENTITY: 67
+Eminent Domain
+Fulop, Steven M
+Gentrification
+Hoboken (NJ)
+Jersey City (NJ)
+Kushner Real Estate Group
+Renting and Leasing (Real Estate)
+BLOCKS END
+Trump?s Order on Religious Liberty Pleases a Few, but Lets Down Many Conservatives
+https://www.nytimes.com/2017/05/04/us/politics/religious-organizations-executive-order-trump.html
+Religious leaders suggested that the president?s action promised freedoms many did not want while failing to offer legal protections they had been led to expect.
+https://static01.nyt.com/images/2017/05/05/us/05religion/05religion-articleInline.jpg
+BLOCKS START 7
+ENTITY: 68
+Executive Orders and Memorandums
+Freedom of Religion
+Religion-State Relations
+Tax Credits, Deductions and Exemptions
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Ivanka Trump?s Collectible Quotations
+https://www.nytimes.com/2017/05/05/opinion/sunday/ivanka-trumps-collectible-quotations.html
+The first daughter?s book reads like a demented 12-year-old?s Tumblr feed.
+https://static01.nyt.com/images/2017/05/07/sunday-review/07crispin/07crispin-articleInline.jpg
+BLOCKS START 5
+ENTITY: 69
+Quotations and Proverbs
+Trump, Ivanka
+United States Politics and Government
+Women and Girls
+BLOCKS END
+The Best Movies and TV Shows New to Netflix Australia in May
+https://www.nytimes.com/2017/05/02/watching/new-on-netflix-australia-may.html
+Each month the streaming service adds a new batch of TV shows, movies and original programming. Here are the titles we find most interesting.
+https://static01.nyt.com/images/2017/05/02/watching/02watching01/02watching-slide-5YG4-articleInline.jpg
+BLOCKS START 1
+ENTITY: 70
+BLOCKS END
+The New Study That Shows Trumpcare?s Damage
+https://www.nytimes.com/2017/05/03/opinion/trump-health-care.html
+New data makes the Republicans? health care bill look even worse than the Congressional Budget Office?s analysis.
+https://static01.nyt.com/images/2017/05/04/opinion/04LeonhardtWeb/04LeonhardtWeb-articleInline.jpg
+BLOCKS START 6
+Congressional Budget Office
+ENTITY: 71
+House of Representatives
+Patient Protection and Affordable Care Act (2010)
+Ryan, Paul D Jr
+Trump, Donald J
+BLOCKS END
+Why My Father Votes for Le Pen
+https://www.nytimes.com/2017/05/04/opinion/sunday/why-my-father-votes-for-marine-le-pen.html
+The National Front offers a chance to fight his sense of invisibility.
+https://static01.nyt.com/images/2017/05/07/opinion/sunday/07louis/07louis-articleInline.jpg
+BLOCKS START 4
+ENTITY: 72
+France
+Le Pen, Jean-Marie
+Le Pen, Marine
+BLOCKS END
+Warren Buffett, at Berkshire Meeting, Condemns Republican Health Care Bill
+https://www.nytimes.com/2017/05/06/business/dealbook/warren-buffett-berkshire-health-care.html
+At the annual shareholders meeting of his conglomerate, Warren Buffett criticized the health care overhaul as ?a huge tax cut for guys like me.?
+https://static01.nyt.com/images/2017/05/07/us/07DB-Hathaway/07DB-Hathaway-articleInline.jpg
+BLOCKS START 9
+3G Capital Management LLC
+Berkshire Hathaway Inc
+Buffett, Warren E
+Coca-Cola Company
+ENTITY: 73
+High Net Worth Individuals
+Munger, Charles T
+Omaha (Neb)
+Stocks and Bonds
+BLOCKS END
+Puerto Ricans Face ?Sacrifice Everywhere? on an Insolvent Island
+https://www.nytimes.com/2017/05/06/us/puerto-rico-insolvency-business-owners-anxiety.html
+The territory, which filed for a kind of bankruptcy protection in the face of $123 billion in debt, has been gripped by a sense of gloom and anxiety.
+https://static01.nyt.com/images/2017/05/07/us/07-Puerto-Rico-3/07-Puerto-Rico-3-articleInline.jpg
+BLOCKS START 9
+Bankruptcies
+ENTITY: 74
+Government Bonds
+Layoffs and Job Reductions
+Politics and Government
+Puerto Ricans
+Puerto Rico
+Rossello, Ricardo A (1979- )
+Service Employees International Union
+BLOCKS END
+Video Shows Judge on Hudson Shore Before Her Death
+https://www.nytimes.com/2017/04/21/nyregion/appeals-court-judge-death-hudson-river.html
+Judge Sheila Abdus-Salaam, whose body was found in the Hudson River last week, was captured in surveillance footage walking around in Riverbank State Park.
+https://static01.nyt.com/images/2017/04/22/nyregion/22JUDGE1/22JUDGE1-articleInline.jpg
+BLOCKS START 7
+Abdus-Salaam, Sheila
+Courts and the Judiciary
+ENTITY: 75
+New York City
+New York State
+Riverbank State Park (Manhattan, NY)
+Suicides and Suicide Attempts
+BLOCKS END
+We?re Getting Awfully Close to Full Employment
+https://www.nytimes.com/2017/05/05/upshot/were-getting-awfully-close-to-full-employment.html
+The best sign that the economy has reached full employment would be if wage gains returned to pre-recession norms. So far, they haven?t.
+https://static01.nyt.com/images/2017/05/06/upshot/up-jobs/up-jobs-articleInline.jpg
+BLOCKS START 4
+ENTITY: 76
+Interest Rates
+Labor and Jobs
+Unemployment
+BLOCKS END
+White House Fires Its Chief Usher
+https://www.nytimes.com/2017/05/05/us/politics/white-house-chief-usher-angella-reid-fired.html
+Angella Reid was the second African-American and the first woman in the role, which includes broad management of the White House staff.
+https://static01.nyt.com/images/2017/05/06/us/06USHER-01a/06USHER-01a-articleInline.jpg
+BLOCKS START 5
+ENTITY: 77
+Reid, Angella
+Trump, Donald J
+United States Politics and Government
+White House Building (Washington, DC)
+BLOCKS END
+Florida University to Award Posthumous Degree to Trayvon Martin
+https://www.nytimes.com/2017/05/05/us/trayvon-martin-degree.html
+Florida Memorial University announced the degree in aviation would be given to his parents on his behalf on May 13 to recognize his love for flying.
+https://static01.nyt.com/images/2017/05/06/us/06trayvon2_xp/06trayvon2_xp-articleInline.jpg
+BLOCKS START 7
+Awards, Decorations and Honors
+Blacks
+Colleges and Universities
+ENTITY: 78
+Florida Memorial University
+Martin, Trayvon
+Murders, Attempted Murders and Homicides
+BLOCKS END
+Locked Up for Being Poor
+https://www.nytimes.com/2017/05/05/opinion/locked-up-for-being-poor.html
+A federal judge rules that the routine use of cash bail unconstitutionally harms the poor.
+https://static01.nyt.com/images/2017/05/06/opinion/06sat1/06sat1-articleInline-v2.jpg
+BLOCKS START 6
+Bail
+Decisions and Verdicts
+ENTITY: 79
+Harris County (Tex)
+Poverty
+Prisons and Prisoners
+BLOCKS END
+New York Today: New Yorkers on Trump
+https://www.nytimes.com/2017/05/05/nyregion/new-york-today-new-yorkers-on-trump.html
+Friday: Tweets to Trump, weekend events, and the opening of Governors Island.
+https://static01.nyt.com/images/2017/05/07/nyregion/05nytoday1/05nytoday1-articleInline.jpg
+BLOCKS START 2
+ENTITY: 80
+New York City
+BLOCKS END
+The Next Step for the Republican Health Care Bill: A Skeptical Senate
+https://www.nytimes.com/2017/05/04/us/politics/senate-health-care-bill.html
+After a hard-fought victory in the House, the Republican bill to repeal the Affordable Care Act faces big changes in a skeptical Senate.
+https://static01.nyt.com/images/2017/05/05/us/05senate/05senate-articleInline.jpg
+BLOCKS START 4
+ENTITY: 81
+Patient Protection and Affordable Care Act (2010)
+Senate
+United States Politics and Government
+BLOCKS END
+The Race to Save Mastery
+https://www.nytimes.com/2017/05/04/sports/horse-racing/mastery-bob-baffert-kentucky-derby.html
+Mastery, the undefeated colt, was born on Kentucky Derby Day and had the bloodlines and athleticism for stardom. Then one bad step ended it all.
+https://static01.nyt.com/images/2017/05/05/sports/05DERBY09/05DERBY09-articleInline-v3.jpg
+BLOCKS START 6
+Baffert, Bob
+ENTITY: 82
+Horse Racing
+Kentucky Derby
+Mastery (Race Horse)
+Smith, Mike E (1965- )
+BLOCKS END
+Right and Left React to Trump?s Comments on the Civil War
+https://www.nytimes.com/2017/05/05/us/politics/right-and-left-react-to-trumps-comments-on-the-civil-war.html
+A roundup of partisan writing that includes the conservative case for a single-payer system, three political myths Trump has helped to bust and a comic you won?t believe.
+null
+BLOCKS START 3
+ENTITY: 83
+News and News Media
+United States Politics and Government
+BLOCKS END
+?No District Is Off the Table?: Health Vote Could Put House in Play
+https://www.nytimes.com/2017/05/06/us/politics/health-care-vote.html
+House Republicans, already set to play defense in 2018 because of their unpopular president, must now contend with an energized, angry Democratic Party.
+https://static01.nyt.com/images/2017/05/07/us/07house1/07house1-articleInline.jpg
+BLOCKS START 2
+ENTITY: 84
+United States Politics and Government
+BLOCKS END
+Canadian Drinkers, Listen: Too-Potent Batch of Gin Is Recalled
+https://www.nytimes.com/2017/05/04/business/bombay-sapphire-recall.html
+Officials urged consumers to return affected Bombay Sapphire bottles or discard them, even though the 154-proof contents aren?t ?unsafe to drink.??
+null
+BLOCKS START 5
+Alcoholic Beverages
+Bacardi Ltd
+Canada
+ENTITY: 85
+Recalls and Bans of Products
+BLOCKS END
+To Stay Married, Embrace Change
+https://www.nytimes.com/2017/04/21/style/modern-love-to-stay-married-embrace-change.html
+It?s unrealistic to expect your spouse to forever remain the same person you fell in love with.
+https://static01.nyt.com/images/2017/04/24/pageoneplus/24A3_conversation/23LOVE-articleInline.jpg
+BLOCKS START 2
+ENTITY: 86
+Marriages
+BLOCKS END
+How Democrats Can Win in the West
+https://www.nytimes.com/2017/05/05/opinion/steve-bullock-democrats-montana.html
+There?s no secret. Even red-state voters will embrace progressive ideas if you get out and talk with them.
+https://static01.nyt.com/images/2017/05/05/opinion/05bullock/05bullock-articleInline.jpg
+BLOCKS START 5
+Democratic Party
+ENTITY: 87
+Elections, Governors
+Montana
+Western States (US)
+BLOCKS END
+A Code Pink Protester Laughs Over a Trump Nominee and Is Convicted
+https://www.nytimes.com/2017/05/03/us/code-pink-sessions-laughter-trial.html
+At the confirmation hearing of Jeff Sessions for attorney general, Desiree A. Fairooz said she merely giggled. Prosecutors gave a different account.
+https://static01.nyt.com/images/2017/05/03/us/04xp-laughing/04xp-laughing-articleInline.jpg
+BLOCKS START 8
+Barry, Tighe
+Bianchi, Lenny
+Code Pink
+Demonstrations, Protests and Riots
+ENTITY: 88
+Fairooz, Desiree A
+Sessions, Jefferson B III
+United States Politics and Government
+BLOCKS END
+Decoding the Trump-Turnbull Handshake
+https://www.nytimes.com/2017/05/05/world/australia/donald-trump-malcolm-turnbull-handshake-meeting.html
+Donald Trump?s handshakes are often revealing moments. We see what can be gleaned from his meeting with Malcolm Turnbull, Australia?s prime minister.
+https://static01.nyt.com/images/2017/05/05/world/05australiaqa_web1/05australiaqa_web1-articleInline.jpg
+BLOCKS START 6
+Australia
+ENTITY: 89
+Trump, Donald J
+Turnbull, Malcolm (1954- )
+United States Politics and Government
+vis-multimedia
+BLOCKS END
+Don?t Make Housing for the Poor Too Cozy, Carson Warns
+https://www.nytimes.com/2017/05/03/us/politics/ben-carson-hud-poverty-plans.html
+During a tour in Ohio, the housing secretary was resolute in his belief that too much government assistance has led to too much dependence.
+https://static01.nyt.com/images/2017/05/03/us/03carson1/merlin-to-scoop-121382093-313149-articleInline.jpg
+BLOCKS START 7
+Carson, Benjamin S
+ENTITY: 90
+Federal Budget (US)
+Group Homes and Supportive Housing
+Housing and Urban Development Department
+Public and Subsidized Housing
+United States Politics and Government
+BLOCKS END
+Kentucky Derby: Contenders, Long Shots and How to Watch
+https://www.nytimes.com/2017/05/03/sports/kentucky-derby-draw-time-how-to-watch.html
+What to watch for after the draw settles the lineup and post positions.
+https://static01.nyt.com/images/2017/05/04/sports/04derby-web/04derby-web-articleInline.jpg
+BLOCKS START 6
+Churchill Downs Inc
+ENTITY: 91
+Horse Racing
+Jockeys, Drivers and Trainers
+Kentucky Derby
+Triple Crown (Horse Racing)
+BLOCKS END
+The Phones We Love Too Much
+https://www.nytimes.com/2017/05/02/well/mind/the-phones-we-love-too-much.html
+If you had to make a choice, would you choose your phone or your partner? Don?t answer that.
+https://static01.nyt.com/images/2017/05/02/well/02phonelove/02phonelove-articleInline.jpg
+BLOCKS START 7
+Cellular Telephones
+Customs, Etiquette and Manners
+Dating and Relationships
+ENTITY: 92
+Love (Emotion)
+Psychology and Psychologists
+Smartphones
+BLOCKS END
+Sharing an Apartment With Strangers
+https://www.nytimes.com/2017/05/05/realestate/rent-long-island-city-room-share.html
+A high-rise development in Long Island City hopes to replace the Craigslist room share.
+https://static01.nyt.com/images/2017/05/07/realestate/07SUBCOLIVE2/07SUBCOLIVE2-articleInline.jpg
+BLOCKS START 4
+Cohousing Communities
+ENTITY: 93
+Long Island City (Queens, NY)
+Renting and Leasing (Real Estate)
+BLOCKS END
+Mexican Drug Smugglers to Trump: Thanks!
+https://www.nytimes.com/2017/05/05/opinion/sunday/mexican-drug-smugglers-to-trump-thanks.html
+The higher the wall, the higher the profits.
+null
+BLOCKS START 8
+Border Barriers
+Drug Abuse and Traffic
+Drug Cartels
+ENTITY: 94
+Illegal Immigration
+Mexico
+Smuggling
+Trump, Donald J
+BLOCKS END
+House Republicans Go Off the Cliff
+https://www.nytimes.com/2017/05/06/opinion/house-republicans-go-off-the-cliff.html
+Will the Senate be there to catch them?
+https://static01.nyt.com/images/2017/05/07/opinion/sunday/07Douthat-Sub2/07Douthat-Sub2-articleInline.jpg
+BLOCKS START 5
+ENTITY: 95
+Health Insurance and Managed Care
+House of Representatives
+Republican Party
+Trump, Donald J
+BLOCKS END
+First, It?s Baby Steps for American Pharoah?s Progeny
+https://www.nytimes.com/2017/05/05/sports/horse-racing/kentucky-derby-american-pharoah-foals.html
+Many had been anticipating American Pharoah?s initial crop of foals since he captured the Triple Crown in 2015. Well, they have finally arrived.
+https://static01.nyt.com/images/2017/05/06/sports/06pharoah1/06pharoah1-articleInline.jpg
+BLOCKS START 5
+American Pharoah (Race Horse)
+Breeding of Animals
+ENTITY: 96
+Horse Racing
+Kentucky Derby
+BLOCKS END
+Puerto Rico Declares a Form of Bankruptcy
+https://www.nytimes.com/2017/05/03/business/dealbook/puerto-rico-debt.html
+The island?s governor said he would move its debt crisis into federal court, making it the largest United States government entity to seek refuge from creditors in American history.
+https://static01.nyt.com/images/2017/05/04/business/04db-rico/04db-rico-articleInline.jpg
+BLOCKS START 5
+Bankruptcies
+Credit and Debt
+ENTITY: 97
+Puerto Rico
+Rossello, Ricardo A (1979- )
+BLOCKS END
+The Real Problem With the Health Care Bill
+https://www.nytimes.com/2017/05/04/opinion/gop-health-care-act-.html
+Reducing insurance access isn?t a bug in the Republican plan. It?s a feature.
+https://static01.nyt.com/images/2017/05/05/opinion/05brown2web/05brown2web-articleInline.jpg
+BLOCKS START 9
+ENTITY: 98
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+Senate
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Red Sox, Racism and Adam Jones
+https://www.nytimes.com/2017/05/05/opinion/red-sox-racism-and-adam-jones.html
+After the incident at Fenway, it was easy for me to say, ?Of course ? Boston.? But it?s more complicated than that.
+https://static01.nyt.com/images/2017/05/06/opinion/06glanvilleWEB/06glanvilleWEB-articleInline.jpg
+BLOCKS START 8
+Baltimore Orioles
+Baseball
+Blacks
+Boston Red Sox
+Discrimination
+ENTITY: 99
+Fenway Park (Boston)
+Jones, Adam
+BLOCKS END

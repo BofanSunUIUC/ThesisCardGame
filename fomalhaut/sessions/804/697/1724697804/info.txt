@@ -1,0 +1,1281 @@
+100
+Jimmy Kimmel?s Emotional Monologue: His New Son?s Heart Condition
+https://www.nytimes.com/2017/05/02/arts/television/jimmy-kimmel-baby-son-wife.html
+The host of ?Live!? revealed that he was off last week because his wife had given birth to a son. Then he told a frightening story.
+https://static01.nyt.com/images/2017/05/04/arts/04KIMMELNOTEBOOK/02latenight1-articleInline-v3.png
+BLOCKS START 10
+Colbert, Stephen
+Corden, James (1978- )
+ENTITY: 0
+Jimmy Kimmel Live (TV Program)
+Kimmel, Jimmy
+Late Show with Stephen Colbert (TV Program)
+Meyers, Seth
+Noah, Trevor (1984- )
+O'Brien, Conan
+The Daily Show with Trevor Noah (TV Program)
+BLOCKS END
+Police Account Changes in Killing of Texas 15-Year-Old
+https://www.nytimes.com/2017/05/01/us/dallas-police-teen-shooting.html
+Jordan Edwards was shot late on Saturday when the police in a Dallas suburb were responding to a call reporting young people drinking.
+https://static01.nyt.com/images/2017/05/02/us/02xp-dallas/02xp-dallas-articleInline-v6.jpg
+BLOCKS START 5
+Balch Springs (Tex)
+Blacks
+ENTITY: 1
+Edwards, Jordan (d 2017)
+Police Brutality, Misconduct and Shootings
+BLOCKS END
+Ivanka Trump Has the President?s Ear. Here?s Her Agenda.
+https://www.nytimes.com/2017/05/02/us/politics/ivanka-trump.html
+The first daughter has the president?s trust and a widening portfolio. So what will she do with it?
+https://static01.nyt.com/images/2017/05/03/us/03Ivanka1/02Ivanka1-articleInline.jpg
+BLOCKS START 5
+ENTITY: 2
+Trump, Donald J
+Trump, Ivanka
+United States Politics and Government
+Women and Girls
+BLOCKS END
+G.O.P. Eyes $8 Billion Addition to Win a Crucial Vote to the Latest Health Bill
+https://www.nytimes.com/2017/05/02/us/politics/health-care-paul-ryan-fred-upton-congress.html
+Representative Fred Upton of Michigan said he wants more money to protect people with pre-existing medical conditions endangered by the latest health care repeal bill.
+https://static01.nyt.com/images/2017/05/03/us/03health/merlin-to-scoop-121541993-796655-articleInline.jpg
+BLOCKS START 8
+ENTITY: 3
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+Upton, Fred
+BLOCKS END
+Trump, in Wake of Deal to Avoid a Shutdown Now, Calls for One Later
+https://www.nytimes.com/2017/05/02/us/politics/good-shutdown-congress-trump.html
+In two Twitter posts, the president appeared to defend a spending package that Congress is considering that fails to accomplish many of his goals.
+https://static01.nyt.com/images/2017/05/03/us/03shutdown1/merlin-to-scoop-121543484-544668-articleInline.jpg
+BLOCKS START 4
+ENTITY: 4
+Federal Budget (US)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Reviewing the Met Gala: The Good, the Avant-Garde, the Absurd
+https://www.nytimes.com/2017/05/02/fashion/met-gala-costume-institute.html
+What happens when a dress code collides with one of the most-watched brand-marketing events of the year?
+https://static01.nyt.com/images/2017/05/03/fashion/04metfashion/04metfashion-articleInline-v3.jpg
+BLOCKS START 5
+Comme des Garcons
+Costume Institute
+ENTITY: 5
+Fashion and Apparel
+Metropolitan Museum of Art
+BLOCKS END
+U.S. Antimissile System Goes Live in South Korea
+https://www.nytimes.com/2017/05/02/world/asia/thaad-north-korea-missile-defense-us.html
+The Thaad system, deployed to counter North Korea?s missile threats, has angered China and become a contentious issue in South Korea?s presidential race.
+https://static01.nyt.com/images/2017/05/03/world/03korea-thaad-1/03korea-thaad-1-articleInline.jpg
+BLOCKS START 9
+China
+ENTITY: 6
+Missiles and Missile Defense Systems
+Moon Jae-in
+North Korea
+South Korea
+Trump, Donald J
+United States Defense and Military Forces
+United States International Relations
+BLOCKS END
+Children Taken From Maryland Couple After YouTube ?Prank? Videos
+https://www.nytimes.com/2017/05/03/us/maryland-couple-youtube-prank-videos.html
+A couple could lose two of their children after critics condemned the videos and accused the parents of abuse.
+null
+BLOCKS START 7
+Child Abuse and Neglect
+Child Custody and Support
+ENTITY: 7
+Hoaxes and Pranks
+Maryland
+Video Recordings, Downloads and Streaming
+YouTube.com
+BLOCKS END
+Everything You Need to Know About the Met Gala 2017
+https://www.nytimes.com/2017/04/30/fashion/everything-you-need-to-know-about-the-met-gala.html
+The inside scoop on ?the party of the year,? from how much it costs to who gets to go and why you should care.
+https://static01.nyt.com/images/2017/05/01/briefing/30MET-EXPLAINER-mobile/01eveningss-slide-1H6B-articleInline.jpg
+BLOCKS START 10
+Celebrities
+Comme des Garcons
+Costume Institute
+ENTITY: 8
+Fashion and Apparel
+Kawakubo, Rei
+Met Gala
+Metropolitan Museum of Art
+Parties (Social)
+Philanthropy
+BLOCKS END
+Gorsuch, in Sign of Independence, Is Out of Supreme Court?s Clerical Pool
+https://www.nytimes.com/2017/05/01/us/politics/gorsuch-supreme-court-labor-pool-clerks.html
+Justice Neil M. Gorsuch, like Justice Samuel A. Alito Jr., will not receive recommendations written by a group of law clerks in deciding which cases to hear.
+https://static01.nyt.com/images/2017/05/02/us/02pool/02pool-articleInline.jpg
+BLOCKS START 5
+Alito, Samuel A Jr
+ENTITY: 9
+Gorsuch, Neil M
+Supreme Court (US)
+United States Politics and Government
+BLOCKS END
+Rihanna, Kendall Jenner, J.Lo and More Met Gala 2017 Looks
+https://www.nytimes.com/2017/05/01/fashion/met-gala-red-carpet-photos.html
+They don?t call it the Oscars of the East Coast for nothing. See the celebrities who ascended the steps of the Met on Monday night ? and what they wore.
+https://static01.nyt.com/images/2017/05/01/fashion/01METGALA_QUAD1/01METGALA_QUAD1-articleInline.jpg
+BLOCKS START 8
+Celebrities
+Costume Institute
+ENTITY: 10
+Fashion and Apparel
+Kawakubo, Rei
+Met Gala
+Parties (Social)
+Wintour, Anna
+BLOCKS END
+Trump Abruptly Ends CBS Interview After Wiretap Question
+https://www.nytimes.com/2017/05/01/us/politics/trump-cbs-interview.html
+The testy exchange was at odds with the image of competence and message discipline White House officials have labored to show over the past week.
+https://static01.nyt.com/images/2017/05/02/us/02trump/02trump-articleInline.jpg
+BLOCKS START 6
+ENTITY: 11
+News and News Media
+Obama, Barack
+Trump, Donald J
+United States Politics and Government
+Wiretapping and Other Eavesdropping Devices and Methods
+BLOCKS END
+James Comey ?Mildly Nauseous? Over Idea He Swayed the Election
+https://www.nytimes.com/2017/05/03/us/politics/james-comey-fbi-senate-hearing.html
+The F.B.I. director spoke publicly for the first time about his decisions about the Hillary Clinton email inquiry in the days before the election.
+https://static01.nyt.com/images/2017/05/04/us/04comey-vid2/merlin-to-scoop-121582517-239497-articleInline.jpg
+BLOCKS START 10
+Clinton, Hillary Rodham
+Comey, James B
+ENTITY: 12
+Federal Bureau of Investigation
+Grassley, Charles E
+Presidential Election of 2016
+Senate Committee on the Judiciary
+Trump, Donald J
+United States
+United States Politics and Government
+BLOCKS END
+Empirical Evidence: Cats Love People
+https://www.nytimes.com/2017/05/01/science/cats-love-people.html
+Given a choice between human affection, toys and food, the felines sometimes chose people.
+https://static01.nyt.com/images/2017/05/02/science/02OBSCATS/02OBSCATS-articleInline.jpg
+BLOCKS START 2
+Cats
+ENTITY: 13
+BLOCKS END
+Police Officer Who Fatally Shot 15-Year-Old Texas Boy Is Fired
+https://www.nytimes.com/2017/05/02/us/dallas-police-teen-shooting-jordan-edwards.html
+The teenager, Jordan Edwards, was a passenger in a car fired upon by a police officer responding to reports of underage drinking at a party, the authorities said.
+https://static01.nyt.com/images/2017/05/03/us/03dallas1/03dallas1-articleInline.jpg
+BLOCKS START 8
+Balch Springs (Tex)
+Blacks
+Dallas (Tex)
+ENTITY: 14
+Edwards, Jordan (d 2017)
+Mesquite (Tex)
+Oliver, Roy D (1979- )
+Police Brutality, Misconduct and Shootings
+BLOCKS END
+Trump Takes Aim at School Lunch Guidelines and a Girls? Education Program
+https://www.nytimes.com/2017/05/01/us/politics/nutrition-rules-school-lunches-michelle-obama.html
+Agriculture Secretary Sonny Perdue announced that school lunches would no longer have to meet some of the Obama administration?s dietary guidelines.
+https://static01.nyt.com/images/2017/05/02/us/02school/02school-articleInline.jpg
+BLOCKS START 7
+Diet and Nutrition
+ENTITY: 15
+Lunch and Breakfast Programs
+Obama, Michelle
+Perdue, Sonny
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+The Best TV Shows and Movies New to Netflix, Amazon and More in May
+https://www.nytimes.com/2017/05/01/watching/new-on-netflix-hbo-amazon-prime-hulu-may.html
+Here are the titles we think are most interesting, broken down by streaming service.
+https://static01.nyt.com/images/2017/04/28/watching/moonlight-watching/moonlight-watching-articleInline-v2.jpg
+BLOCKS START 1
+ENTITY: 16
+BLOCKS END
+Trump on the Civil War: ?Why Could That One Not Have Been Worked Out??
+https://www.nytimes.com/2017/05/01/us/politics/trump-andrew-jackson-fact-check.html
+Could Andrew Jackson have stopped the war? Trump suggests so in an interview on SiriusXM. The seventh president, a slaveholder, died 16 years before the war began.
+https://static01.nyt.com/images/2017/05/02/us/02xp-trumpjackson/02xp-trumpjackson-articleInline.jpg
+BLOCKS START 7
+Civil War (US) (1861-65)
+ENTITY: 17
+Jackson, Andrew
+Meacham, Jon
+Slavery (Historical)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+With Fox News in Tumult, Another Executive, Bill Shine, Is Ousted
+https://www.nytimes.com/2017/05/01/business/media/fox-news-bill-shine.html
+The removal of a co-president, a holdover from the Roger Ailes era, continued a housecleaning prompted by a sexual harassment scandal.
+https://static01.nyt.com/images/2017/05/02/business/02SHINE/02SHINE-articleInline.jpg
+BLOCKS START 8
+Ailes, Roger E
+Appointments and Executive Changes
+ENTITY: 18
+Fox News Channel
+Murdoch, Rupert
+News and News Media
+Sexual Harassment
+Shine, William J (1963- )
+BLOCKS END
+The End of the Australian Dream?
+https://www.nytimes.com/2017/05/01/opinion/the-end-of-the-australian-dream.html
+When you have a nation full of people trying to get to the top, eventually most of the population is forced to run just to keep up.
+https://static01.nyt.com/images/2017/05/02/opinion/02pryor-inyt/02pryor-inyt-articleInline.jpg
+BLOCKS START 4
+Australia
+ENTITY: 19
+Real Estate and Housing (Residential)
+Sydney (Australia)
+BLOCKS END
+Yellow-Light Crusader Fined for Doing Math Without a License
+https://www.nytimes.com/2017/04/30/business/traffic-light-fine.html
+An Oregon man who questioned the timing of a traffic light is fined $500 for engaging in the ?practice of engineering? without a state-issued license.
+https://static01.nyt.com/images/2017/05/01/business/licensing/licensing-articleInline.jpg
+BLOCKS START 9
+ENTITY: 20
+Engineering and Engineers
+Fines (Penalties)
+Institute for Justice
+Jarlstrom, Mats
+Oregon
+Suits and Litigation (Civil)
+Traffic and Parking Signals and Signs
+Traffic and Parking Violations
+BLOCKS END
+To Understand ?Brexit,? Look to Britain?s Tabloids
+https://www.nytimes.com/2017/05/02/world/europe/london-tabloids-brexit.html
+Despite their falling circulations and tarnished reputations, tabloids maintain a striking grip on power as Britain prepares to cut ties with the European Union.
+https://static01.nyt.com/images/2017/05/03/world/europe/03tabloids-ss-slide-HTAW/03tabloids-ss-slide-HTAW-articleInline-v3.jpg
+BLOCKS START 11
+ENTITY: 21
+Gallagher, Tony (1963- )
+Great Britain
+Great Britain Withdrawal from EU (Brexit)
+London (England)
+Murdoch, Rupert
+News and News Media
+Newspapers
+Rumors and Misinformation
+Sun, The (British Newspaper)
+Tabloids
+BLOCKS END
+Tony Awards 2017: The Full List of Nominations
+https://www.nytimes.com/2017/05/02/theater/tony-awards-nominations-list.html
+The complete list of shows, actors, designers and others.
+https://static01.nyt.com/images/2017/05/02/theater/20170502-tony-nominations-slide-DNBO/20170502-tony-nominations-slide-DNBO-articleInline.jpg
+BLOCKS START 3
+ENTITY: 22
+Theater
+Tony Awards (Theater Awards)
+BLOCKS END
+CNN Refuses Trump Campaign?s ?Fake News? Ad
+https://www.nytimes.com/2017/05/02/business/media/cnn-trump-ad-fake-news.html
+The network said it would not take money to broadcast a falsehood in the ad. The campaign called that ?censorship pure and simple.?
+https://static01.nyt.com/images/2017/05/02/us/02trumpad/02trumpad-articleInline.png
+BLOCKS START 9
+CNN
+ENTITY: 23
+MSNBC
+News and News Media
+Political Advertising
+Rumors and Misinformation
+Television
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+2017 Tony Awards: ?Great Comet? Leads With 12 Nominations
+https://www.nytimes.com/2017/05/02/theater/tony-awards-nominations.html
+?Natasha, Pierre & the Great Comet of 1812? is among four diverse shows that will vie for best new musical. Bette Midler is the front-runner for her role in ?Hello, Dolly!?
+https://static01.nyt.com/images/2017/05/03/arts/03TONYNOMJOSH/03TONYNOMJOSH-articleInline.jpg
+BLOCKS START 5
+Actors and Actresses
+ENTITY: 24
+Theater
+Tony Awards (Theater Awards)
+Writing and Writers
+BLOCKS END
+Red Sox Fans Give Adam Jones a Standing Ovation at Fenway
+https://www.nytimes.com/2017/05/02/sports/baseball/adam-jones-orioles-red-sox-racist-taunts.html
+Jones, an Orioles outfielder, said he also had objects thrown at him from the crowd in Boston, where the teams are playing a tense series.
+https://static01.nyt.com/images/2017/05/03/sports/03subJONES3/03subJONES3-articleInline.jpg
+BLOCKS START 8
+Baltimore Orioles
+Baseball
+Blacks
+Boston Red Sox
+Discrimination
+ENTITY: 25
+Fenway Park (Boston)
+Jones, Adam
+BLOCKS END
+Ex-Officer Who Shot Walter Scott Pleads Guilty in Charleston
+https://www.nytimes.com/2017/05/02/us/michael-slager-walter-scott-north-charleston-shooting.html
+Michael T. Slager was recorded shooting Mr. Scott, an unarmed black motorist, in the back as he fled a routine traffic stop in North Charleston.
+https://static01.nyt.com/images/2017/05/03/us/03charleston/03charleston-articleInline.jpg
+BLOCKS START 6
+Blacks
+ENTITY: 26
+North Charleston (SC)
+Police Brutality, Misconduct and Shootings
+Scott, Walter L (1950-2015)
+Slager, Michael T (1981- )
+BLOCKS END
+Why Congress?s Bipartisan Budget Deal Should Make Trump Worried
+https://www.nytimes.com/2017/05/01/us/politics/congress-budget-deal-democrats-republicans.html
+The compromise prevented the White House from delivering on President Trump?s priorities and may serve as a blueprint for circumventing him in the future.
+https://static01.nyt.com/images/2017/05/02/us/02hulse/02hulse-articleInline.jpg
+BLOCKS START 9
+Democratic Party
+ENTITY: 27
+Federal Budget (US)
+House of Representatives
+Law and Legislation
+Republican Party
+Senate
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+The Collapse of American Identity
+https://www.nytimes.com/2017/05/02/opinion/the-collapse-of-american-identity.html
+We?re losing a shared consensus of who we are to diverging political narratives.
+https://static01.nyt.com/images/2017/05/02/opinion/02jones/02jones-articleInline.jpg
+BLOCKS START 7
+Associated Press
+Democratic Party
+ENTITY: 28
+Polls and Public Opinion
+Republican Party
+United States
+United States Politics and Government
+BLOCKS END
+Having Trouble Having It All? Ivanka Alone Can Fix It
+https://www.nytimes.com/2017/05/02/books/review-ivanka-trump-women-who-work.html
+In ?Women Who Work,? Ivanka Trump offers advice to inspire you and ?your team.?
+https://static01.nyt.com/images/2017/05/04/books/review/04bookivanka/04bookivanka-articleInline.jpg
+BLOCKS START 5
+Books and Literature
+ENTITY: 29
+Trump, Ivanka
+Women Who Work: Rewriting the Rules for Success (Book)
+Women and Girls
+BLOCKS END
+With Civil War Remark, a President Who Doesn?t Go by the (History) Book
+https://www.nytimes.com/2017/05/02/us/politics/civil-war-trump.html
+The president?s comments about the Civil War underscored what seems to be a tenuous understanding of the events that preceded his ascension to power.
+https://static01.nyt.com/images/2017/05/02/us/02history1/merlin-to-scoop-98702929-614148-articleInline.jpg
+BLOCKS START 6
+Civil War (US) (1861-65)
+ENTITY: 30
+Jackson, Andrew
+Presidents and Presidency (US)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Hillary Clinton Returns, and Late Night Finds Her ?Unpresidential?
+https://www.nytimes.com/2017/05/03/arts/television/hillary-clinton-late-night.html
+?Not one description of chocolate cake?? Trevor Noah asked. ?I didn?t realize how much I?d missed hearing sentences with a beginning, middle and end.?
+https://static01.nyt.com/images/2017/05/03/arts/03latenight1/03latenight1-articleInline.png
+BLOCKS START 12
+Arnett, Will
+Clinton, Hillary Rodham
+Colbert, Stephen
+ENTITY: 31
+Jimmy Kimmel Live (TV Program)
+Kimmel, Jimmy
+Late Show with Stephen Colbert (TV Program)
+Meyers, Seth
+Noah, Trevor (1984- )
+The Daily Show with Trevor Noah (TV Program)
+The Late Late Show with James Corden (TV Program)
+Trump, Donald J
+BLOCKS END
+The Mistake Christians Made in Defending Bill O?Reilly
+https://www.nytimes.com/2017/05/02/opinion/bill-oreilly-shielded-by-christians.html
+In many conservative churches, the default is to defer to powerful men and blame their victims.
+https://static01.nyt.com/images/2017/04/26/opinion/26beatyWeb/26beatyWeb-articleInline.jpg
+BLOCKS START 6
+Christians and Christianity
+ENTITY: 32
+Fox News Channel
+O'Reilly, Bill
+Sex Crimes
+Sexual Harassment
+BLOCKS END
+Who Is a ?Criminal??
+https://www.nytimes.com/2017/05/01/opinion/who-is-a-criminal.html
+Justice Roberts was right. The Trump administration should not have the power to revoke the citizenship of ?anyone they want.?
+https://static01.nyt.com/images/2017/05/01/opinion/01stoneWeb/01stoneWeb-articleInline.jpg
+BLOCKS START 9
+Citizenship and Naturalization
+Deportation
+ENTITY: 33
+Human Rights and Human Rights Violations
+Illegal Immigration
+Roberts, John G Jr
+Traffic and Parking Violations
+Trump, Donald J
+United States
+BLOCKS END
+Sent to Prison by a Software Program?s Secret Algorithms
+https://www.nytimes.com/2017/05/01/us/politics/sent-to-prison-by-a-software-programs-secret-algorithms.html
+Using artificial intelligence in judicial decisions sounds like science fiction, but it?s already happened in Wisconsin.
+https://static01.nyt.com/images/2017/05/02/us/02bar/02bar-articleInline.jpg
+BLOCKS START 8
+Artificial Intelligence
+Bradley, Ann Walsh
+ENTITY: 34
+Jackson, Shirley Ann
+Roberts, John G Jr
+Sentences (Criminal)
+Supreme Court (US)
+Wisconsin
+BLOCKS END
+Trump?s Degradation of the Language
+https://www.nytimes.com/2017/05/01/opinion/donald-trump-degradation-of-the-language.html
+In Trump world, facts don?t matter, truth doesn?t matter, language doesn?t matter.
+https://static01.nyt.com/images/2017/05/01/opinion/01blowWeb/01blowWeb-articleInline.jpg
+BLOCKS START 5
+ENTITY: 35
+English Language
+Presidential Election of 2016
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Freak Flags Fly at Met Gala, but Lips Stay Buttoned
+https://www.nytimes.com/2017/05/01/style/met-gala-costume-institute.html
+The shiny, spacey and edgy reigned at the Metropolitan Museum of Art?s Costume Institute Gala. But as loud as the fashions were, some celebrities were mum.
+https://static01.nyt.com/images/2017/05/02/nyregion/02METGALA1/02METGALA1-articleInline-v2.jpg
+BLOCKS START 5
+Celebrities
+ENTITY: 36
+Fashion and Apparel
+Metropolitan Museum of Art
+Parties (Social)
+BLOCKS END
+The Phones We Love Too Much
+https://www.nytimes.com/2017/05/02/well/mind/the-phones-we-love-too-much.html
+If you had to make a choice, would you choose your phone or your partner? Don?t answer that.
+https://static01.nyt.com/images/2017/05/02/well/02phonelove/02phonelove-articleInline.jpg
+BLOCKS START 7
+Cellular Telephones
+Customs, Etiquette and Manners
+Dating and Relationships
+ENTITY: 37
+Love (Emotion)
+Psychology and Psychologists
+Smartphones
+BLOCKS END
+Trump: Crazy Like a Fox, or Just Crazy?
+https://www.nytimes.com/2017/05/03/opinion/trump-crazy-like-a-fox-or-just-crazy.html
+The president?s remarks about his first 100 days have been simply bizarre.
+https://static01.nyt.com/images/2017/05/03/opinion/03friedmanWeb/03krugmanWeb-articleInline.jpg
+BLOCKS START 9
+Alternative and Renewable Energy
+Automobiles
+California
+ENTITY: 38
+Illegal Immigration
+Immigration and Emigration
+State Legislatures
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Congress Allocates $120 Million for Trump Family?s Security Costs
+https://www.nytimes.com/2017/05/01/us/politics/secret-service-trump-protection.html
+The additional funding, part of a spending deal that could pass this week, reflects the extraordinary costs associated with the family?s lifestyle.
+https://static01.nyt.com/images/2017/05/02/us/02security1/02security1-articleInline.jpg
+BLOCKS START 13
+Bedminster (NJ)
+ENTITY: 39
+Federal Budget (US)
+Mar-a-Lago (Palm Beach, Fla)
+New York City
+Palm Beach (Fla)
+Police
+Police Department (NYC)
+Secret Service
+Trump Tower (Manhattan, NY)
+Trump, Donald J
+United States Politics and Government
+White House Building (Washington, DC)
+BLOCKS END
+For Families of Teens at Suicide Risk, ?13 Reasons? Raises Concerns
+https://www.nytimes.com/2017/05/01/well/family/for-families-of-teens-at-suicide-risk-13-reasons-triggers-concerns.html
+A rising chorus of mental health experts contends that many of the show?s messages on suicide are inaccurate and potentially dangerous.
+https://static01.nyt.com/images/2017/05/01/science/well-family-suicide/well-family-suicide-articleInline.jpg
+BLOCKS START 8
+13 Reasons Why (TV Program)
+Depression (Mental)
+ENTITY: 40
+Families and Family Life
+Mental Health and Disorders
+Suicides and Suicide Attempts
+Teenagers and Adolescence
+Television
+BLOCKS END
+Officers Won?t Be Charged in Black Man?s Shooting Death in Louisiana
+https://www.nytimes.com/2017/05/02/us/alton-sterling-justice-department.html
+The shooting death of Alton B. Sterling by white police officers raised an outcry and prompted a Justice Department inquiry, fueling a national debate about race and justice.
+https://static01.nyt.com/images/2017/05/03/us/03sterling/03sterling-articleInline.jpg
+BLOCKS START 8
+Baton Rouge (La)
+Blacks
+ENTITY: 41
+Justice Department
+Lake, Howie J II
+Police Brutality, Misconduct and Shootings
+Salamoni, Blane M (1987- )
+Sterling, Alton B (1979-2016)
+BLOCKS END
+Trump Follows Instincts, Not Establishment, With Overtures to Kim and Duterte
+https://www.nytimes.com/2017/05/01/world/asia/trump-north-korea-kim-jong-un.html
+President Trump?s willingness to meet with the North Korean and Philippine leaders illustrated his confidence in his own deal making but alarmed critics.
+https://static01.nyt.com/images/2017/05/02/us/02prexy/02prexy-articleInline.jpg
+BLOCKS START 8
+Duterte, Rodrigo
+ENTITY: 42
+Kim Jong-un
+North Korea
+Philippines
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+The Rescuer Expected to Find Two Bodies. Then One of Them Spoke.
+https://www.nytimes.com/2017/05/02/world/asia/nepal-trekkers.html
+Two Taiwanese trekkers spent 47 days stranded in a cave in the mountains of Nepal. Remarkably, one survived after losing nearly half his body weight.
+https://static01.nyt.com/images/2017/05/03/world/03trekkers/03trekkers-articleInline.jpg
+BLOCKS START 5
+ENTITY: 43
+Hikes and Hiking
+Missing Persons
+Nepal
+Rescues
+BLOCKS END
+Clinton, Denouncing Trump, Calls Herself ?Part of the Resistance?
+https://www.nytimes.com/2017/05/02/us/clinton-trump-interview.html
+Hillary Clinton sharply questioned President Trump?s conduct in office, criticizing his foreign policy pronouncements and penchant for posting on Twitter.
+https://static01.nyt.com/images/2017/05/03/us/03clinton-still/03clinton-still-articleInline.jpg
+BLOCKS START 5
+Clinton, Hillary Rodham
+ENTITY: 44
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+Don?t Make Housing for the Poor Too Cozy, Carson Warns
+https://www.nytimes.com/2017/05/03/us/politics/ben-carson-hud-poverty-plans.html
+During a tour in Ohio, the housing secretary was resolute in his belief that too much government assistance has led to too much dependence.
+https://static01.nyt.com/images/2017/05/03/us/03carson1/merlin-to-scoop-121382093-313149-articleInline.jpg
+BLOCKS START 7
+Carson, Benjamin S
+ENTITY: 45
+Federal Budget (US)
+Group Homes and Supportive Housing
+Housing and Urban Development Department
+Public and Subsidized Housing
+United States Politics and Government
+BLOCKS END
+How Ueli Steck Met Mountaineering?s Oldest Companion: Tragedy
+https://www.nytimes.com/2017/05/01/opinion/ueli-steck-falling-off-the-edge.html
+He pushed the limits of alpine climbing, ascending fast and alone, until his death this weekend.
+null
+BLOCKS START 5
+ENTITY: 46
+Falls
+Mount Everest
+Mountaineering
+Steck, Ueli
+BLOCKS END
+TV Station Owners Rush to Seize on Relaxed F.C.C. Rules
+https://www.nytimes.com/2017/05/01/business/dealbook/tv-station-owners-rush-to-seize-on-relaxed-fcc-rules.html
+A vote by the Federal Communications Commission last week sets the stage for the consolidation of local television stations in a deal-making frenzy.
+https://static01.nyt.com/images/2017/05/02/business/02DB-TRIBUNE/02DB-TRIBUNE-articleInline.jpg
+BLOCKS START 12
+21st Century Fox
+Cable Television
+ENTITY: 47
+EW Scripps Company
+Federal Communications Commission
+Mergers, Acquisitions and Divestitures
+Pai, Ajit
+Radio Spectrum
+Sinclair Broadcast Group Inc
+Television
+The Blackstone Group
+Tribune Media Company
+BLOCKS END
+Puerto Rico Declares a Form of Bankruptcy
+https://www.nytimes.com/2017/05/03/business/dealbook/puerto-rico-debt.html
+The island?s governor said he would move its debt crisis into federal bankruptcy court, making it the largest United States government entity to seek refuge from creditors in American history.
+https://static01.nyt.com/images/2017/05/04/business/04db-rico/04db-rico-articleInline.jpg
+BLOCKS START 4
+Bankruptcies
+Credit and Debt
+ENTITY: 48
+Puerto Rico
+BLOCKS END
+The Cost of Barack Obama?s Speech
+https://www.nytimes.com/2017/05/01/opinion/the-cost-of-barack-obamas-speech.html
+In an era of purchased influence, why can?t former President Barack Obama set a higher standard?
+https://static01.nyt.com/images/2017/05/01/opinion/01mon1web/01mon1web-articleInline.jpg
+BLOCKS START 6
+Cantor Fitzgerald LP
+ENTITY: 49
+Obama, Barack
+Speeches and Statements
+United States
+United States Politics and Government
+BLOCKS END
+Trump?s Volatility in Asia Distresses a Longtime U.S. Ally: Australia
+https://www.nytimes.com/2017/05/01/world/australia/trump-north-korea-us-china.html
+Some in Australia worry about the risk of being drawn into a conflict that forces it to side with either the United States, its military ally, or China, its biggest trading partner.
+https://static01.nyt.com/images/2017/04/29/world/02defense-3/02defense-3-articleInline-v3.jpg
+BLOCKS START 17
+Afghanistan War (2001-14)
+Australia
+China
+Cold War Era
+Darwin (Australia)
+ENTITY: 50
+Far East, South and Southeast Asia and Pacific Areas
+International Relations
+Military Bases and Installations
+Pence, Mike
+Trump, Donald J
+Turnbull, Malcolm (1954- )
+United States Army
+United States Defense and Military Forces
+United States International Relations
+United States Marine Corps
+World War II (1939-45)
+BLOCKS END
+Thomas Keller, an Exacting Chef at a Crossroads
+https://www.nytimes.com/2017/05/02/dining/thomas-keller-chef-profile.html
+At 61, with big projects nearing completion on both coasts, the influential founder of the French Laundry contemplates his next chapter.
+https://static01.nyt.com/images/2017/05/03/dining/03KELLER1/03KELLER1-articleInline-v2.jpg
+BLOCKS START 6
+Chefs
+ENTITY: 51
+French Laundry (Yountville, Calif, Restaurant)
+Hudson Yards (Manhattan, NY)
+Keller, Thomas
+Per Se (Manhattan, NY, Restaurant)
+BLOCKS END
+Trump and Putin Agree to Seek Syria Cease-Fire
+https://www.nytimes.com/2017/05/02/world/europe/trump-putin-syria.html
+In their first conversation since last month?s rupture over Syria, President Trump said he would send a representative to Russian-sponsored talks.
+https://static01.nyt.com/images/2017/05/03/world/03prexy/merlin-to-scoop-121541612-87631-articleInline.jpg
+BLOCKS START 7
+ENTITY: 52
+Putin, Vladimir V
+Russia
+Syria
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+Will Trump ?Do a Big Number? on the Big Banks?
+https://www.nytimes.com/2017/05/01/business/sorkin-trump-breaking-up-banks.html
+Wall Street shuddered as President Trump, for the first time as resident of the White House, mused that he was considering breaking up the largest banks.
+https://static01.nyt.com/images/2017/05/02/business/02DB-SORKIN/02DB-SORKIN-articleInline.jpg
+BLOCKS START 7
+Banking and Financial Institutions
+Dodd-Frank Wall Street Reform and Consumer Protection Act (2010)
+ENTITY: 53
+Glass-Steagall Act (1933)
+Mnuchin, Steven T
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Angela Merkel Presses Vladimir Putin on Treatment of Gays and Jehovah?s Witnesses
+https://www.nytimes.com/2017/05/02/world/europe/merkel-putin-russia.html
+On her first visit to Russia since 2015, the German chancellor also discussed Ukraine and Syria with the Russian president.
+https://static01.nyt.com/images/2017/05/03/world/03Merkel/03Merkel-articleInline.jpg
+BLOCKS START 9
+Demonstrations, Protests and Riots
+ENTITY: 54
+Elections
+Homosexuality and Bisexuality
+Jehovah's Witnesses
+Merkel, Angela
+Politics and Government
+Putin, Vladimir V
+Sochi (Russia)
+BLOCKS END
+Climate of Complete Certainty
+https://www.nytimes.com/2017/04/28/opinion/climate-of-complete-certainty.html
+How about a reasonable conversation on what to do about our warming planet?
+https://static01.nyt.com/images/2017/04/29/opinion/29stephensSub/29stephensWeb-1493405216979-articleInline.jpg
+BLOCKS START 7
+Allen, Jonathan
+Clinton, Hillary Rodham
+ENTITY: 55
+Global Warming
+Parnes, Amie
+Polls and Public Opinion
+Shattered: Inside Hillary Clinton's Doomed Campaign (Book)
+BLOCKS END
+F.B.I. Helping American University Investigate Bananas Found Hanging From Nooses
+https://www.nytimes.com/2017/05/03/us/bananas-hang-from-black-nooses-and-a-campus-erupts-in-protest.html
+Monday marked the first time a black woman has ever served as American University?s student government president. That same day, the bananas appeared.
+https://static01.nyt.com/images/2017/05/03/us/03xp-bananas/03xp-bananas-articleInline.jpg
+BLOCKS START 7
+American University
+Blacks
+Colleges and Universities
+Demonstrations, Protests and Riots
+ENTITY: 56
+Race and Ethnicity
+Washington (DC)
+BLOCKS END
+The Great Vietnam War Novel Was Not Written by an American
+https://www.nytimes.com/2017/05/02/opinion/vietnam-war-novel-was-not-written-by-an-american.html
+Literature about the war and its aftermath by Vietnamese and Vietnamese-Americans is plentiful and good. Too few Americans read it.
+null
+BLOCKS START 6
+Books and Literature
+ENTITY: 57
+Hayslip, Le Ly (1949- )
+Vietnam War
+Vietnamese-Americans
+Writing and Writers
+BLOCKS END
+Shaming Children So Parents Will Pay the School Lunch Bill
+https://www.nytimes.com/2017/04/30/well/family/lunch-shaming-children-parents-school-bills.html
+As school districts struggle under the burden of unpaid lunch debt, many of them resort to tactics that stigmatize children.
+https://static01.nyt.com/images/2017/04/21/science/shameart-dolan/shameart-dolan-articleInline-v2.jpg
+BLOCKS START 6
+Children and Childhood
+ENTITY: 58
+Education (K-12)
+Food
+Lunch and Breakfast Programs
+United States
+BLOCKS END
+Code Pink Protesters at Sessions Hearing Could Face Year in Prison
+https://www.nytimes.com/2017/05/03/us/code-pink-sessions-laughter-trial.html
+One of the protesters, Desiree A. Fairooz, said she was arrested for merely breaking out into laughter.
+https://static01.nyt.com/images/2017/05/03/us/04xp-laughing/04xp-laughing-articleInline.jpg
+BLOCKS START 5
+Code Pink
+ENTITY: 59
+Jeff Sessions
+United States Politics and Government
+Washington (DC)
+BLOCKS END
+Trump Is Returning to New York City, Just Not to Sleep
+https://www.nytimes.com/2017/05/02/nyregion/trump-visit-new-york-city.html
+The president will travel directly to his golf course in New Jersey after an event Thursday on the U.S.S. Intrepid in Manhattan.
+https://static01.nyt.com/images/2017/05/03/nyregion/03TRUMPNYC1/03TRUMPNYC1-articleInline.jpg
+BLOCKS START 9
+Aircraft Carriers
+Bedminster (NJ)
+ENTITY: 60
+Intrepid Sea-Air-Space Museum
+Manhattan (NYC)
+New York City
+Trump Tower (Manhattan, NY)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Trump?s ?Very Friendly? Talk With Duterte Stuns Aides and Critics Alike
+https://www.nytimes.com/2017/04/30/us/politics/trump-duterte.html
+The administration is bracing for an avalanche of criticism after the president embraced Rodrigo Duterte, who has led a deadly crackdown on drugs in the Philippines.
+https://static01.nyt.com/images/2017/05/01/us/01prexy/01prexy-articleInline.jpg
+BLOCKS START 7
+Duterte, Rodrigo
+ENTITY: 61
+Human Rights and Human Rights Violations
+Philippines
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+For Bad Backs, It May Be Time to Rethink Biases About Chiropractors
+https://www.nytimes.com/2017/05/01/upshot/for-bad-backs-its-time-to-rethink-biases-about-chiropractors.html
+Spinal manipulation and other therapies seem at least as effective and safe as more traditional treatment.
+https://static01.nyt.com/images/2017/04/28/upshot/02up-healthspine1/02up-healthspine1-articleInline.jpg
+BLOCKS START 4
+Alternative and Complementary Medicine
+Back (Human Body Part)
+Chiropractors
+ENTITY: 62
+BLOCKS END
+The Team Wore White. The Language Was Blue.
+https://www.nytimes.com/2017/05/02/sports/soccer/soccer-fans-tottenham-cursing.html
+A Times reporter and his sons got an education in soccer, and swearing, in visits to Tottenham?s White Hart Lane.
+https://static01.nyt.com/images/2017/05/02/sports/00HAKIM1/00HAKIM1-articleInline.jpg
+BLOCKS START 5
+ENTITY: 63
+English Premier League
+Soccer
+Stadiums and Arenas
+Tottenham Hotspur (Soccer Team)
+BLOCKS END
+Is China the World?s New Colonial Power?
+https://www.nytimes.com/2017/05/02/magazine/is-china-the-worlds-new-colonial-power.html
+The rising superpower has built up enormous holdings in poor, resource-rich African countries ? but its business partners there aren?t always thrilled.
+https://static01.nyt.com/images/2017/05/07/magazine/07namibia1/07namibia1-articleInline.jpg
+BLOCKS START 11
+Africa
+China
+ENTITY: 64
+International Trade and World Market
+Labor and Jobs
+Mines and Mining
+Namibia
+Philanthropy
+Poaching (Wildlife)
+Third World and Developing Countries
+Uranium
+BLOCKS END
+A Long, Long Look at Obama?s Life, Mostly Before the White House
+https://www.nytimes.com/2017/05/01/books/review-rising-star-making-of-barack-obama-david-garrow.html
+David J. Garrow?s door-stopper of a biography contains a cascade of details that, our critic says, ?never connect to form an illuminating portrait.?
+https://static01.nyt.com/images/2017/05/02/arts/02BOOKGARROW/02BOOKGARROW-articleInline.jpg
+BLOCKS START 6
+Books and Literature
+ENTITY: 65
+Garrow, David J
+Obama, Barack
+Presidents and Presidency (US)
+Rising Star: The Making of Barack Obama (Book)
+BLOCKS END
+?Better Call Saul? Season 3, Episode 4 Recap: Chicken vs. Ice Cream
+https://www.nytimes.com/2017/05/01/arts/television/better-call-saul-recap-sabrosito.html
+Add another delightfully villainous ?Breaking Bad? character to the growing list whose back stories we?re discovering.
+https://static01.nyt.com/images/2017/04/28/watching/01bettercallsaul/28recaps-slide-XTEP-articleInline.jpg
+BLOCKS START 3
+Better Call Saul (TV Program)
+ENTITY: 66
+Television
+BLOCKS END
+Kremlin Critic Aleksei Navalny Says Attack Left Him Mostly Blind in an Eye
+https://www.nytimes.com/2017/05/02/world/europe/russia-aleksei-navalny-opposition.html
+The opposition leader said a doctor told him that he had lost 80 percent of his sight in one eye after suffering a chemical burn when an assailant threw a liquid in his face.
+https://static01.nyt.com/images/2017/05/03/world/03navalny/03navalny-articleInline.jpg
+BLOCKS START 4
+ENTITY: 67
+Navalny, Aleksei A
+Politics and Government
+Russia
+BLOCKS END
+$8 Billion Deal Gives Crucial Momentum to G.O.P. Health Bill
+https://www.nytimes.com/2017/05/03/us/politics/gop-eyes-8-billion-addition-to-win-a-crucial-vote-to-the-latest-health-bill.html
+Representative Fred Upton of Michigan won more money to protect people with pre-existing medical conditions who said they felt endangered by the latest health care repeal bill.
+https://static01.nyt.com/images/2017/05/04/us/04health2/merlin-to-scoop-121583003-786976-articleInline.jpg
+BLOCKS START 2
+ENTITY: 68
+United States Politics and Government
+BLOCKS END
+A Look Inside Airbus?s Epic Assembly Line
+https://www.nytimes.com/2017/05/03/magazine/a-look-inside-airbuss-epic-assembly-line.html
+A confluence of political and economic forces has prompted Europe?s largest airplane manufacturer to place a factory in Alabama ? and to create one of the world?s most gargantuan supply chains.
+https://static01.nyt.com/images/2017/05/07/magazine/07airbus1/07airbus1-articleInline.jpg
+BLOCKS START 6
+Airbus Industrie
+Airlines and Airplanes
+Alabama
+ENTITY: 69
+Factories and Manufacturing
+Military Aircraft
+BLOCKS END
+Man Wielding Knife Kills One and Injures Three at University of Texas
+https://www.nytimes.com/2017/05/01/us/texas-austin-stabbing-attack.html
+A man who witnesses described as eerily composed as he stabbed students with a bowie knife was quickly apprehended by the police.
+https://static01.nyt.com/images/2017/05/03/us/03AUSTIN/03AUSTIN-articleInline.jpg
+BLOCKS START 7
+Austin (Tex)
+ENTITY: 70
+Murders, Attempted Murders and Homicides
+School Shootings and Armed Attacks
+Texas
+University of Texas at Austin
+White, Kendrex J
+BLOCKS END
+Clues to Zika Damage Might Lie in Cases of Twins
+https://www.nytimes.com/2017/05/01/health/zika-twins-transmission-theories.html
+While identical twins often share a fate, fraternal twins typically don?t, a divergence that offers clues to researchers. But one case is confounding these expectations.
+https://static01.nyt.com/images/2017/04/28/science/02ZIKA4/02ZIKA4-articleInline-v2.jpg
+BLOCKS START 7
+Birth Defects
+Brazil
+ENTITY: 71
+Microcephaly
+Pregnancy and Childbirth
+Twins
+Zika Virus
+BLOCKS END
+Trump Gets a Win He Wasn?t Counting On: He Saved the Filibuster
+https://www.nytimes.com/2017/05/03/us/politics/trump-filibuster.html
+By demanding that the Senate change one of its signature rules, the president created a cause for bipartisan unity: preserving the 60-vote threshold on legislation.
+https://static01.nyt.com/images/2017/05/04/us/04hulse1/04hulse1-articleInline.jpg
+BLOCKS START 8
+Democratic Party
+ENTITY: 72
+Filibusters and Debate Curbs
+Law and Legislation
+Republican Party
+Senate
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Rei Kawakubo, the Nearly Silent Oracle of Fashion
+https://www.nytimes.com/2017/05/01/fashion/rei-kawakubos-commes-de-garcons.html
+The 74-year-old designer, now the subject of a major show at the Metropolitan Museum of Art, prefers to let her clothes speak for themselves.
+null
+BLOCKS START 4
+ENTITY: 73
+Fashion and Apparel
+Metropolitan Museum of Art
+Rei Kawakubo
+BLOCKS END
+Answering Your Climate Questions
+https://www.nytimes.com/2017/05/01/opinion/answering-your-climate-questions.html
+Readers had many questions and comments regarding my first column.
+https://static01.nyt.com/images/2017/04/29/opinion/29stephensSub/29stephensWeb-1493405216979-articleInline.jpg
+BLOCKS START 5
+ENTITY: 74
+Fuel Emissions (Transportation)
+Global Warming
+Greenhouse Gas Emissions
+Politics and Government
+BLOCKS END
+Infosys, an Indian Outsourcing Company, Says It Will Create 10,000 U.S. Jobs
+https://www.nytimes.com/2017/05/02/business/infosys-hire-10000-american-workers.html
+The pledge, light on details, follows big promises by other Asian employers to create American jobs in the era of President Trump.
+https://static01.nyt.com/images/2017/05/03/world/03infosys-1/03infosys-1-articleInline.jpg
+BLOCKS START 9
+ENTITY: 75
+Executive Orders and Memorandums
+Foreign Workers
+Hiring and Promotion
+Immigration and Emigration
+Infosys Technologies Ltd
+Outsourcing
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Patients Who Rely on Obamacare Protections Are Worried
+https://www.nytimes.com/2017/05/02/health/obamacare-patients-preexisting-conditions.html
+People who have pre-existing medical conditions fear that changes to the Affordable Care Act will result in higher health care premiums for them.
+https://static01.nyt.com/images/2017/05/03/science/03PRE-EXISTING8/03PRE-EXISTING8-articleInline.jpg
+BLOCKS START 7
+ENTITY: 76
+Health Insurance and Managed Care
+House of Representatives
+Law and Legislation
+Patient Protection and Affordable Care Act (2010)
+Republican Party
+United States Politics and Government
+BLOCKS END
+New York City Transit Reporter in Wonderland: Riding the London Tube
+https://www.nytimes.com/2017/05/01/insider/a-new-york-city-transit-reporter-in-wonderland-riding-the-london-tube.html
+?It was like being dropped into an alternate universe where people actually like their subway.?
+https://static01.nyt.com/images/2017/05/02/insider/02-Insider-Tube-Image/02-Insider-Tube-Image-articleInline-v2.jpg
+BLOCKS START 8
+Delays (Transportation)
+ENTITY: 77
+London (England)
+London Underground
+Metropolitan Transportation Authority
+New York City
+Signals
+Subways
+BLOCKS END
+What Is the Met Gala, and Who Gets to Go?
+https://www.nytimes.com/2016/05/03/fashion/what-is-the-met-gala-and-who-gets-to-go.html
+Deconstructing the party of the year, including how much it costs, who hosts, and what you have to wear.
+https://static01.nyt.com/images/2016/05/02/fashion/13metgala6/13metgala2-articleInline.jpg
+BLOCKS START 5
+Costume Institute
+ENTITY: 78
+Fashion and Apparel
+Metropolitan Museum of Art
+Wintour, Anna
+BLOCKS END
+When the Gospel of Minimalism Collides With Daily Life
+https://www.nytimes.com/2017/04/29/style/when-the-gospel-of-minimalism-collides-with-daily-life.html
+Having less stuff doesn?t always bring more zen. Like most things, living minimally is more complicated than it may seem.
+https://static01.nyt.com/images/2017/05/04/garden/04MINMAL1/04MINMAL1-articleInline.jpg
+BLOCKS START 5
+ENTITY: 79
+Interior Design and Furnishings
+Minimalism
+Orderliness and Clutter
+Psychology and Psychologists
+BLOCKS END
+Donald Trump Embraces Another Despot
+https://www.nytimes.com/2017/05/01/opinion/donald-trump-embraces-rodrigo-duterte.html
+His White House invitation to Rodrigo Duterte of the Philippines erodes America?s reputation.
+https://static01.nyt.com/images/2017/05/02/opinion/02tue1/02tue1-articleInline.jpg
+BLOCKS START 6
+Duterte, Rodrigo
+ENTITY: 80
+Philippines
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+Why Are So Many People Popping Vitamin D?
+https://www.nytimes.com/2017/04/10/health/vitamin-d-deficiency-supplements.html
+There is no epidemic of vitamin D deficiency, experts say, yet pointless testing and treatment are rampant.
+https://static01.nyt.com/images/2017/04/11/science/11VITAMIND1/11VITAMIND1-articleInline.jpg
+BLOCKS START 7
+Bones
+ENTITY: 81
+Osteoporosis
+Sunlight
+Tests (Medical)
+Vitamin D
+Vitamins
+BLOCKS END
+At the Met Gala, Paying Homage to Rei Kawakubo
+https://www.nytimes.com/2017/05/02/fashion/met-gala-rei-kawakubo-comme-des-garcons.html
+At the party of the year, the guest of honor was a somewhat elusive presence.
+https://static01.nyt.com/images/2017/05/04/fashion/04SCENE-WEB1/04SCENE-WEB1-articleInline.jpg
+BLOCKS START 4
+Comme des Garcons
+ENTITY: 82
+Fashion and Apparel
+Kawakubo, Rei
+BLOCKS END
+U.S. Auto Boom Seems to Be History, Just as Trump Counted on Jobs
+https://www.nytimes.com/2017/05/02/business/auto-sales-decline.html
+A fourth straight monthly sales decline, at a rate exceeding forecasts, put a dent in automakers? shares. ?The market is tapped out,? a dealer said.
+null
+BLOCKS START 7
+Automobiles
+ENTITY: 83
+Fiat Chrysler Automobiles NV
+Ford Motor Co
+General Motors
+Layoffs and Job Reductions
+United States Economy
+BLOCKS END
+Trump?s Turn Toward China Curtails Navy Patrols in Disputed Zones
+https://www.nytimes.com/2017/05/02/world/asia/navy-south-china-sea.html
+In a shift from a promise to reverse an Obama policy, three Navy requests to sail a warship near a shoal in the South China Sea were rejected.
+https://static01.nyt.com/images/2017/05/03/world/03military/03military-articleInline.jpg
+BLOCKS START 13
+Defense Department
+ENTITY: 84
+Mattis, James N
+Scarborough Shoal (South China Sea)
+South China Sea
+State Department
+Tillerson, Rex W
+Trump, Donald J
+United States Defense and Military Forces
+United States International Relations
+United States Navy
+United States Politics and Government
+Xi Jinping
+BLOCKS END
+School Vouchers Aren?t Working, but Choice Is
+https://www.nytimes.com/2017/05/02/opinion/school-vouchers-charters-betsy-devos.html
+Charters and vouchers, often lumped together, are very different.
+https://static01.nyt.com/images/2017/05/02/opinion/02LeonhardtWEB/02LeonhardtWEB-articleInline.jpg
+BLOCKS START 7
+Charter Schools
+DeVos, Elizabeth (1958- )
+ENTITY: 85
+Education (K-12)
+Education Department (US)
+Vouchers
+Washington (DC)
+BLOCKS END
+Fyre Festival, a Luxury Music Weekend, Crumbles in the Bahamas
+https://www.nytimes.com/2017/04/28/arts/music/fyre-festival-ja-rule-bahamas.html
+A high-end event founded by Ja Rule and the entrepreneur Billy McFarland was supposed to feature shows and yachts. Attendees found chaos instead.
+https://static01.nyt.com/images/2017/04/30/arts/28FYRE/28FYRE-articleInline.jpg
+BLOCKS START 7
+Bahama Islands
+ENTITY: 86
+Fyre Festival
+Ja Rule
+Luxury Goods and Services
+McFarland, Billy (1991- )
+Music
+BLOCKS END
+Hollywood Writers and Studios, Scrambling to Avert Strike, Reach Last-Minute Deal
+https://www.nytimes.com/2017/05/01/business/media/writers-strike.html
+In overtime negotiations, the Writers Guild of America and entertainment companies reached a tentative deal for a new three-year contract.
+https://static01.nyt.com/images/2017/05/02/business/02STRIKE/02STRIKE-articleInline.jpg
+BLOCKS START 6
+ENTITY: 87
+Movies
+Organized Labor
+Strikes
+Writers Guild of America
+Writing and Writers
+BLOCKS END
+Diana Falzone of Fox News Files Discrimination Lawsuit
+https://www.nytimes.com/2017/05/01/business/media/fox-news-diana-falzone-lawsuit.html
+The contributor said she was banned from more work after disclosing her health issues in an op-ed column for the network?s website.
+https://static01.nyt.com/images/2017/05/02/business/media/02xp-fox/02xp-fox-articleInline.jpg
+BLOCKS START 6
+Discrimination
+ENTITY: 88
+Falzone, Diana
+Fox Broadcasting Co
+Fox News Channel
+News and News Media
+BLOCKS END
+Legal Fight Could Make Kentucky Only State With No Abortion Clinic
+https://www.nytimes.com/2017/05/02/us/kentucky-abortion-clinic.html
+Under a governor who calls himself ?unapologetically pro-life,? Kentucky is pushing hard to close its last abortion provider.
+https://static01.nyt.com/images/2017/05/02/us/00kentuckyclinic-01/00kentuckyclinic-01-articleInline-v2.jpg
+BLOCKS START 7
+Abortion
+American Civil Liberties Union
+Bevin, Matthew
+ENTITY: 89
+Kentucky
+Politics and Government
+Women and Girls
+BLOCKS END
+Gunman Killed After Mass Shooting at San Diego Pool Party
+https://www.nytimes.com/2017/05/01/us/san-diego-police-shooting-peter-selis.html
+One person was killed and at least six wounded before the police shot and killed the attacker, who was ?distraught? after a breakup, the authorities said.
+https://static01.nyt.com/images/2017/05/02/world/02Sandiego1/02Sandiego1-articleInline.jpg
+BLOCKS START 4
+ENTITY: 90
+Murders, Attempted Murders and Homicides
+San Diego (Calif)
+University of California, San Diego
+BLOCKS END
+Key to Improving Subway Service in New York? Modern Signals
+https://www.nytimes.com/2017/05/01/nyregion/new-york-subway-signals.html
+New York?s subway is struggling with old infrastructure and overcrowding. The M.T.A.?s failure to modernize its signal system is a crucial example.
+https://static01.nyt.com/images/2017/05/01/nyregion/01signals1/00signals1-articleInline.jpg
+BLOCKS START 13
+Commuting
+Cuomo, Andrew M
+Delays (Transportation)
+ENTITY: 91
+Infrastructure (Public Works)
+London (England)
+London Underground
+Metropolitan Transportation Authority
+New York City
+Prendergast, Thomas F
+Subways
+Transit Systems
+Transport for London
+BLOCKS END
+Ueli Steck, Renowned Mountain Climber, Dies Near Everest at 40
+https://www.nytimes.com/2017/04/30/world/asia/ueli-steck-mountain-climber-dead-everest.html
+Mr. Steck was preparing to traverse some of the Himalayas? highest peaks when he died in an accident, though the exact circumstances of the death were unknown.
+https://static01.nyt.com/images/2017/04/30/obituaries/01xp-steck/01xp-steck-articleInline.jpg
+BLOCKS START 5
+Deaths (Obituaries)
+ENTITY: 92
+Mount Everest
+Mountaineering
+Steck, Ueli
+BLOCKS END
+Marine Le Pen, a Fierce Campaigner, Heads to Finale in French Election
+https://www.nytimes.com/2017/05/03/world/europe/marine-le-pen-france-election.html
+A far-right populist who has threatened to bring down the European Union, Ms. Le Pen is at the threshold of power as France prepares for the final round of voting.
+https://static01.nyt.com/images/2017/05/04/world/04lepen1-sub/04lepen1-sub-articleInline.jpg
+BLOCKS START 6
+ENTITY: 93
+Elections
+France
+Le Pen, Marine
+National Front (France)
+Politics and Government
+BLOCKS END
+On the Power of Being Awful
+https://www.nytimes.com/2017/05/01/opinion/donald-trump-on-the-power-of-being-awful.html
+Trump supporters will never admit they were wrong.
+https://static01.nyt.com/images/2017/05/01/opinion/01krugmanWeb/01krugmanWeb-articleInline.jpg
+BLOCKS START 5
+ENTITY: 94
+Polls and Public Opinion
+Trump, Donald J
+United States Politics and Government
+Voting and Voters
+BLOCKS END
+?The Dark Tower?: What You Need to Know
+https://www.nytimes.com/2017/05/03/movies/what-you-need-to-know-dark-tower-series-stephen-king.html
+Stephen King?s loyal fans have been anticipating a screen version for years, but Hollywood struggled to adapt this difficult-to-categorize saga.
+https://static01.nyt.com/images/2017/05/07/arts/07DARK-TOWER1/07DARK-TOWER1-articleInline.jpg
+BLOCKS START 7
+Arcel, Nikolaj
+ENTITY: 95
+Elba, Idris
+King, Stephen
+McConaughey, Matthew
+Movies
+The Dark Tower (Movie)
+BLOCKS END
+?Billions? Season 2, Episode 11 Recap: Even the Losers Get Plucky
+https://www.nytimes.com/2017/04/30/arts/television/billions-recap-golden-frog-time.html
+It?s a wonderful feeling to get hoodwinked by masterly plotting, and this episode is the long-term play that has been brewing all season long.
+https://static01.nyt.com/images/2017/04/28/watching/30billions/28recaps-slide-I4D1-articleInline.jpg
+BLOCKS START 3
+Billions (TV Program)
+ENTITY: 96
+Television
+BLOCKS END
+Trump, Andrew Jackson and Ourselves
+https://www.nytimes.com/2017/05/02/opinion/trump-andrew-jackson-and-ourselves.html
+Like the president, many of us believe we could have changed history.
+https://static01.nyt.com/images/2017/05/02/opinion/02coastonWeb/02groteWeb-articleInline.jpg
+BLOCKS START 5
+Civil War (US) (1861-65)
+ENTITY: 97
+Jackson, Andrew
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Amtrak?s Plan for Penn Station Repairs Calls for 44 Days of Closed Tracks
+https://www.nytimes.com/2017/05/02/nyregion/amtrak-penn-station-repairs-track-closings.html
+A preliminary document outlines 21 tasks that would disrupt service for commuters to Manhattan for nearly three weeks in July and almost all of August.
+https://static01.nyt.com/images/2017/05/03/nyregion/03AMTRAK/03AMTRAK-articleInline.jpg
+BLOCKS START 8
+Amtrak
+Commuting
+ENTITY: 98
+Long Island Rail Road Co
+New Jersey Transit
+Pennsylvania Station (Manhattan, NY)
+Railroad Accidents and Safety
+Transit Systems
+BLOCKS END
+Pushing for Vote on Health Care Bill, Trump Seems Unclear on Its Details
+https://www.nytimes.com/2017/05/01/us/politics/trump-health-care.html
+President Trump has insisted that the bill would not allow discrimination against people with pre-existing conditions, an assertion contradicted by health policy experts.
+https://static01.nyt.com/images/2017/05/02/us/02health/02health-articleInline.jpg
+BLOCKS START 6
+ENTITY: 99
+Health Insurance and Managed Care
+House of Representatives
+Patient Protection and Affordable Care Act (2010)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END

@@ -1,0 +1,1210 @@
+100
+Fyre Festival, a Luxury Music Weekend, Crumbles in the Bahamas
+https://www.nytimes.com/2017/04/28/arts/music/fyre-festival-ja-rule-bahamas.html
+A high-end event founded by Ja Rule and the entrepreneur Billy McFarland was supposed to feature shows and yachts. Attendees found chaos instead.
+https://static01.nyt.com/images/2017/04/30/arts/28FYRE/28FYRE-articleInline.jpg
+BLOCKS START 7
+Bahama Islands
+ENTITY: 0
+Fyre Festival
+Ja Rule
+Luxury Goods and Services
+McFarland, Billy (1991- )
+Music
+BLOCKS END
+Senator Responds to Trump?s N.R.A. Speech With Photos of Shooting Victims
+https://www.nytimes.com/2017/04/28/us/politics/christopher-murphy-guns-trump.html
+Senator Christopher S. Murphy, Democrat of Connecticut, unleashed a Twitter storm using the names, ages and pictures of gun violence victims as the president reaffirmed his support for gun ownership.
+https://static01.nyt.com/images/2017/04/29/us/29xp-murphy_web1/29xp-murphy_web1-articleInline.jpg
+BLOCKS START 6
+ENTITY: 1
+Gun Control
+Murphy, Christopher Scott
+National Rifle Assn
+Newtown, Conn, Shooting (2012)
+Trump, Donald J
+BLOCKS END
+Our White House Reporters Recall Their Most Vivid Moments of Trump?s First 100 Days
+https://www.nytimes.com/2017/04/28/us/politics/trump-white-house-first-100-days-new-york-times-reporters.html
+Covering the Trump White House can be exhilarating, maddening, exhausting ? but never boring. The Times? White House correspondents recall vivid moments from their first 100 days on the beat.
+https://static01.nyt.com/images/2017/04/29/us/29moments-print5/29moments1-articleInline.jpg
+BLOCKS START 4
+ENTITY: 2
+News and News Media
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+How Trump Has Reshaped the Presidency, and How It?s Changed Him, Too
+https://www.nytimes.com/2017/04/29/us/politics/trump-presidency-100-days.html
+As Washington evaluates the first 100 days of Mr. Trump tenure, the one consensus is that, for better or worse, the capital has headed deep into uncharted territory.
+https://static01.nyt.com/images/2017/04/30/us/30prexy/merlin-to-scoop-121379861-575494-articleInline.jpg
+BLOCKS START 10
+Appointments and Executive Changes
+Customs, Etiquette and Manners
+ENTITY: 3
+Presidential Election of 2016
+Presidents and Presidency (US)
+Social Media
+Speeches and Statements
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+?10 Concerts? Facebook Meme May Reveal More Than Musical Tastes
+https://www.nytimes.com/2017/04/28/technology/facebook-concerts-attend.html
+Privacy experts said the specific answers posted in response to the meme could be used by marketers to target ads or by hackers to breach secure accounts.
+https://static01.nyt.com/images/2017/04/29/business/29xp-concerts/29xp-concerts-articleInline.jpg
+BLOCKS START 5
+Computer Security
+ENTITY: 4
+Facebook Inc
+Privacy
+Social Media
+BLOCKS END
+Climate of Complete Certainty
+https://www.nytimes.com/2017/04/28/opinion/climate-of-complete-certainty.html
+How about a reasonable conversation on what to do about our warming planet?
+https://static01.nyt.com/images/2017/04/29/opinion/29stephensSub/29stephensWeb-1493405216979-articleInline.jpg
+BLOCKS START 7
+Allen, Jonathan
+Clinton, Hillary Rodham
+ENTITY: 5
+Global Warming
+Parnes, Amie
+Polls and Public Opinion
+Shattered: Inside Hillary Clinton's Doomed Campaign (Book)
+BLOCKS END
+On Long Island, Sessions Vows to Eradicate MS-13 Gang
+https://www.nytimes.com/2017/04/28/nyregion/jeff-sessions-ms-13-gang-long-island.html
+Attorney General Jeff Sessions said the best way to get rid of the gang, which has ties to El Salvador, was to crack down on illegal immigration.
+https://static01.nyt.com/images/2017/04/29/nyregion/29LISessions/29LISessions-articleInline.jpg
+BLOCKS START 6
+ENTITY: 6
+Gangs
+Illegal Immigration
+Long Island (NY)
+Sessions, Jefferson B III
+United States Politics and Government
+BLOCKS END
+Under the Trump Tax Plan, We Might All Want to Become Corporations
+https://www.nytimes.com/2017/04/28/upshot/under-the-trump-tax-plan-we-might-all-want-to-become-corporations.html
+Millions of Americans would have the chance to cut their taxes by essentially turning themselves into small business entities.
+https://static01.nyt.com/images/2017/04/30/business/30up-passthrough-1493403589733/30up-passthrough-1493403589733-articleInline.jpg
+BLOCKS START 9
+Corporate Taxes
+Corporations
+ENTITY: 7
+Income Tax
+Labor and Jobs
+Small Business
+Tax Shelters
+Trump, Donald J
+Wages and Salaries
+BLOCKS END
+Misgivings Diminish the Mighty N.F.L.?s Swagger
+https://www.nytimes.com/2017/04/28/sports/football/misgivings-diminish-the-mighty-nfls-swagger.html
+Holding its draft in the home of the underdog, Philadelphia, the league is faced with an undercurrent of worrisome trends, including a startling decline in TV viewership.
+https://static01.nyt.com/images/2017/04/29/sports/29BELSON1/29BELSON-1493415143581-articleInline.jpg
+BLOCKS START 6
+Draft and Recruitment (Sports)
+ENTITY: 8
+Football
+National Football League
+Philadelphia (Pa)
+Ratings (Audience Measurement)
+BLOCKS END
+Methodist High Court Rejects First Openly Gay Bishop?s Consecration
+https://www.nytimes.com/2017/04/28/us/methodist-high-court-rejects-first-gay-bishops-consecration.html
+The church?s highest court has ruled that the consecration of its first openly gay bishop violated church law, compounding a bitter rift over homosexuality.
+https://static01.nyt.com/images/2017/04/29/us/29Methodist-1/29Methodist-1-articleInline.jpg
+BLOCKS START 7
+ENTITY: 9
+Homosexuality and Bisexuality
+Methodist Church
+Ministers (Protestant)
+Oliveto, Karen P
+Same-Sex Marriage, Civil Unions and Domestic Partnerships
+United Methodist Church
+BLOCKS END
+Video Captures Delta Pilot Smacking Woman to Break Up Fight
+https://www.nytimes.com/2017/04/29/us/delta-pilot-atlanta-airport-woman.html
+An investigation by Delta found the pilot?s actions helped ?de-escalate? the fight between passengers, in the latest airline episode to be recorded on video.
+https://static01.nyt.com/images/2017/04/30/us/30xp-delta1/30xp-delta1-articleInline.jpg
+BLOCKS START 6
+Airlines and Airplanes
+Assaults
+Customer Relations
+Delta Air Lines Inc
+ENTITY: 10
+Hartsfield-Jackson Atlanta International Airport (Atlanta, Ga)
+BLOCKS END
+Trump on Being President: ?I Thought It Would Be Easier?
+https://www.nytimes.com/2017/04/28/us/politics/trump-interview-quotes.html
+On North Korea, on Nafta, on life in the White House: Highlights from Mr. Trump?s interview with Reuters on Thursday to mark his first 100 days in office.
+https://static01.nyt.com/images/2017/04/29/us/29xp-quotes/29xp-quotes-articleInline.jpg
+BLOCKS START 4
+ENTITY: 11
+Politics and Government
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Florence Finch, Unsung War Hero Who Took On Japanese, Dies at 101
+https://www.nytimes.com/2017/04/28/us/florence-finch-dead-coast-guard-war-hero.html
+During World War II, Mrs. Finch quietly undermined Japan when it occupied the Philippines, and was tortured for it. Then she quietly raised a family in the United States.
+null
+BLOCKS START 7
+Deaths (Obituaries)
+ENTITY: 12
+Finch, Florence (1915-2017)
+Philippines
+Prisoners of War
+United States Coast Guard
+World War II (1939-45)
+BLOCKS END
+What Anthony Bourdain Can?t Travel Without
+https://www.nytimes.com/2017/04/26/travel/anthony-bourdain-foodie-travel-advice.html
+The host of ?Parts Unknown? always brings Moleskine notebooks, jujitsu uniforms and clothing that will work as a pillow.
+https://static01.nyt.com/images/2017/04/30/travel/30CARRYON1/30CARRYON1-articleInline.jpg
+BLOCKS START 3
+Bourdain, Anthony
+ENTITY: 13
+Travel and Vacations
+BLOCKS END
+There Is a Right Way to Wash Your Hair
+https://www.nytimes.com/2017/04/24/fashion/how-to-wash-your-hair.html
+Christophe Robin, the star Parisian colorist, explains how to shampoo for maximal volume and shine. He also has a neat trick or two.
+https://static01.nyt.com/images/2017/04/21/fashion/21-christophe-robin/21-christophe-robin-articleInline.jpg
+BLOCKS START 4
+ENTITY: 14
+Hair
+Robin, Christophe
+Shampoos and Hair Products
+BLOCKS END
+What I Wish I?d Known Before Moving in Together
+https://www.nytimes.com/2017/04/28/realestate/what-i-wish-id-known-before-moving-in-together.html
+Much less planning goes into cohabitation than into a wedding, but it is, in many ways, a bigger legal, financial and emotional step.
+https://static01.nyt.com/images/2017/04/30/realestate/30COHABITATION1/30COHABITATION1-articleInline.jpg
+BLOCKS START 4
+Dating and Relationships
+ENTITY: 15
+Real Estate and Housing (Residential)
+Renting and Leasing (Real Estate)
+BLOCKS END
+Trump Tax Plan Would Shift Trillions From U.S. Coffers to the Richest
+https://www.nytimes.com/2017/04/27/us/politics/individual-business-tax-wealth.html
+The vast majority of benefits would go to the highest earners and largest holders of wealth, analysts said, setting up a battle over the government?s strained resources.
+https://static01.nyt.com/images/2017/04/28/us/28wealth/28wealth-articleInline.jpg
+BLOCKS START 8
+Alternative Minimum Tax
+ENTITY: 16
+Federal Taxes (US)
+Income Tax
+Inheritance and Estate Taxes
+Tax Credits, Deductions and Exemptions
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+White House of Grifters
+https://www.nytimes.com/2017/04/28/opinion/white-house-of-grifters.html
+The Trump administration is a nepotistic operation that puts family interests ahead of country.
+https://static01.nyt.com/images/2017/04/28/opinion/28eganWeb/28eganWeb-articleInline.jpg
+BLOCKS START 7
+ENTITY: 17
+Mar-a-Lago (Palm Beach, Fla)
+Nepotism
+Trump, Donald J
+Trump, Ivanka
+United States
+United States Politics and Government
+BLOCKS END
+The Physics of Forbidden Love
+https://www.nytimes.com/2017/04/28/style/modern-love-the-physics-of-forbidden-love.html
+The winning essay from our Modern Love College Essay Contest explores an unlikely romance between a transgender man and an immigrant Indian woman.
+https://static01.nyt.com/images/2017/04/30/fashion/30ModLoveSUB/30ModLoveSUB-articleInline.jpg
+BLOCKS START 3
+Dating and Relationships
+ENTITY: 18
+Transgender and Transsexuals
+BLOCKS END
+Chinese Offer to Eat Denmark?s Oyster Problem to Extinction
+https://www.nytimes.com/2017/04/28/world/asia/china-oysters-denmark.html
+When the Danish Embassy in Beijing posted online about an invasive species clogging the shores back home, it drew a more enthusiastic response than it bargained for.
+https://static01.nyt.com/images/2017/04/29/world/29chinaoyster-1/29chinaoyster-1-articleInline.jpg
+BLOCKS START 5
+China
+Denmark
+ENTITY: 19
+Invasive Species
+Oysters
+BLOCKS END
+George Takei: Internment, America?s Great Mistake
+https://www.nytimes.com/2017/04/28/opinion/george-takei-japanese-internment-americas-great-mistake.html
+We must understand and honor the past in order to learn from and not repeat it.
+https://static01.nyt.com/images/2017/04/29/opinion/29takei/29takei-articleInline-v6.jpg
+BLOCKS START 6
+California
+ENTITY: 20
+Japanese-Americans
+Korematsu v United States (Supreme Court Decision)
+Muslim Americans
+United States Politics and Government
+BLOCKS END
+Fact-Checking President Trump Through His First 100 Days
+https://www.nytimes.com/2017/04/29/us/politics/fact-checking-president-trump-through-his-first-100-days.html
+In his first 100 days in office, President Trump has falsely boasted of attracting the largest inaugural crowd ever and leveled an unproved accusation that his predecessor spied on him.
+https://static01.nyt.com/images/2017/04/29/us/29factcheck1/29factcheck1-articleInline.jpg
+BLOCKS START 3
+ENTITY: 21
+Presidential Election of 2016
+Trump, Donald J
+BLOCKS END
+In Mexico, ?It?s Easy to Kill a Journalist?
+https://www.nytimes.com/2017/04/29/world/americas/veracruz-mexico-reporters-killed.html
+The state of Veracruz is the hemisphere?s most dangerous place to be a reporter. The authorities seem ill equipped to stop attacks on the press, and in some cases appear entangled in them.
+https://static01.nyt.com/images/2017/04/29/world/americas/MEXICO-JOURNALISTS-slide-MP7R/MEXICO-JOURNALISTS-slide-MP7R-articleInline.jpg
+BLOCKS START 11
+Corruption (Institutional)
+Drug Cartels
+ENTITY: 22
+Freedom of the Press
+Human Rights and Human Rights Violations
+Mexico
+Murders, Attempted Murders and Homicides
+News and News Media
+Police Brutality, Misconduct and Shootings
+Proceso (Magazine)
+Veracruz (Mexico)
+BLOCKS END
+At Samantha Bee?s ?White House? Dinner, Journalism Is Toasted as Trump Is Mocked
+https://www.nytimes.com/2017/04/29/arts/television/samantha-bee-not-white-house-correspondents-dinner.html
+The comedian?s ?Not The White House Correspondents? Dinner? was both an alternative to the dinner itself, and to a rally in Pennsylvania that Trump held instead of attending the dinner.
+https://static01.nyt.com/images/2017/04/29/arts/29sambeedinner/29sambeedinner-articleInline.jpg
+BLOCKS START 6
+Bee, Samantha
+ENTITY: 23
+Full Frontal With Samantha Bee (TV Program)
+News and News Media
+Trump, Donald J
+White House Correspondents Assn
+BLOCKS END
+A New North Korean Missile Test Ends in Failure
+https://www.nytimes.com/2017/04/28/world/asia/north-korea-missile-test.html
+It was the North?s first test since it launched a ballistic missile near its submarine base on North Korea?s east coast on April 16. That launch was also a failure.
+null
+BLOCKS START 4
+ENTITY: 24
+Missiles and Missile Defense Systems
+North Korea
+South Korea
+BLOCKS END
+G.D.P. Report Shows U.S. Economy Off to Slow Start in 2017
+https://www.nytimes.com/2017/04/28/business/economy/economy-gross-domestic-product-first-quarter.html
+The government said gross domestic product grew at an annual rate of 0.7 percent in the first quarter, a three-year low, as consumer spending let up.
+https://static01.nyt.com/images/2017/04/29/business/29econ/29econ-articleInline.jpg
+BLOCKS START 7
+Commerce Department
+Consumer Behavior
+ENTITY: 25
+Gross Domestic Product
+Trump, Donald J
+United States Economy
+United States Politics and Government
+BLOCKS END
+The Making of a Legacy: First Steps in the Trump Era
+https://www.nytimes.com/2017/04/29/us/politics/trump-presidency-accomplishments.html
+While his actions have produced few of the policy changes he had promised as a candidate, President Trump has moved to set the nation on a radically different course. Here is a look at his record to date.
+https://static01.nyt.com/images/2017/04/25/us/25trump/25trump-articleInline.jpg
+BLOCKS START 3
+ENTITY: 26
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Mr. Trump Goes to Washington
+https://www.nytimes.com/2017/04/28/opinion/donald-trump-goes-to-washington.html
+?The dysfunction in this White House,? a Republican who deals regularly with the Trump administration told me, ?just knows no bounds.?
+https://static01.nyt.com/images/2017/04/29/opinion/29wehnerWeb/29wehnerWeb-articleInline.jpg
+BLOCKS START 4
+ENTITY: 27
+Republican Party
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+United Airlines Reaches Settlement With Passenger Who Was Dragged Off Plane
+https://www.nytimes.com/2017/04/27/business/united-david-dao-settlement.html
+The arrangement includes a condition that the amount that Dr. David Dao will receive is to remain confidential.
+https://static01.nyt.com/images/2017/04/28/business/28xp-united/28xp-united-articleInline.jpg
+BLOCKS START 7
+Airlines and Airplanes
+Customer Relations
+Dao, David A (1948- )
+ENTITY: 28
+Munoz, Oscar (1959- )
+Suits and Litigation (Civil)
+United Airlines
+BLOCKS END
+?Friendly Fire? May Have Killed 2 U.S. Soldiers in Afghanistan Raid
+https://www.nytimes.com/2017/04/28/world/middleeast/american-soldiers-afghanistan.html
+The Pentagon is investigating the deaths of two Army Rangers during a raid targeting a leader of Islamic State militants in Afghanistan.
+https://static01.nyt.com/images/2017/04/29/world/29MILITARY/29MILITARY-articleInline.jpg
+BLOCKS START 7
+Accidents and Safety
+Afghanistan
+Deaths (Fatalities)
+Defense Department
+ENTITY: 29
+Islamic State in Iraq and Syria (ISIS)
+United States Army
+BLOCKS END
+(It?s Great to) Suck at Something
+https://www.nytimes.com/2017/04/28/opinion/its-great-to-suck-at-surfing.html
+I?m terrible at surfing. Then why do it? Because the freedom to fail without caring is revelatory.
+https://static01.nyt.com/images/2017/04/29/opinion/29sportingWeb/29sportingWeb-articleInline-v2.jpg
+BLOCKS START 2
+ENTITY: 30
+Surfing
+BLOCKS END
+Brazil Gripped by General Strike Over Austerity Measures
+https://www.nytimes.com/2017/04/28/world/americas/brazil-general-strike.html
+Tensions flared in Rio de Janeiro, with schools warning parents to keep students at home, security forces using tear gas and clashes erupting inside an airport.
+https://static01.nyt.com/images/2017/04/29/world/29brazil3-sub/29brazil3-sub-articleInline.jpg
+BLOCKS START 7
+Brazil
+Brazilian Democratic Movement Party
+ENTITY: 31
+Politics and Government
+Strikes
+Temer, Michel (1940- )
+Workers' Party (Brazil)
+BLOCKS END
+The Playlist: Katy Perry and Haim Reach for New Flavors
+https://www.nytimes.com/2017/04/28/arts/music/playlist-katy-perry-haim-dj-khaled.html
+Hear the week's most notable new songs, from a track off Willie Nelson's latest album to a bizarre song from Fall Out Boy.
+https://static01.nyt.com/images/2017/04/29/arts/29PLAYLIST/29PLAYLIST-articleInline.jpg
+BLOCKS START 14
+Audio Recordings, Downloads and Streaming
+Bieber, Justin
+Country Music
+DJ Khaled
+ENTITY: 32
+Fall Out Boy (Music Group)
+Haim (Music Group)
+Migos (Music Group)
+Music
+Nelson, Willie
+Perry, Katy
+Pop and Rock Music
+Rap and Hip-Hop
+Scott, Travis (1992- )
+BLOCKS END
+Living in the Trump Zone
+https://www.nytimes.com/2017/04/28/opinion/living-in-the-trump-zone.html
+We?re in a place and time where childish petulance drives policy.
+null
+BLOCKS START 7
+ENTITY: 33
+Federal Taxes (US)
+Health Insurance and Managed Care
+Income Tax
+Patient Protection and Affordable Care Act (2010)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Climate March Draws Thousands of Protesters Alarmed by Trump?s Environmental Agenda
+https://www.nytimes.com/2017/04/29/us/politics/peoples-climate-march-trump.html
+On the president?s 100th day in office, demonstrators descended on Washington in an attempt to drown out the administration?s climate change deniers.
+https://static01.nyt.com/images/2017/04/30/us/30CLIMATE-vid/30CLIMATE-vid-articleInline.jpg
+BLOCKS START 6
+Demonstrations, Protests and Riots
+ENTITY: 34
+Global Warming
+Pruitt, Scott
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Trump Savages News Media at Rally to Mark His 100th Day
+https://www.nytimes.com/2017/04/29/us/politics/trump-rally-pennsylvania.html
+President Trump returned to the populist themes of his campaign with a Pennsylvania rally held in lieu of attending the White House Correspondents? Association dinner.
+https://static01.nyt.com/images/2017/04/30/us/30trump-2/30trump-2-articleInline-v2.jpg
+BLOCKS START 6
+ENTITY: 35
+Harrisburg (Pa)
+News and News Media
+Trump, Donald J
+United States Politics and Government
+White House Correspondents Assn
+BLOCKS END
+100 Days of Noise From Donald Trump
+https://www.nytimes.com/2017/04/28/opinion/100-days-of-noise-from-donald-trump.html
+The Trump administration could play as comedy, if not for its vast capacity to harm the vulnerable.
+https://static01.nyt.com/images/2017/04/29/opinion/29sat1/29sat1-articleInline.jpg
+BLOCKS START 3
+ENTITY: 36
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Le Pen Aide Is Fired Over Holocaust Comments
+https://www.nytimes.com/2017/04/28/world/europe/le-pen-macron-holocaust-france-elections.html
+Jean-Fran?ois Jalkh was forced to step down as interim leader of the far-right National Front, the party of the presidential candidate Marine Le Pen.
+https://static01.nyt.com/images/2017/04/29/world/29france-1/29france-1-articleInline.jpg
+BLOCKS START 8
+ENTITY: 37
+Elections
+France
+Holocaust and the Nazi Era
+Jalkh, Jean-Francois
+Le Pen, Marine
+Macron, Emmanuel (1977- )
+National Front (France)
+BLOCKS END
+Hacker Leaks Episodes From Netflix Show and Threatens Other Networks
+https://www.nytimes.com/2017/04/29/business/media/netflix-hack-orange-is-the-new-black.html
+The hacker or hackers, known as ?thedarkoverlord,? demanded ransom after stealing 10 episodes of the next season of ?Orange Is the New Black.?
+https://static01.nyt.com/images/2017/04/30/us/30xp-netflix/30xp-netflix-articleInline.jpg
+BLOCKS START 9
+Computer Security
+Cyberattacks and Hackers
+ENTITY: 38
+Extortion and Blackmail
+Los Angeles (Calif)
+Netflix Inc
+Orange Is the New Black (TV Program)
+Robberies and Thefts
+Television
+BLOCKS END
+Can Facebook Fix Its Own Worst Bug?
+https://www.nytimes.com/2017/04/25/magazine/can-facebook-fix-its-own-worst-bug.html
+Mark Zuckerberg now acknowledges the dangerous side of the social revolution he helped start. But is the most powerful tool for connection in human history capable of adapting to the world it created?
+https://static01.nyt.com/images/2017/04/30/magazine/30facebook-cov/30cover-articleInline.jpg
+BLOCKS START 8
+Computers and the Internet
+ENTITY: 39
+Facebook Inc
+News and News Media
+Presidential Election of 2016
+Rumors and Misinformation
+Social Media
+The Filter Bubble (Book)
+BLOCKS END
+Review: In ?The Circle,? Click Here if You Think You?re Being Watched
+https://www.nytimes.com/2017/04/27/movies/the-circle-review-emma-watson-tom-hanks.html
+Emma Watson and Tom Hanks star in this adaptation of a Dave Eggers novel that explores surveillance-state threats.
+https://static01.nyt.com/images/2017/04/28/arts/28CIRCLE1/28CIRCLE1-articleInline.jpg
+BLOCKS START 9
+Coltrane, Ellar
+ENTITY: 40
+Eggers, Dave
+Hanks, Tom
+Movies
+Paxton, Bill
+Ponsoldt, James
+The Circle (Movie)
+Watson, Emma
+BLOCKS END
+To Stay Married, Embrace Change
+https://www.nytimes.com/2017/04/21/style/modern-love-to-stay-married-embrace-change.html
+It?s unrealistic to expect your spouse to forever remain the same person you fell in love with.
+https://static01.nyt.com/images/2017/04/24/pageoneplus/24A3_conversation/23LOVE-articleInline.jpg
+BLOCKS START 2
+ENTITY: 41
+Marriages
+BLOCKS END
+Judging Love at the ?Seinfeld? Diner
+https://www.nytimes.com/2017/04/28/insider/judging-love-at-the-seinfeld-diner.html
+Inside the process of choosing a winner for the Modern Love college essay contest, which received nearly 2,000 submissions.
+https://static01.nyt.com/images/2017/04/30/pageoneplus/30-Insider-ModernLove-Article/30-Insider-ModernLove-Article-articleInline.jpg
+BLOCKS START 6
+College Essay Contest
+ENTITY: 42
+Modern Love (Times Column)
+Monk's Diner
+Seinfeld (TV Program)
+Tom's Restaurant
+BLOCKS END
+Review: ?The Handmaid?s Tale? Creates a Chilling Man?s World
+https://www.nytimes.com/2017/04/24/arts/television/review-the-handmaids-tale-creates-a-chilling-mans-world.html
+This new Hulu show is based on the 1985 Margaret Atwood dystopian novel that feels scarily current.
+https://static01.nyt.com/images/2017/04/25/watching/25handmaid1/26handmaid1-articleInline.jpg
+BLOCKS START 8
+Atwood, Margaret
+Bledel, Alexis
+ENTITY: 43
+Fiennes, Joseph
+Hulu.com
+Moss, Elisabeth
+Television
+The Handmaid's Tale (TV Program)
+BLOCKS END
+Congress Prevents Government From Shutting Down on Trump?s 100th Day
+https://www.nytimes.com/2017/04/28/us/politics/congress-government-funding-stopgap.html
+A measure approved on Friday will sustain government operations for a week, giving lawmakers more time to negotiate a long-term spending package.
+https://static01.nyt.com/images/2017/04/29/us/29cong/29cong-articleInline.jpg
+BLOCKS START 7
+ENTITY: 44
+Federal Budget (US)
+House of Representatives
+Republican Party
+Shutdowns (Institutional)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Trump on North Korea: Tactic? ?Madman Theory?? Or Just Mixed Messages?
+https://www.nytimes.com/2017/04/28/world/asia/trump-kim-jong-un-north-korean.html
+The White House has been sending different signals to Kim Jong-un, a master at keeping his adversaries unsettled.
+https://static01.nyt.com/images/2017/04/29/world/29assess/29assess-articleInline-v3.jpg
+BLOCKS START 6
+ENTITY: 45
+Kim Jong-un
+North Korea
+Nuclear Tests
+Trump, Donald J
+United States International Relations
+BLOCKS END
+The Other Side of Anne of Green Gables
+https://www.nytimes.com/2017/04/27/magazine/the-other-side-of-anne-of-green-gables.html
+A new Netflix series aims to explore the trauma behind the heroine. Is there a risk to rewriting a beloved book?
+https://static01.nyt.com/images/2017/04/30/magazine/30anneofgg1-copy/30anneofgg1-articleInline.jpg
+BLOCKS START 8
+Anne With an E (TV Program)
+Anne of Green Gables (Book)
+Child Abuse and Neglect
+ENTITY: 46
+Netflix Inc
+Television
+Walley-Beckett, Moira
+Women and Girls
+BLOCKS END
+Review: ?Casting JonBenet? Revisits a 1996 Murder
+https://www.nytimes.com/2017/04/27/movies/casting-jonbenet-review-jonbenet-ramsey.html
+In a conceptual exercise, actors audition for roles in the celebrated case as a way of showing how people are still preoccupied by it.
+https://static01.nyt.com/images/2017/04/28/arts/28casting1/28casting1-articleInline.jpg
+BLOCKS START 6
+Casting JonBenet (Movie)
+Documentary Films and Programs
+ENTITY: 47
+Green, Kitty
+Murders, Attempted Murders and Homicides
+Ramsey, JonBenet
+BLOCKS END
+In Harper Lee?s Letters: Books, Fame and a ?Lying? Capote
+https://www.nytimes.com/2017/04/28/arts/in-harper-lees-letters-books-fame-and-a-lying-capote.html
+Wayne Flynt, a friend of Ms. Lee, has written a book, ?Mockingbird Songs,? in which he shares thoughts and correspondence regarding the literary enigma.
+https://static01.nyt.com/images/2017/04/28/arts/29LEEBOOK8/29BOOKLEE8-articleInline.jpg
+BLOCKS START 6
+Books and Literature
+ENTITY: 48
+Flynt, Wayne (1940- )
+Lee, Harper
+Mockingbird Songs: My Friendship With Harper Lee (Book)
+Writing and Writers
+BLOCKS END
+Lessons From 100 Days of President Trump
+https://www.nytimes.com/2017/04/29/opinion/sunday/lessons-from-100-days-of-president-trump.html
+The Republic stands, but it?s a long time until noon Jan. 20, 2021.
+https://static01.nyt.com/images/2017/04/30/opinion/sunday/30Kristof-1493415896923/30Kristof-1493415896923-articleInline.jpg
+BLOCKS START 5
+ENTITY: 49
+Presidential Election of 2016
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+The Best Thing to Eat Before a Workout? Maybe Nothing at All
+https://www.nytimes.com/2017/04/26/well/move/the-best-thing-to-eat-before-a-workout-maybe-nothing-at-all.html
+Fasting before exercise may have beneficial effects on fat cells.
+https://static01.nyt.com/images/2017/04/25/well/physed-eat/physed-eat-articleInline-v2.jpg
+BLOCKS START 5
+ENTITY: 50
+Exercise
+Fasting
+Genetics and Heredity
+Weight
+BLOCKS END
+10 Things to Do in NYC Now
+https://www.nytimes.com/2017/04/28/arts/things-to-do-in-nyc-marilyn-minter-diana-ross.html
+It?s a big city, with plenty to do, see, hear and watch. Here?s a sampling of cultural highlights this weekend and over the week ahead.
+null
+BLOCKS START 2
+Culture (Arts)
+ENTITY: 51
+BLOCKS END
+Pope Francis Urges U.S. and North Korea to Step Away from the Brink
+https://www.nytimes.com/2017/04/29/world/middleeast/pope-francis-egypt.html
+The pope, returning to Rome from a two-day trip to Egypt, says a nuclear conflict could be disastrous for ?the future of humanity.?
+https://static01.nyt.com/images/2017/04/30/world/30POPE/30POPE-articleInline.jpg
+BLOCKS START 9
+Cairo (Egypt)
+ENTITY: 52
+Egypt
+Francis
+North Korea
+Roman Catholic Church
+Trump, Donald J
+United States
+United States Politics and Government
+BLOCKS END
+Risen From the Grave, Keystone XL Pipeline Again Divides Nebraska
+https://www.nytimes.com/2017/04/27/us/keystone-pipeline-nebraska.html
+Despite President Trump?s support of Keystone XL, state regulators still have say over the route. Some landowners see the pipeline as a threat to their water, farms and history.
+https://static01.nyt.com/images/2017/04/14/us/KEYSTONE-DIPTYCH1/KEYSTONE-DIPTYCH1-articleInline.jpg
+BLOCKS START 5
+ENTITY: 53
+Keystone Pipeline System
+Nebraska
+Pipelines
+TransCanada Corporation
+BLOCKS END
+N.S.A. Halts Collection of Americans? Emails About Foreign Targets
+https://www.nytimes.com/2017/04/28/us/politics/nsa-surveillance-terrorism-privacy.html
+The National Security Agency program was one of the most disputed forms of surveillance.
+https://static01.nyt.com/images/2017/04/29/us/29nsa/29nsa-articleInline.jpg
+BLOCKS START 5
+ENTITY: 54
+Espionage and Intelligence Services
+National Security Agency
+Privacy
+Surveillance of Citizens by Government
+BLOCKS END
+Pope Francis, in Egypt, Delivers a Blunt Message on Violence and Religion
+https://www.nytimes.com/2017/04/28/world/middleeast/pope-francis-muslims-egypt.html
+The pope warned against wrapping violence and terror in the language of religion and urged the Egyptian president toward progress on human rights.
+https://static01.nyt.com/images/2017/04/29/world/29pope1/29pope1-articleInline.jpg
+BLOCKS START 9
+Coptic Orthodox Church of Alexandria
+ENTITY: 55
+Egypt
+Francis
+Human Rights and Human Rights Violations
+Muslims and Islam
+Roman Catholic Church
+Sisi, Abdel Fattah el-
+Terrorism
+BLOCKS END
+In Early Going, the Yankees Steal the Mets? Thunder
+https://www.nytimes.com/2017/04/28/sports/baseball/new-york-mets-yankees.html
+Before the season, the Mets were regarded as the team of today, while the Yankees were seen as building for the future. So far this season, it has not worked out that way.
+https://static01.nyt.com/images/2017/04/29/sports/29KEPNER/29KEPNER-articleInline.jpg
+BLOCKS START 4
+Baseball
+ENTITY: 56
+New York Mets
+New York Yankees
+BLOCKS END
+Congress at 100 Days: Frenetic Action but Few Accomplishments
+https://www.nytimes.com/2017/04/28/us/politics/congress-100-days-trump.html
+Partisanship and a chaotic White House have combined to undermine the opportunity for Republicans to enact the legislation they have long desired.
+https://static01.nyt.com/images/2017/04/29/us/29memo1/29memo1-articleInline.jpg
+BLOCKS START 8
+ENTITY: 57
+Law and Legislation
+McConnell, Mitch
+Republican Party
+Schumer, Charles E
+Trump, Donald J
+United States
+United States Politics and Government
+BLOCKS END
+In Connecticut Murder Case, a Fitbit Is a Silent Witness
+https://www.nytimes.com/2017/04/27/nyregion/in-connecticut-murder-case-a-fitbit-is-a-silent-witness.html
+Richard Dabate was charged in his wife?s 2015 death after investigators say they found a contradiction between his story and her exercise tracker?s data.
+https://static01.nyt.com/images/2017/04/26/us/27xp-fitbit/27xp-fitbit-articleInline.jpg
+BLOCKS START 5
+ENTITY: 58
+Fitbit
+Garmin Ltd
+Murders, Attempted Murders and Homicides
+Wearable Computing
+BLOCKS END
+Right and Left: Partisan Writing You Shouldn?t Miss
+https://www.nytimes.com/2017/04/28/us/politics/right-and-left-partisan-writing-you-shouldnt-miss.html
+Read how the other side thinks: Debating the resonance of ?The Handmaid?s Tale,? why the left should tolerate anti-abortion Democrats and why the media bubble is worse than you thought.
+https://static01.nyt.com/images/2017/04/29/us/politics/29partisan-picks-handmaids/29partisan-picks-handmaids-articleInline.jpg
+BLOCKS START 8
+Abortion
+Atwood, Margaret
+Colleges and Universities
+ENTITY: 59
+Freedom of Speech and Expression
+Taxation
+The Handmaid's Tale (TV Program)
+United States Politics and Government
+BLOCKS END
+Jesse Watters of Fox Announces Vacation After Ivanka Trump Comment
+https://www.nytimes.com/2017/04/27/business/media/jesse-watters-ivanka-trump.html
+A Fox News spokeswoman would not say whether the vacation was planned before the host made what some saw as a lewd joke about Ms. Trump.
+https://static01.nyt.com/images/2017/04/28/business/28watters/28xp-watters-sub1-articleInline.jpg
+BLOCKS START 5
+ENTITY: 60
+Fox News Channel
+Television
+Trump, Ivanka
+Watters, Jesse
+BLOCKS END
+Shobha Nehru, Who Escaped Holocaust and Married Into Indian Politics, Dies at 108
+https://www.nytimes.com/2017/04/28/world/asia/shobha-nehru-death.html
+After marrying B.K. Nehru in 1935 and moving to India, Mrs. Nehru saw religious and ethnic violence convulse both her native and adopted countries.
+https://static01.nyt.com/images/2017/04/29/world/29NEHRU-obit/29NEHRU-obit-articleInline.jpg
+BLOCKS START 6
+Deaths (Obituaries)
+ENTITY: 61
+Hungary
+India
+Jews and Judaism
+Nehru, Shobha Magdolna Friedmann (1908-2017)
+BLOCKS END
+Skipping the College Tour
+https://www.nytimes.com/2017/04/26/well/family/skipping-the-college-tour.html
+Researchers say talking to people who have been through an experience leads to better decisions.
+https://static01.nyt.com/images/2017/04/17/science/well-family-college/well-family-college-articleInline.jpg
+BLOCKS START 6
+Admissions Standards
+Colleges and Universities
+ENTITY: 62
+Education (K-12)
+Happiness
+Teenagers and Adolescence
+BLOCKS END
+These Guys Really Like Trump
+https://www.nytimes.com/2017/04/29/sunday-review/these-guys-really-like-trump.html
+It?s only been 100 days. Give him time, they say.
+https://static01.nyt.com/images/2017/04/30/opinion/sunday/30chira/30chira-articleInline.jpg
+BLOCKS START 6
+Ambridge (Pa)
+ENTITY: 63
+Layoffs and Job Reductions
+Pittsburgh (Pa)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+3 New Bridges Rise in New York, With Looks That Could Stop Traffic
+https://www.nytimes.com/2017/04/27/nyregion/3-new-bridges-rise-in-new-york-with-looks-that-could-stop-traffic.html
+The home of past-century wonders like the Brooklyn Bridge returns to building cable-stayed bridges, which are designed to ?stand the test of time.?
+https://static01.nyt.com/images/2017/04/28/nyregion/28CABLE1/28CABLE1-articleInline.jpg
+BLOCKS START 11
+Bridges and Tunnels
+Brooklyn-Queens Expressway
+Cuomo, Andrew M
+ENTITY: 64
+Goethals Bridge
+Kosciuszko Bridge (NYC)
+New York Metropolitan Area
+Newtown Creek (Brooklyn-Queens, NY)
+Roads and Traffic
+Skanska USA
+Tappan Zee Bridge
+BLOCKS END
+Diet Sodas Tied to Dementia and Stroke
+https://www.nytimes.com/2017/04/26/well/diet-sodas-tied-to-dementia-and-stroke.html
+People who drank one to six artificially sweetened drinks a week had a higher risk of stroke or dementia.
+https://static01.nyt.com/images/2016/09/14/well/well_pog_eat/well_pog_eat-articleInline-v2.png
+BLOCKS START 4
+Dementia
+ENTITY: 65
+Soft Drinks
+Stroke
+BLOCKS END
+The Pond-Skater Presidency
+https://www.nytimes.com/2017/04/28/opinion/the-pond-skater-presidency.html
+Trump is like one of those creatures that skim on the surface, having little effect.
+https://static01.nyt.com/images/2017/04/28/opinion/28brooksWeb/28brooksWeb-articleInline.jpg
+BLOCKS START 3
+ENTITY: 66
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+ESPN Layoffs: The Struggling Industry Giant Sheds On-Air Talent
+https://www.nytimes.com/2017/04/26/sports/espn-layoffs.html
+Trent Dilfer, Jayson Stark and Ed Werder were among the numerous big names laid off.
+https://static01.nyt.com/images/2017/04/27/sports/27ESPN2/27ESPN2-articleInline.jpg
+BLOCKS START 8
+Athletics and Sports
+Dilfer, Trent
+ENTITY: 67
+ESPN
+Kanell, Danny
+Layoffs and Job Reductions
+News and News Media
+Television
+BLOCKS END
+Meet the People Who Train the Robots (to Do Their Own Jobs)
+https://www.nytimes.com/2017/04/28/technology/meet-the-people-who-train-the-robots-to-do-their-own-jobs.html
+Before the machines become smart enough to replace humans, as some people fear, they need to be taught.
+https://static01.nyt.com/images/2017/04/30/business/30AITRAIN1sub/30AITRAIN1sub-articleInline.jpg
+BLOCKS START 3
+Artificial Intelligence
+ENTITY: 68
+Robots and Robotics
+BLOCKS END
+Family by Family, How School Segregation Still Happens
+https://www.nytimes.com/2017/04/28/nyregion/school-segregation-nyc-district-3.html
+Decisions in a district in Upper Manhattan offer a look at a persistent problem in public education that, for now, is without a solution.
+https://static01.nyt.com/images/2017/04/30/nyregion/30DISTRICT1/30DISTRICT1-articleInline-v3.jpg
+BLOCKS START 5
+ENTITY: 69
+Education (K-12)
+Hispanic-Americans
+Morningside Heights (Manhattan, NY)
+Race and Ethnicity
+BLOCKS END
+Why Your Next Wi-Fi Setup Should Be a Mesh Network
+https://www.nytimes.com/2017/04/26/technology/personaltech/mesh-network-vs-router.html
+Unlike stand-alone routers that lose signal the farther you move away from them, mesh stations piggyback on one another to create a continuous wireless link.
+https://static01.nyt.com/images/2017/04/27/technology/personaltech/27Techfix-illo/27Techfix-illo-articleInline.jpg
+BLOCKS START 8
+ENTITY: 70
+Eero Inc
+Google Inc
+Google Wifi
+Mobile Applications
+NetGear Inc
+Orbi
+Wireless Communications
+BLOCKS END
+He Discovered the Secret to Living Rent-Free
+https://www.nytimes.com/2017/04/28/realestate/he-discovered-the-secret-to-living-rent-free.html
+John McGill came to New York from Dublin in 1982, and for much of his time in the city he has paid rent with handyman skills, woodworking and art.
+https://static01.nyt.com/images/2017/04/30/realestate/30RENTERS-WEB/30RENTERS-WEB-articleInline.jpg
+BLOCKS START 4
+Barter
+ENTITY: 71
+Red Hook (Brooklyn, NY)
+Renting and Leasing (Real Estate)
+BLOCKS END
+State Department Wants to Clear Nikki Haley?s Remarks Before She Speaks
+https://www.nytimes.com/2017/04/27/world/americas/state-department-united-nations-ambassador.html
+An email drafted by State Department diplomats is an apparent attempt to get the U.N. ambassador and the secretary of state on the same page.
+https://static01.nyt.com/images/2017/04/28/world/28nations-1/28nations-1-articleInline.jpg
+BLOCKS START 8
+ENTITY: 72
+Haley, Nikki R
+Security Council (UN)
+Tillerson, Rex W
+Trump, Donald J
+United Nations
+United States International Relations
+United States Politics and Government
+BLOCKS END
+2 Choate Life Trustees Resign Amid Sexual Abuse Investigation
+https://www.nytimes.com/2017/04/28/nyregion/choate-life-trustees-resign-sex-abuse.html
+The former headmasters left their emeritus positions after a report detailed allegations that teachers at the elite Connecticut boarding school had abused students.
+https://static01.nyt.com/images/2017/04/29/nyregion/29CHOATE/29CHOATE-articleInline.jpg
+BLOCKS START 6
+Child Abuse and Neglect
+Choate Rosemary Hall
+Dey, Charles F
+ENTITY: 73
+Sex Crimes
+Shanahan, Edward J
+BLOCKS END
+Vouchers Found to Lower Test Scores in Washington Schools
+https://www.nytimes.com/2017/04/28/us/politics/school-choice-betsy-devos.html
+An Education Department study found that students who switched to private schools under the system had lower results than their peers, but found their new schools safer by a large margin.
+https://static01.nyt.com/images/2017/04/29/us/29choice1/29choice1-articleInline.jpg
+BLOCKS START 12
+Boehner, John A
+DeVos, Elizabeth (1958- )
+ENTITY: 74
+Education (K-12)
+Law and Legislation
+Private and Sectarian Schools
+Reading and Writing Skills (Education)
+Tests and Examinations
+Trump, Donald J
+United States Politics and Government
+Vouchers
+Washington (DC)
+BLOCKS END
+Sean Hannity Defends Executive as Fox News Turmoil Continues
+https://www.nytimes.com/2017/04/27/business/media/fox-news-sean-hannity-bill-shine.html
+Mr. Hannity said on Twitter that someone at the network was trying to fire its co-president Bill Shine, whom he called ?an innocent person.?
+https://static01.nyt.com/images/2017/04/28/business/28Fox/28Fox-articleInline.jpg
+BLOCKS START 6
+Ailes, Roger E
+ENTITY: 75
+Fox News Channel
+Hannity, Sean
+O'Reilly, Bill
+Shine, William J (1963- )
+BLOCKS END
+Vito Acconci, Performance Artist and Uncommon Architect, Dies at 77
+https://www.nytimes.com/2017/04/28/arts/design/vito-acconci-dead-performance-artist.html
+Mr. Acconci made a radical career turn in the 1970s, when he abandoned the gallery world and remade himself as an architect.
+https://static01.nyt.com/images/2017/04/29/arts/29acconci-obit-1/29acconci-obit-1-articleInline-v2.jpg
+BLOCKS START 5
+Acconci, Vito
+Architecture
+Art
+Deaths (Obituaries)
+ENTITY: 76
+BLOCKS END
+John Mayer Knows He Messed Up. He Wants Another Chance.
+https://www.nytimes.com/2017/03/23/arts/music/john-mayer-search-for-everything-interview.html
+After more than five years of self-imposed pop exile, this guitar virtuoso wants another blockbuster album. Then he hopes to settle down.
+https://static01.nyt.com/images/2017/03/26/arts/26MAYER1/26MAYER1-articleInline.jpg
+BLOCKS START 4
+ENTITY: 77
+Mayer, John
+Pop and Rock Music
+The Search for Everything (Album)
+BLOCKS END
+Sheryl Sandberg: How to Build Resilient Kids, Even After a Loss
+https://www.nytimes.com/2017/04/24/opinion/sheryl-sandberg-how-to-build-resilient-kids-even-after-a-loss.html
+After my husband?s death, I set out to learn everything I could about how kids persevere through adversity.
+https://static01.nyt.com/images/2017/04/24/opinion/24sandberg/24sandberg-articleInline.jpg
+BLOCKS START 5
+Children and Childhood
+ENTITY: 78
+Emotions
+Grief (Emotion)
+Parenting
+BLOCKS END
+Jim DeMint Is Said to Be Out at Heritage Foundation
+https://www.nytimes.com/2017/04/28/us/politics/jim-demint-heritage-foundation-.html
+The anticipated shake-up comes at an inopportune time for the group, with several major pieces of conservative legislation on the agenda in Congress.
+https://static01.nyt.com/images/2017/04/29/us/29heritage/29heritage-articleInline.jpg
+BLOCKS START 5
+Conservatism (US Politics)
+DeMint, Jim
+ENTITY: 79
+Heritage Action for America
+United States Politics and Government
+BLOCKS END
+Donald Trump?s One Awful Accomplishment
+https://www.nytimes.com/2017/04/29/opinion/sunday/donald-trumps-one-awful-accomplishment.html
+In the world?s biggest office, he has modeled a whole new smallness.
+null
+BLOCKS START 6
+Conway, Kellyanne
+Customs, Etiquette and Manners
+ENTITY: 80
+Presidential Election of 2016
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Remembering the World?s Oldest Person, in the Objects She Left Behind
+https://www.nytimes.com/2017/04/21/world/europe/emma-morano-world-oldest-woman.html
+Emma Morano?s singular achievement in life may have been perseverance. She lived for 117 years, crediting her longevity to raw eggs and her lack of a husband. She died on April 15.
+https://static01.nyt.com/images/2017/04/20/world/europe/Morano-slide-7M40/Morano-slide-7M40-articleInline.jpg
+BLOCKS START 5
+ENTITY: 81
+Italy
+Longevity
+Morano, Emma (1899- )
+Piedmont (Italy)
+BLOCKS END
+Thousands of Russians Present Letters of Protest in Demonstrations
+https://www.nytimes.com/2017/04/29/world/europe/russia-protests-anticorruption-open-russia.html
+The protests were initiated by the Open Russia organization founded by Mikhail B. Khodorkovsky, an exiled former oil tycoon.
+https://static01.nyt.com/images/2017/04/30/world/RUSSIA1/RUSSIA1-articleInline.jpg
+BLOCKS START 7
+Demonstrations, Protests and Riots
+ENTITY: 82
+Khodorkovsky, Mikhail B
+Navalny, Aleksei A
+Open Russia
+Putin, Vladimir V
+Russia
+BLOCKS END
+Trump Tells N.R.A. Convention, ?I Am Going to Come Through for You?
+https://www.nytimes.com/2017/04/28/us/politics/donald-trump-nra.html
+He became the first sitting president since Ronald Reagan to address the gathering of the gun-rights group, which spent over $30 million to help get him elected.
+https://static01.nyt.com/images/2017/04/29/us/29trump1/29trump1-articleInline.jpg
+BLOCKS START 10
+Conventions, Fairs and Trade Shows
+ENTITY: 83
+Elections, House of Representatives
+Georgia
+Gun Control
+Handel, Karen C
+National Rifle Assn
+Ossoff, Jon
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+America, From Exceptionalism to Nihilism
+https://www.nytimes.com/2017/04/28/opinion/america-from-exceptionalism-to-nihilism.html
+The U.S. leads the free world in its helplessness before the dissolution of its most cherished values.
+https://static01.nyt.com/images/2017/04/29/opinion/29mishra-inyt-web/29mishra-inyt-web-articleInline-v2.jpg
+BLOCKS START 3
+ENTITY: 84
+Social Conditions and Trends
+United States
+BLOCKS END
+Genoa Isn?t Rome or Florence. That?s Part of Its Charm.
+https://www.nytimes.com/2017/04/25/travel/genoa-italy-charm-alternative-rome-florence-venice.html
+The author has prowled the streets of the Italian city for over 15 years, wondering the whole time why there are so few other people doing the same thing.
+https://static01.nyt.com/images/2017/04/30/travel/30GENOA6/30GENOA6-articleInline.jpg
+BLOCKS START 3
+ENTITY: 85
+Genoa (Italy)
+Travel and Vacations
+BLOCKS END
+N.F.L. Draft: Analysis of Every Pick in Round 1
+https://www.nytimes.com/2017/04/27/sports/nfl-draft-round-1.html
+The Browns took defensive end Myles Garrett with the top overall pick. Here?s a look at how each team fared in the first round.
+https://static01.nyt.com/images/2017/04/28/sports/27draftwatson/27draftwatson-articleInline-v3.jpg
+BLOCKS START 4
+Draft and Recruitment (Sports)
+ENTITY: 86
+Football
+National Football League
+BLOCKS END
+Seeking More Voices, Even if Some Don?t Want to Hear Them
+https://www.nytimes.com/2017/04/22/public-editor/seeking-more-voices-even-if-some-dont-want-to-hear-them.html
+After the election, The Times promised to include more viewpoints in its report. It has, but some readers have not embraced it.
+https://static01.nyt.com/images/2017/04/23/opinion/sunday/23pubed/23pubed-articleInline.jpg
+BLOCKS START 5
+Barbaro, Michael
+Bennet, James
+ENTITY: 87
+New York Times
+News and News Media
+BLOCKS END
+Shortage of Auto Mechanics Has Dealerships Taking Action
+https://www.nytimes.com/2017/04/27/automobiles/wheels/automobile-repair-jobs.html
+Car companies have had to create special training and hiring programs to meet the need, and the jobs that are available can pay handsomely.
+https://static01.nyt.com/images/2017/04/27/business/28WHEELS-1/28WHEELS-1-articleInline.jpg
+BLOCKS START 10
+Automobile Service and Charging Stations
+Automobiles
+Bayerische Motorenwerke AG
+ENTITY: 88
+Fiat Chrysler Automobiles NV
+Labor and Jobs
+Lincoln Motor Co
+National Automobile Dealers Assn
+Vocational Training
+Youth
+BLOCKS END
+Winners and Losers in the Trump Tax Plan
+https://www.nytimes.com/2017/04/26/upshot/winners-and-losers-in-the-trump-tax-plan.html
+The plan lacks many details, but one group of losers seems to be upper-middle-income people in blue states.
+https://static01.nyt.com/images/2017/04/26/upshot/up-tax-promo/up-tax-promo-articleInline.png
+BLOCKS START 7
+California
+Corporate Taxes
+ENTITY: 89
+Federal Taxes (US)
+Income Tax
+Tax Credits, Deductions and Exemptions
+Trump, Donald J
+BLOCKS END
+Jesse Watters of Fox Denies His Ivanka Trump Comment Was Lewd
+https://www.nytimes.com/2017/04/26/business/media/jesse-watters-of-fox-denies-his-ivanka-trump-comment-was-lewd.html
+The Bill O?Reilly prot?g?, who has been criticized for other broadcasts, finds himself under fire again.
+https://static01.nyt.com/images/2017/04/26/us/27xp-watters/27xp-watters-articleInline-v2.jpg
+BLOCKS START 6
+ENTITY: 90
+Fox News Channel
+O'Reilly, Bill
+Sexual Harassment
+Trump, Ivanka
+Watters, Jesse
+BLOCKS END
+Review: ?Dear White People,? the TV Version, Improves on the Strong Movie
+https://www.nytimes.com/2017/04/27/arts/television/dear-white-people-netflix-review.html
+This new Netflix comedy?s strength is its confident, consistent voice, even though its rapid-fire jokes don?t all land.
+null
+BLOCKS START 7
+Bowser, Yvette Lee
+Browning, Logan (1989- )
+Dear White People (TV Program)
+ENTITY: 91
+Netflix Inc
+Simien, Justin
+Television
+BLOCKS END
+Only Captivity Will Save the Vaquita, Experts Say
+https://www.nytimes.com/2017/04/27/world/americas/only-captivity-will-save-the-vaquita-experts-say.html
+Scientists say that efforts to save the small porpoise in the Gulf of California have essentially failed, and some believe there may be only two or three left.
+https://static01.nyt.com/images/2017/04/27/world/28vaquita/28vaquita-articleInline.jpg
+BLOCKS START 6
+Conservation of Resources
+Dolphins and Porpoises
+ENTITY: 92
+Endangered and Extinct Species
+Gulf of California (Mexico)
+Vaquita
+BLOCKS END
+Is There a Case for Le Pen?
+https://www.nytimes.com/2017/04/29/opinion/sunday/is-there-a-case-for-le-pen.html
+Why France?s populist tribune is different from Donald Trump.
+https://static01.nyt.com/images/2017/04/30/opinion/sunday/30douthat/30douthat-articleInline.jpg
+BLOCKS START 6
+ENTITY: 93
+European Union
+France
+Le Pen, Marine
+National Front (France)
+Politics and Government
+BLOCKS END
+Justices Alarmed by Government?s Hard-Line Stance in Citizenship Case
+https://www.nytimes.com/2017/04/26/us/politics/supreme-court-naturalization.html
+The Justice Department argued that lies, even trivial ones, in naturalization proceedings should allow the government to revoke someone?s citizenship.
+https://static01.nyt.com/images/2017/04/27/us/27scotus2-web/27scotus2-web-articleInline.jpg
+BLOCKS START 5
+Citizenship and Naturalization
+ENTITY: 94
+Supreme Court (US)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+If Mars Is Colonized, We May Not Need to Ship In the Bricks
+https://www.nytimes.com/2017/04/28/science/mars-soil-bricks.html
+A new study suggests the material humanity needs to one day construct structures on Mars may already exist within the red planet?s desolate soil.
+https://static01.nyt.com/images/2017/04/29/science/29tb-mars_promo/29tb-mars_promo-articleInline.jpg
+BLOCKS START 7
+Brick and Tile
+ENTITY: 95
+Geology
+Mars (Planet)
+Qiao, Yu
+Scientific Reports (Journal)
+Soil
+BLOCKS END
+Forget Netflix and Chill. Try Pure Flix and Pray.
+https://www.nytimes.com/2017/04/22/style/forget-netflix-and-chill-try-pure-flix-and-pray.html
+A faith-based entertainment company is making a bid for the mainstream with movies like ?The Case For Christ? and binge-able television and web series.
+https://static01.nyt.com/images/2017/04/23/fashion/23PUREFLIXJP1/23PUREFLIXJP1-articleInline.jpg
+BLOCKS START 6
+Christians and Christianity
+ENTITY: 96
+Movies
+The Case for Christ (Movie)
+Web-Original Programming
+White, David A R
+BLOCKS END
+Last in the N.F.L. Draft, but Getting More Relevant All the Time
+https://www.nytimes.com/2017/04/29/sports/football/mr-irrelevant-nfl.html
+As the league has ratcheted up its annual picks into a big television show, even Mr. Irrelevant is gaining stature.
+https://static01.nyt.com/images/2017/04/30/sports/30irrelevant1/30irrelevant1-articleInline.jpg
+BLOCKS START 5
+Draft and Recruitment (Sports)
+ENTITY: 97
+Football
+National Football League
+Salata, Paul (1926- )
+BLOCKS END
+White House Proposes Slashing Tax Rates, Significantly Aiding Wealthy
+https://www.nytimes.com/2017/04/26/us/politics/trump-tax-cut-plan.html
+President Trump on Wednesday proposed sharp reductions in both individual and corporate income tax rates, and also called for the elimination of most itemized tax deductions.
+https://static01.nyt.com/images/2017/04/27/us/27TAXES-sub/27TAXES-sub-articleInline.jpg
+BLOCKS START 6
+ENTITY: 98
+Federal Budget (US)
+Federal Taxes (US)
+Income Tax
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+A Day in the Life of a Food Vendor
+https://www.nytimes.com/2017/04/18/dining/halal-cart-food-vendor-new-york-city.html
+The vendors are a fixture of New York streets and appetites, yet they struggle daily with weather, logistics and rules. Here?s the story of one.
+https://static01.nyt.com/images/2017/04/11/dining/19halal-2/19halal-2-articleInline.jpg
+BLOCKS START 6
+Ahmed, Kabir (1970- )
+ENTITY: 99
+Financial District (Manhattan, NY)
+Food Trucks and Vendors
+Halal Foods and Products
+New York City
+BLOCKS END

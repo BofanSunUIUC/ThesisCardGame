@@ -1,0 +1,1108 @@
+100
+The Best Exercise for Aging Muscles
+http://www.nytimes.com/2017/03/23/well/move/the-best-exercise-for-aging-muscles.html
+Certain kinds of exercise may mitigate the effects of aging at the cellular level.
+https://static01.nyt.com/images/2017/03/26/magazine/26well/26mag-26well-t_CA0-articleInline.jpg
+BLOCKS START 4
+ENTITY: 0
+Exercise
+Genetics and Heredity
+Muscles
+BLOCKS END
+How to Get a Good Night?s Sleep
+http://www.nytimes.com/interactive/2017/04/08/style/how-to-get-a-good-nights-sleep.html
+Start by turning off the lights (yes, that includes you, Mr. Phone) and saying your prayers. Then you can move on to more newfangled techniques.
+https://static01.nyt.com/images/2017/04/09/fashion/09JPMSLEEP1/09JPMSLEEP1-articleInline.jpg
+BLOCKS START 1
+ENTITY: 1
+BLOCKS END
+The Utter Uselessness of Job Interviews
+http://www.nytimes.com/2017/04/08/opinion/sunday/the-utter-uselessness-of-job-interviews.html
+We use them to try to ?get to know? people. It doesn?t work.
+https://static01.nyt.com/images/2017/04/09/opinion/sunday/09graySUB/09graySUB-articleInline.jpg
+BLOCKS START 4
+Admissions Standards
+ENTITY: 2
+Hiring and Promotion
+Psychology and Psychologists
+BLOCKS END
+The Coming Incompetence Crisis
+http://www.nytimes.com/2017/04/07/opinion/the-coming-incompetence-crisis.html
+What if the Trump administration runs out of errors?
+https://static01.nyt.com/images/2017/04/07/opinion/07Brooks/07Brooks-articleInline.jpg
+BLOCKS START 3
+ENTITY: 3
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Making a Living With Airbnb
+http://www.nytimes.com/2017/04/07/realestate/making-a-living-with-airbnb.html
+Some New Yorkers earn enough as hosts to quit their day jobs and plan for retirement.
+https://static01.nyt.com/images/2017/04/09/realestate/09AIRBNB1/09AIRBNB1-articleInline.jpg
+BLOCKS START 5
+Airbnb
+Crown Heights (Brooklyn, NY)
+ENTITY: 4
+Park Slope (Brooklyn, NY)
+Renting and Leasing (Real Estate)
+BLOCKS END
+Bill Cunningham: Unpublished Easter Photos
+http://www.nytimes.com/interactive/2017/04/16/fashion/bill-cunningham-easter.html
+Unpublished photos from the past six years of the Easter Parade on Fifth Avenue.
+null
+BLOCKS START 1
+ENTITY: 5
+BLOCKS END
+You Draw It: Just How Bad Is the Drug Overdose Epidemic?
+http://www.nytimes.com/interactive/2017/04/14/upshot/drug-overdose-epidemic-you-draw-it.html
+An interactive quiz provides deeper context to the opioid epidemic by asking readers to draw the trends in deaths from guns, the H.I.V. epidemic, car accidents and drug overdoses.
+null
+BLOCKS START 1
+ENTITY: 6
+BLOCKS END
+Senate Votes to Require Women to Register for the Draft
+http://www.nytimes.com/2016/06/15/us/politics/congress-women-military-draft.html
+The policy shift, which is not included in the House?s version of a broader military bill, reflects the evolving role of American women in the Armed Services.
+https://static01.nyt.com/images/2016/06/15/us/15CONG/15CONG-articleInline.jpg
+BLOCKS START 5
+Draft and Recruitment (Military)
+ENTITY: 7
+Senate
+United States Defense and Military Forces
+Women and Girls
+BLOCKS END
+Turning Negative Thinkers Into Positive Ones
+http://www.nytimes.com/2017/04/03/well/live/turning-negative-thinkers-into-positive-ones.html
+Chronically viewing the glass as half-empty inhibits one?s ability to bounce back from life?s inevitable stresses.
+https://static01.nyt.com/images/2017/04/04/science/04BRODY/04BRODY-articleInline.jpg
+BLOCKS START 5
+Anxiety and Stress
+ENTITY: 8
+Empathy
+Love (Emotion)
+Mental Health and Disorders
+BLOCKS END
+Sleep Is the New Status Symbol
+http://www.nytimes.com/2017/04/08/fashion/sleep-tips-and-tools.html
+Once we would brag of not needing very much of it. Now deep slumber is a coveted state achieved with gadgets, apps, gizmos and classes.
+https://static01.nyt.com/images/2017/04/09/fashion/09COVER1/09COVER1-articleInline.jpg
+BLOCKS START 7
+Apnea (Sleep Disorder)
+ENTITY: 9
+Insomnia
+Mobile Applications
+Sleep
+Snoring
+Wearable Computing
+BLOCKS END
+Birth of the Biggest Lie
+http://www.nytimes.com/2017/03/23/opinion/birth-of-the-biggest-lie.html
+We are now experiencing the very thing Team Trump warned about: a compromised presidency and a possible constitutional crisis.
+https://static01.nyt.com/images/2017/03/23/opinion/23blowWeb/23blowWeb-articleInline.jpg
+BLOCKS START 9
+Clinton, Hillary Rodham
+Comey, James B
+ENTITY: 10
+Presidential Election of 2016
+Presidents and Presidency (US)
+Rumors and Misinformation
+Russia
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Pepsi Pulls Ad Accused of Trivializing Black Lives Matter
+http://www.nytimes.com/2017/04/05/business/kendall-jenner-pepsi-ad.html
+The beverage company apologized for an ad featuring Kendall Jenner giving a smiling officer a soda at a protest.
+https://static01.nyt.com/images/2017/04/06/business/06xp-PEPSI/06xp-PEPSI-articleInline.jpg
+BLOCKS START 8
+Blacks
+Demonstrations, Protests and Riots
+ENTITY: 11
+Jenner, Kendall
+Online Advertising
+Pepsico Inc
+Police Brutality, Misconduct and Shootings
+Soft Drinks
+BLOCKS END
+Hillary Clinton, Free to Speak Her Mind
+http://www.nytimes.com/2017/04/08/opinion/sunday/hillary-clinton-free-to-speak-her-mind.html
+The defeated candidate, always careful as a politician in choosing her words, gives her first interview since the election.
+https://static01.nyt.com/images/2017/04/09/opinion/sunday/09kristof/09kristof-articleInline.jpg
+BLOCKS START 7
+Clinton, Hillary Rodham
+ENTITY: 12
+Presidential Election of 2016
+United States International Relations
+United States Politics and Government
+Women and Girls
+Women's Rights
+BLOCKS END
+Why Are So Many People Popping Vitamin D?
+http://www.nytimes.com/2017/04/10/health/vitamin-d-deficiency-supplements.html
+There is no epidemic of vitamin D deficiency, experts say, yet pointless testing and treatment are rampant.
+https://static01.nyt.com/images/2017/04/11/science/11VITAMIND1/11VITAMIND1-articleInline.jpg
+BLOCKS START 7
+Bones
+ENTITY: 13
+Osteoporosis
+Sunlight
+Tests (Medical)
+Vitamin D
+Vitamins
+BLOCKS END
+How I Learned to Take the SAT Like a Rich Kid
+http://www.nytimes.com/2017/04/10/opinion/how-i-learned-to-take-the-sat-like-a-rich-kid.html
+To get into elite colleges, one must train for standardized tests with the intensity of an athlete.
+https://static01.nyt.com/images/2017/04/10/opinion/10oncampus/10oncampus-articleInline.jpg
+BLOCKS START 5
+Colleges and Universities
+ENTITY: 14
+Education (K-12)
+Flint (Mich)
+SAT (College Admission Test)
+BLOCKS END
+?The Daily?: Comey Under Oath
+http://www.nytimes.com/2017/03/21/podcasts/the-daily/the-daily-comey-under-oath.html
+America?s top intelligence officials say the words President Trump never wanted to hear ? under oath, on the record and on live TV.
+https://static01.nyt.com/images/2017/03/21/us/21DAILY/21DAILY-articleInline.jpg
+BLOCKS START 2
+ENTITY: 15
+The Daily
+BLOCKS END
+Trump Inherits a Secret Cyberwar Against North Korean Missiles
+http://www.nytimes.com/2017/03/04/world/asia/north-korea-missile-program-sabotage.html
+The United States has been trying to sabotage North Korea?s missile program. President Trump must decide what to do next.
+https://static01.nyt.com/images/2017/01/14/science/14MISSILE1/14MISSILE1-articleInline.jpg
+BLOCKS START 10
+Cyberwarfare and Defense
+ENTITY: 16
+Kim Jong-un
+Missiles and Missile Defense Systems
+North Korea
+Nuclear Weapons
+Obama, Barack
+Trump, Donald J
+United States Defense and Military Forces
+United States International Relations
+BLOCKS END
+Should a Family Member Expose a Niece?s Fake Food Allergy?
+http://www.nytimes.com/2017/03/15/magazine/should-a-family-member-expose-their-nieces-fake-food-allergy.html
+The Ethicist columnist on suspecting a possibly factitious disorder and whether to call out someone?s racist joke.
+https://static01.nyt.com/images/2017/03/19/magazine/19ethicist/19ethicist-articleInline.jpg
+BLOCKS START 4
+Allergies
+ENTITY: 17
+Ethics (Personal)
+Race and Ethnicity
+BLOCKS END
+Rude Doctors, Rude Nurses, Rude Patients
+http://www.nytimes.com/2017/04/10/well/family/rude-doctors-rude-nurses-rude-patients.html
+If a rude remark throws off a highly trained intensive care team, what happens to the rest of us?
+https://static01.nyt.com/images/2017/04/10/well/family/well-family-klass/well-family-klass-articleInline.jpg
+BLOCKS START 4
+Customs, Etiquette and Manners
+Doctors
+ENTITY: 18
+Nursing and Nurses
+BLOCKS END
+North Korea May Be Preparing Its 6th Nuclear Test
+http://www.nytimes.com/interactive/2017/04/12/world/asia/north-korea-nuclear-test.html
+Growing evidence suggests that North Korea may soon conduct another underground detonation in its effort to make nuclear arms.
+null
+BLOCKS START 1
+ENTITY: 19
+BLOCKS END
+Will London Fall?
+http://www.nytimes.com/interactive/2017/04/11/world/europe/uk-london-brexit.html
+The metropolis that globalization created may well be the capital of the world. But after the ?Brexit? referendum, its future as an international crossroads is far from certain.
+https://static01.nyt.com/images/2017/04/03/world/europe/00brexit-images-slide-31PT/00brexit-images-slide-31PT-articleInline.jpg
+BLOCKS START 1
+ENTITY: 20
+BLOCKS END
+Fast Food Damnation
+http://krugman.blogs.nytimes.com/2016/12/09/fast-food-damnation/
+Chewing over the cultural divide.
+null
+BLOCKS START 1
+ENTITY: 21
+BLOCKS END
+Check This Box if You?re a Good Person
+http://www.nytimes.com/2017/04/04/opinion/check-this-box-if-youre-a-good-person.html
+On college applications, every so often, the kindness of a student can?t help shining through.
+https://static01.nyt.com/images/2017/04/04/opinion/04oncampus/04oncampus-articleInline.jpg
+BLOCKS START 5
+Admissions Standards
+Colleges and Universities
+ENTITY: 22
+Education (K-12)
+SAT (College Admission Test)
+BLOCKS END
+Review: ?13 Reasons Why? She Killed Herself, Drawn Out on Netflix
+http://www.nytimes.com/2017/03/30/arts/television/netflix-13-reasons-why-tv-review.html
+The best-selling book heads to the small screen as a combination of thriller and melodrama.
+https://static01.nyt.com/images/2017/03/31/arts/31WHYJP/31WHYJP-articleInline.jpg
+BLOCKS START 8
+13 Reasons Why (TV Program)
+Asher, Jay
+ENTITY: 23
+Langford, Katherine
+Minnette, Dylan (1996- )
+Netflix Inc
+Television
+Yorkey, Brian
+BLOCKS END
+Close to Half of American Adults Infected With HPV, Survey Finds
+http://www.nytimes.com/2017/04/06/health/hpv-virus-survey-united-states.html
+High-risk strains of the virus ? a cause of cervical and vaginal cancers, and cancer of the penis ? infect 25.1 percent of men and 20.4 percent of women.
+null
+BLOCKS START 5
+ENTITY: 24
+Human Papillomavirus (HPV)
+Medicine and Health
+National Center for Health Statistics
+Sexually Transmitted Diseases
+BLOCKS END
+Infrastructure Build or Privatization Scam?
+http://krugman.blogs.nytimes.com/2016/11/19/infrastructure-build-or-privatization-scam/
+Sounds like investment, smells like ripoff.
+null
+BLOCKS START 1
+ENTITY: 25
+BLOCKS END
+When The Ridiculous Is Ominous
+http://krugman.blogs.nytimes.com/2016/12/03/when-the-ridiculous-is-ominous/
+Welcome to Trump&#8217;s America.
+null
+BLOCKS START 1
+ENTITY: 26
+BLOCKS END
+The Economics of Regional Self-Esteem
+http://krugman.blogs.nytimes.com/2016/12/08/the-economics-of-regional-self-esteem/
+Everything is an insult, apparently.
+null
+BLOCKS START 1
+ENTITY: 27
+BLOCKS END
+I Loved My Grandmother. But She Was a Nazi.
+http://www.nytimes.com/2017/03/24/opinion/i-loved-my-grandmother-but-she-was-a-nazi.html
+Understanding how she got swept up in evil has been a lifelong question for me.
+https://static01.nyt.com/images/2017/03/25/opinion/25shattuckWweb/25shattuckWweb-articleInline.jpg
+BLOCKS START 4
+Anti-Semitism
+ENTITY: 28
+Grandparents
+Holocaust and the Nazi Era
+BLOCKS END
+Some Colleges Have More Students From the Top 1 Percent Than the Bottom 60. Find Yours.
+http://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html
+A new study, based on millions of anonymous tax records, shows that colleges are even more economically segregated than previously understood.
+https://static01.nyt.com/images/2017/01/05/upshot/affluence-on-elite-campuses-how-your-college-compares-1484754319647/affluence-on-elite-campuses-how-your-college-compares-1484754319647-articleInline.png
+BLOCKS START 1
+ENTITY: 29
+BLOCKS END
+Trade, Facts, and Politics
+http://krugman.blogs.nytimes.com/2016/12/05/trade-facts-and-politics/
+Statistics don&#8217;t win elections. Does that mean we shouldn&#8217;t look at them?
+null
+BLOCKS START 1
+ENTITY: 30
+BLOCKS END
+To Be a Genius, Think Like a 94-Year-Old
+http://www.nytimes.com/2017/04/07/opinion/sunday/to-be-a-genius-think-like-a-94-year-old.html
+We assume that creativity and innovation belong to the young. We?re wrong.
+https://static01.nyt.com/images/2017/04/09/opinion/sunday/09kennedy/09kennedy-articleInline.jpg
+BLOCKS START 5
+Automobiles
+Creativity
+ENTITY: 31
+Elderly
+Inventions and Patents
+BLOCKS END
+Learning to Think Like a Computer
+http://www.nytimes.com/2017/04/04/education/edlife/teaching-students-computer-code.html
+Computational thinking ? approaching problems the way a programmer would ? is captivating educators, from kindergarten teachers to college professors.
+https://static01.nyt.com/images/2017/04/09/education/09COMPUTE1/09COMPUTE1-articleInline.jpg
+BLOCKS START 4
+Children and Childhood
+Colleges and Universities
+Computers and the Internet
+ENTITY: 32
+BLOCKS END
+The Shifting Alliances and Rival Factions Inside Trump?s West Wing
+http://www.nytimes.com/interactive/2017/04/14/us/politics/the-shifting-alliances-and-rival-factions-inside-trumps-west-wing-bannon-kushner.html
+The prospect of Stephen K. Bannon?s dismissal has brought renewed attention to the inner workings of President Trump?s White House, a fractious ecosystem of competing centers of power.
+null
+BLOCKS START 1
+ENTITY: 33
+BLOCKS END
+You May Want to Marry My Husband
+http://www.nytimes.com/2017/03/03/style/modern-love-you-may-want-to-marry-my-husband.html
+After learning she doesn?t have long to live, a woman composes a dating profile for the man she will leave behind.
+https://static01.nyt.com/images/2017/03/05/fashion/05LOVE/05LOVE-articleInline.jpg
+BLOCKS START 4
+Death and Dying
+ENTITY: 34
+Love (Emotion)
+Marriages
+BLOCKS END
+36 Hours in Baltimore
+http://www.nytimes.com/interactive/2017/04/13/travel/what-to-do-36-hours-in-baltimore-maryland.html
+Charm City has raised the charm quotient, with hip cocktail bars, coffeehouses and a quirky historic appeal.
+https://static01.nyt.com/images/2017/04/16/travel/16HOURS-BALTIMORE-slide-HVTZ/16HOURS-BALTIMORE-slide-HVTZ-articleInline.jpg
+BLOCKS START 1
+ENTITY: 35
+BLOCKS END
+The Fighter
+http://www.nytimes.com/2016/12/28/magazine/afghanistan-soldier-ptsd-the-fighter.html
+The Marine Corps taught Sam Siatta how to shoot. The war in Afghanistan taught him how to kill. Nobody taught him how to come home.
+https://static01.nyt.com/images/2017/01/01/magazine/01soldier1/01soldier1-articleInline.jpg
+BLOCKS START 6
+Afghanistan War (2001-14)
+ENTITY: 36
+Post-Traumatic Stress Disorder
+Siatta, Samuel J (1989- )
+United States Defense and Military Forces
+Veterans
+BLOCKS END
+The 36 Questions That Lead to Love
+http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html
+A series of personal questions used by the psychologist Arthur Aron to explore the idea of fostering closeness through mutual vulnerability.
+https://static01.nyt.com/images/2015/01/11/fashion/11LOVE-tight/11LOVE-tight-articleInline.jpg
+BLOCKS START 5
+Aron, Arthur (1945- )
+Dating and Relationships
+ENTITY: 37
+Love (Emotion)
+Psychology and Psychologists
+BLOCKS END
+Trump Tops Obama, Bush and Clinton in Golfing and Private Getaways So Far
+http://www.nytimes.com/interactive/2017/04/10/us/politics/trump-golf-course-getaways.html
+After years of criticizing former President Barack Obama for playing golf and going on private getaways, President Trump has already done more of both in his first 87 days.
+null
+BLOCKS START 1
+ENTITY: 38
+BLOCKS END
+In Battle for Trump?s Heart and Mind, It?s Bannon vs. Kushner
+http://www.nytimes.com/2017/04/06/us/politics/stephen-bannon-white-house.html
+The escalating feud between the chief White House strategist and the president?s son-in-law reflects a larger struggle to guide the direction of the Trump presidency.
+https://static01.nyt.com/images/2017/04/07/us/07bannon1/07bannon1-articleInline.jpg
+BLOCKS START 5
+Bannon, Stephen K
+ENTITY: 39
+Kushner, Jared
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Canadians Adopted Refugee Families for a Year. Then Came ?Month 13.?
+http://www.nytimes.com/2017/03/25/world/canada/syrian-refugees.html
+Everyday Canadians spent a year embracing Syrians in the world?s most personal resettlement program. Letting them go might be the biggest test yet.
+https://static01.nyt.com/images/2017/03/24/world/canada/24canada-slide-0VZF/24canada-slide-0VZF-articleInline-v2.jpg
+BLOCKS START 7
+Canada
+ENTITY: 40
+Foreign Workers
+Immigration and Emigration
+Muslims and Islam
+Refugees and Displaced Persons
+Syria
+BLOCKS END
+Marvel Will Discipline Artist Who Sneaked Political Messages Into X-Men
+http://www.nytimes.com/2017/04/10/arts/marvel-x-men-gold-syaf.html
+The company said it would remove artwork from X-Men Gold #1 that appeared to refer to Islamist attacks on Christians and Jews in Indonesia.
+https://static01.nyt.com/images/2017/04/11/arts/11xp-marvel1/11xp-marvel1-articleInline.jpg
+BLOCKS START 12
+Anti-Semitism
+Basuki Tjahaja Purnama
+Books and Literature
+Cartoons and Cartoonists
+Comic Books and Strips
+Discrimination
+ENTITY: 41
+Indonesia
+Marvel Comics
+Muslims and Islam
+Politics and Government
+Syaf, Ardian
+BLOCKS END
+The Passion of Southern Christians
+http://www.nytimes.com/2017/04/08/opinion/the-passion-of-southern-christians.html
+The president my fellow believers elected is about to show them what betrayal really looks like.
+https://static01.nyt.com/images/2017/04/09/opinion/sunday/-09renkl/-09renkl-articleInline.jpg
+BLOCKS START 7
+Christians and Christianity
+Democratic Party
+ENTITY: 42
+Republican Party
+Southern States (US)
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Gut Hack
+http://www.nytimes.com/2017/04/11/opinion/gut-hack.html
+After a lifetime of stomach problems, Josiah Zayner declared war on his own body?s microbes.
+https://static01.nyt.com/images/2017/04/11/opinion/11opdoc-img/11opdoc-img-articleInline.jpg
+BLOCKS START 9
+Antibiotics
+Bacteria
+Digestive Tract
+ENTITY: 43
+Feces
+Irritable Bowel Syndrome
+Microbiology
+Transplants
+Zayner, Josiah
+BLOCKS END
+Why You Will Marry the Wrong Person
+http://www.nytimes.com/2016/05/29/opinion/sunday/why-you-will-marry-the-wrong-person.html
+Embrace a philosophy of pessimism. Every human will disappoint you, and you?ll do the same to them.
+https://static01.nyt.com/images/2016/05/29/opinion/sunday/29botton/29botton-articleInline-v5.jpg
+BLOCKS START 4
+Dating and Relationships
+ENTITY: 44
+Marriages
+Pessimism
+BLOCKS END
+Donald, This I Will Tell You
+http://www.nytimes.com/2017/03/25/opinion/sunday/donald-this-i-will-tell-you.html
+Dear President Trump: Are we going to lose so much, we?ll get tired of losing?
+https://static01.nyt.com/images/2017/03/26/sunday-review/26Dowd2/26Dowd2-articleInline.jpg
+BLOCKS START 8
+ENTITY: 45
+Favreau, Jonathan E (1981- )
+Health Insurance and Managed Care
+Reagan, Ronald Wilson
+Republican Party
+Ryan, Paul D Jr
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Loans ?Designed to Fail?: States Say Navient Preyed on Students
+http://www.nytimes.com/2017/04/09/business/dealbook/states-say-navient-preyed-on-students.html
+Lawsuits filed by Illinois and Washington against the Sallie Mae spinoff firm say high-risk loans were part of a growth strategy that has left former students buried in debt.
+https://static01.nyt.com/images/2017/04/11/business/00DB-NAVIENT5/00DB-NAVIENT5-articleInline-v2.jpg
+BLOCKS START 12
+Attorneys General
+Banking and Financial Institutions
+California Culinary Academy Incorporated
+Career Education Corporation
+Colleges and Universities
+ENTITY: 46
+Education Department (US)
+Le Cordon Bleu
+Navient Corporation
+SLM Corporation
+Student Loans
+Suits and Litigation (Civil)
+BLOCKS END
+White House Addresses Trump?s Unorthodox Call to Preet Bharara
+http://www.nytimes.com/2017/03/12/us/politics/white-house-addresses-trumps-unorthodox-call-to-preet-bharara.html
+Despite being asked repeatedly on Saturday about the nature of the call, the White House was silent until Sunday, when it said the president was trying to extend his good wishes to Mr. Bharara.
+https://static01.nyt.com/images/2017/03/13/us/13justice/13justice-articleInline.jpg
+BLOCKS START 6
+Bharara, Preet
+ENTITY: 47
+Ethics and Official Misconduct
+Justice Department
+Trump, Donald J
+United States Attorneys
+BLOCKS END
+?Why Do Americans Refrigerate Their Eggs??
+http://www.nytimes.com/2017/02/13/insider/why-do-americans-refrigerate-their-eggs.html
+Our culinary compatriots in Europe, Asia and other parts of the world leave beautiful bowls of eggs on their kitchen counters. So what gives?
+https://static01.nyt.com/images/2017/02/14/insider/14insider-ask-egg-photo/14insider-ask-egg-photo-articleInline.jpg
+BLOCKS START 5
+ENTITY: 48
+Eggs
+New York Times
+Refrigerators
+Salmonella (Bacteria)
+BLOCKS END
+Mushrooms on Toast, Done Just Right
+http://www.nytimes.com/2017/04/11/dining/mushrooms-on-toast-done-just-right.html
+A home cook in Britain is coaxed into sharing her recipe.
+https://static01.nyt.com/images/2017/04/12/dining/12KITCHEN1/12KITCHEN1-articleInline.jpg
+BLOCKS START 3
+Cooking and Cookbooks
+ENTITY: 49
+Mushrooms
+BLOCKS END
+Dear Reader, Meet Your Match: An Advice Column for Book Lovers
+http://www.nytimes.com/2017/04/11/books/review/match-book-advice-column.html
+In our new column connecting readers with books, a busy dad seeks the new Updike and a grandmother hunts for heroines for her 7-year-old twin granddaughters.
+null
+BLOCKS START 2
+Books and Literature
+ENTITY: 50
+BLOCKS END
+High School Journalists Land a Scoop, and the Principal Resigns
+http://www.nytimes.com/2017/04/05/us/high-school-journalists-principal-quits.html
+The credentials of the school official in Pittsburg, Kan., came under question after a student article that won praise from journalism groups.
+https://static01.nyt.com/images/2017/04/05/us/06xp-students/06xp-students-articleInline.jpg
+BLOCKS START 7
+ENTITY: 51
+Education (K-12)
+Kansas
+News and News Media
+Pittsburg High School (Pittsburg, Kan)
+Robertson, Amy
+Student journalism
+BLOCKS END
+The Best Movies and TV Shows New to Netflix Australia in April
+http://www.nytimes.com/2017/04/04/watching/new-on-netflix-australia.html
+Every month, the streaming service adds a batch of new titles to its library. These are a bunch worth checking out.
+https://static01.nyt.com/images/2016/06/09/arts/television/frances-ha-watching-recommendation/frances-ha-watching-recommendation-articleInline.jpg
+BLOCKS START 1
+ENTITY: 52
+BLOCKS END
+Trump Tries to Deflect Russia Scrutiny, Citing ?Crooked Scheme? by Obama
+http://www.nytimes.com/2017/04/03/us/politics/twitter-trump-clinton-obama.html
+The president seized on reports in conservative news outlets to bolster his case that he was targeted for surveillance by his predecessor for political reasons.
+https://static01.nyt.com/images/2017/04/04/us/04trump/04trumptweets-articleInline.jpg
+BLOCKS START 9
+Clinton, Hillary Rodham
+ENTITY: 53
+Obama, Barack
+Podesta Group Inc
+Presidential Election of 2016
+Russia
+Trump, Donald J
+United States
+United States Politics and Government
+BLOCKS END
+How Stephen Colbert Finally Found His Elusive Groove
+http://www.nytimes.com/2017/04/09/business/media/stephen-colbert-election-late-night.html
+Mr. Colbert has done what was unthinkable a year ago: turned ?The Late Show? into the most viewed show in late night. And President Trump is not the only reason.
+https://static01.nyt.com/images/2017/04/10/business/10colbert/10colbert-articleInline-v4.jpg
+BLOCKS START 7
+CBS Corporation
+Colbert, Stephen
+ENTITY: 54
+Late Show with Stephen Colbert (TV Program)
+Licht, Christopher A (1971- )
+Ratings (Audience Measurement)
+Television
+BLOCKS END
+When One President Smears Another
+http://www.nytimes.com/2017/03/05/opinion/when-one-president-smears-another.html
+Mr. Trump has tweeted himself into a corner.
+https://static01.nyt.com/images/2017/03/06/opinion/06mon1sub/06mon1sub-articleInline.jpg
+BLOCKS START 6
+ENTITY: 55
+Obama, Barack
+Presidential Election of 2016
+Trump, Donald J
+United States Politics and Government
+Wiretapping and Other Eavesdropping Devices and Methods
+BLOCKS END
+Hannah Is a Girl. Doctors Finally Treat Her Like One.
+http://www.nytimes.com/2017/04/08/opinion/sunday/hannah-is-a-girl-doctors-finally-treat-her-like-one.html
+A consensus on how to treat transgender children is emerging in medicine, if not in Washington.
+https://static01.nyt.com/images/2017/04/09/opinion/sunday/09turban/09turban-articleInline-v2.jpg
+BLOCKS START 6
+Children and Childhood
+ENTITY: 56
+Hormones
+Suicides and Suicide Attempts
+Teenagers and Adolescence
+Transgender and Transsexuals
+BLOCKS END
+Has Coffee Gotten Too Fancy?
+http://www.nytimes.com/2017/04/10/dining/coffee-locol-restaurant-one-dollar-cup.html
+The head of coffee at Locol, the California fast-food chain, sells a high-quality cup for just $1. Now he wants to make good coffee more accessible, in every way.
+https://static01.nyt.com/images/2017/04/12/dining/12COFFEE1/12COFFEE1-articleInline.jpg
+BLOCKS START 7
+Choi, Roy
+Coffee
+ENTITY: 57
+Fast Food Industry
+Locol (Los Angeles, Calif, Restaurant)
+Patterson, Daniel (Chef)
+Restaurants
+BLOCKS END
+52 Places to Go in 2017
+http://www.nytimes.com/interactive/2017/travel/places-to-visit.html
+There are thousands of getaways to explore this year. Here are some ideas to get you started.
+https://static01.nyt.com/images/2017/01/03/travel/places-to-visit-1483468095725/places-to-visit-1483468095725-articleInline-v9.jpg
+BLOCKS START 1
+ENTITY: 58
+BLOCKS END
+How Uber Uses Psychological Tricks to Push Its Drivers? Buttons
+http://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html
+The start-up has undertaken an extraordinary experiment in behavioral science to subtly entice an independent work force to maximize company revenue.
+https://static01.nyt.com/images/2017/05/06/business/uber-psychology-1490978613802/uber-psychology-1490978613802-articleInline.png
+BLOCKS START 1
+ENTITY: 59
+BLOCKS END
+New York?s Free-Tuition Program Will Help Traditional, but Not Typical, Students
+http://www.nytimes.com/2017/04/11/nyregion/new-yorks-free-tuition-program-will-help-traditional-but-not-typical-students.html
+A new program will mostly aid students who go to college straight from high school and graduate on time. But low-income students rarely fit that mold.
+https://static01.nyt.com/images/2017/04/12/nyregion/12TUITION2-alt/12TUITION2-alt-articleInline.jpg
+BLOCKS START 10
+Budgets and Budgeting
+City University of New York
+Colleges and Universities
+Cuomo, Andrew M
+ENTITY: 60
+New York State
+Politics and Government
+Scholarships and Fellowships
+State University of New York
+Tuition
+BLOCKS END
+How Americans Think About Climate Change, in Six Maps
+http://www.nytimes.com/interactive/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps.html
+Americans overwhelmingly believe that global warming is happening, and that carbon emissions should be scaled back. But fewer are sure that it will harm them personally.
+https://static01.nyt.com/images/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps-1490111758035/how-americans-think-about-climate-change-in-six-maps-1490111758035-articleInline.jpg
+BLOCKS START 1
+ENTITY: 61
+BLOCKS END
+Why I?m Moving Home
+http://www.nytimes.com/2017/03/16/opinion/why-im-moving-home.html
+Like many rural Americans, I set off in search of opportunity. Now I realize I need to go back.
+https://static01.nyt.com/images/2017/03/16/opinion/16vance/16vance-articleInline.jpg
+BLOCKS START 7
+Columbus (Ohio)
+ENTITY: 62
+Factories and Manufacturing
+Labor and Jobs
+Rural Areas
+Unemployment
+United States
+BLOCKS END
+Good News for Older Mothers
+http://www.nytimes.com/2017/04/03/well/family/good-news-for-the-older-mothers.html
+Research finds that children born to women in their late 30s did significantly better on cognitive testing than those of younger mothers.
+https://static01.nyt.com/images/2017/04/05/well/family/well-family-klass/well-family-klass-articleInline.jpg
+BLOCKS START 5
+Birth Rates
+ENTITY: 63
+Parenting
+Pregnancy and Childbirth
+Women and Girls
+BLOCKS END
+Confronting the Sorrow and Silence of Stillbirth
+http://lens.blogs.nytimes.com/2017/04/13/confronting-the-sorrow-and-silence-of-stillbirth/
+After The Lancet ran a series of papers on preventing stillbirths, Matthieu Zellweger was assigned to capture how parents dealt with their loss.
+null
+BLOCKS START 4
+ENTITY: 64
+Photography
+Stillbirth
+Zellweger, Matthieu
+BLOCKS END
+?Homeland,? Season 6, Episode 12: In the Finale, Carrie Deals With Death and Betrayal
+http://www.nytimes.com/2017/04/10/arts/television/homeland-season-6-episode-12-finale-recap.html
+It would have been nice to return to the real world with a happy ?Homeland? ending behind us, a fade into a comforting made-for-TV resolution. Oh well.
+https://static01.nyt.com/images/2017/04/09/arts/09homeland02/09homeland02-articleInline-v5.jpg
+BLOCKS START 5
+Danes, Claire
+ENTITY: 65
+Gansa, Alex
+Homeland (TV Program)
+Television
+BLOCKS END
+Obama Administration Rushed to Preserve Intelligence of Russian Election Hacking
+http://www.nytimes.com/2017/03/01/us/politics/obama-trump-russia-election-hacking.html
+Obama administration officials scrambled to ensure intelligence of connections between the Trump campaign and Russian officials was preserved after they left office.
+https://static01.nyt.com/images/2017/03/02/us/02intel1/02intel1-articleInline.jpg
+BLOCKS START 10
+Cyberwarfare and Defense
+ENTITY: 66
+Espionage and Intelligence Services
+Obama, Barack
+Presidential Election of 2016
+Putin, Vladimir V
+Russia
+Trump, Donald J
+United States International Relations
+United States Politics and Government
+BLOCKS END
+The Age of Rudeness
+http://www.nytimes.com/2017/02/15/magazine/the-age-of-rudeness.html
+As the social contract frays, what does it mean to be polite?
+https://static01.nyt.com/images/2017/02/19/magazine/19rudeness1/19rudeness1-articleInline-v2.jpg
+BLOCKS START 6
+Customs, Etiquette and Manners
+ENTITY: 67
+Great Britain Withdrawal from EU (Brexit)
+Language and Languages
+Politics and Government
+Race and Ethnicity
+BLOCKS END
+That Fingerprint Sensor on Your Phone Is Not as Safe as You Think
+http://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html
+New research suggests that the fingerprint security features on iPhones and Android devices can be easily fooled by so-called MasterPrint fakes.
+https://static01.nyt.com/images/2017/04/12/business/11fingerprint3/11fingerprint3-articleInline.jpg
+BLOCKS START 7
+Apple Inc
+Computer Security
+ENTITY: 68
+Fingerprinting
+Google Inc
+Identification Devices
+Smartphones
+BLOCKS END
+How Y?all, Youse and You Guys Talk
+http://www.nytimes.com/interactive/2013/12/20/sunday-review/dialect-quiz-map.html
+What does the way you speak say about where you?re from? Answer the questions to see your personal dialect map.
+https://static01.nyt.com/images/2016/11/24/us/map-dialect/map-dialect-articleInline.png
+BLOCKS START 1
+ENTITY: 69
+BLOCKS END
+The Patients Were Saved. That?s Why the Families Are Suing.
+http://www.nytimes.com/2017/04/10/health/wrongful-life-lawsuit-dnr.html
+Relatives of patients resuscitated against their instructions are increasingly willing to sue over ?wrongful life.?
+https://static01.nyt.com/images/2017/04/11/science/11SPAN/11SPAN-articleInline.jpg
+BLOCKS START 7
+Death and Dying
+ENTITY: 70
+Elder Care
+Elderly
+Hospitals
+Living Wills and Health Care Proxies
+Suits and Litigation (Civil)
+BLOCKS END
+The Mixed-Up Brothers of Bogot?
+http://www.nytimes.com/2015/07/12/magazine/the-mixed-up-brothers-of-bogota.html
+After a hospital error, two pairs of Colombian identical twins were raised as two pairs of fraternal twins. This is the story of how they found one another ? and of what happened next.
+https://static01.nyt.com/images/2015/07/12/magazine/12twins11/12twins11-articleInline.jpg
+BLOCKS START 6
+Babies and Infants
+Bogota (Colombia)
+Colombia
+ENTITY: 71
+Genetics and Heredity
+Twins
+BLOCKS END
+KPMG Fires 6 Over Ethics Breach on Audit Warnings
+http://www.nytimes.com/2017/04/12/business/dealbook/kpmg-public-company-accounting-oversight-board.html
+The accounting firm said the employees had been terminated after it learned they were receiving improper warnings of planned audit inspections.
+https://static01.nyt.com/images/2017/04/13/business/13db-kpmg1/13db-kpmg1-articleInline.jpg
+BLOCKS START 5
+Accounting and Accountants
+Doughtie, Lynne M
+ENTITY: 72
+KPMG
+Public Company Accounting Oversight Board
+BLOCKS END
+From Best Man to Puzzled Woman
+http://www.nytimes.com/2017/04/07/style/modern-love-jennifer-finney-boylan.html
+A woman discovers surprising complications in navigating her male friendships after transitioning in midlife.
+https://static01.nyt.com/images/2017/04/07/fashion/09MODERN/09MODERN-articleInline.jpg
+BLOCKS START 4
+Dating and Relationships
+ENTITY: 73
+Friendship
+Women and Girls
+BLOCKS END
+The Best Movies and TV Shows New to Netflix Canada in April
+http://www.nytimes.com/2017/03/30/watching/new-on-netflix-new-releases-canada-april.html
+Each month, the streaming service adds new films and TV shows to its library. Here are some of the best coming to Canada.
+https://static01.nyt.com/images/2016/11/11/arts/absolutely-fabulous-the-movie-watching/11TV1-SUB-articleInline.jpg
+BLOCKS START 1
+ENTITY: 74
+BLOCKS END
+Trump Becomes Ensnared in Fiery G.O.P. Civil War
+http://www.nytimes.com/2017/03/25/us/politics/trump-health-care-defeat-gop-civil-war.html
+The health bill?s defeat leaves the president facing a wrenching choice: ceding power to his party?s anti-establishment wing, or seeking other pathways to successful governing.
+https://static01.nyt.com/images/2017/03/26/us/26Trump-1/26Trump-1-articleInline.jpg
+BLOCKS START 10
+ENTITY: 75
+Health Insurance and Managed Care
+House Freedom Caucus
+House of Representatives
+Patient Protection and Affordable Care Act (2010)
+Priebus, Reince R
+Republican Party
+Ryan, Paul D Jr
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+The Refugee King of Greece
+http://www.nytimes.com/interactive/2017/04/14/sunday-review/greece-refugee-king-gilbertson.html
+?No risk, no life,? a teenage migrant told me, before jumping on a freight train.
+null
+BLOCKS START 1
+ENTITY: 76
+BLOCKS END
+How Trump?s Travel Compares With Past Presidents
+http://www.nytimes.com/interactive/2017/04/16/us/politics/homebody-comparative-listy.html
+As President Trump approaches 100 days in office, here's a look at the miles he has logged, relative to Presidents Obama and Bush.
+https://static01.nyt.com/images/2017/04/17/us/17Listy-1/17Listy-1-articleInline.jpg
+BLOCKS START 1
+ENTITY: 77
+BLOCKS END
+The Jenna Lyons Era at J. Crew Comes to an End
+http://www.nytimes.com/2017/04/04/fashion/j-crew-jenna-lyons.html
+How the face of the brand became the symbol of its fall.
+https://static01.nyt.com/images/2017/04/05/fashion/04otr-A/04otr-A-articleInline.jpg
+BLOCKS START 4
+ENTITY: 78
+Fashion and Apparel
+J Crew Group
+Lyons, Jenna
+BLOCKS END
+How Behavioral Economics Can Produce Better Health Care
+http://www.nytimes.com/2017/04/13/upshot/answer-to-better-health-care-behavioral-economics.html
+People don?t always act ?rationally.? Nudges might be able to lead to better doctors and healthier patients.
+https://static01.nyt.com/images/2017/04/08/upshot/10up-nudge1/10up-nudge1-articleInline.jpg
+BLOCKS START 4
+Doctors
+ENTITY: 79
+Economics (Theory and Philosophy)
+Emotions
+BLOCKS END
+Sean Spicer Raises Outcry With Talk of Hitler, Assad and Poison Gas
+http://www.nytimes.com/2017/04/11/us/politics/sean-spicer-hitler-gas-holocaust-center.html
+Mr. Spicer, the White House spokesman, apologized after incorrectly stating, in a criticism of the Syrian president, that Hitler had not used chemical weapons.
+https://static01.nyt.com/images/2017/04/12/us/12gas-01/spicer-vid-articleInline.jpg
+BLOCKS START 9
+Assad, Bashar al-
+Biological and Chemical Warfare
+ENTITY: 80
+Hitler, Adolf
+Holocaust and the Nazi Era
+Spicer, Sean M (1971- )
+Syria
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Special Ed School Vouchers May Come With Hidden Costs
+http://www.nytimes.com/2017/04/11/us/school-vouchers-disability.html
+For parents of struggling students, a voucher for private school may seem like a golden ticket. But some may not realize what they are giving up.
+https://static01.nyt.com/images/2017/04/12/us/12specialed/00specialed-articleInline.jpg
+BLOCKS START 4
+ENTITY: 81
+Private and Sectarian Schools
+Special Education
+Vouchers
+BLOCKS END
+California Moves to Become ?Sanctuary State,? and Others Look to Follow
+http://www.nytimes.com/2017/04/10/us/sanctuary-states-immigration.html
+If a California measure is enacted, police agencies will face conflicting directives from the state and the federal government.
+https://static01.nyt.com/images/2017/04/11/us/11sanctuary3/11sanctuary3-articleInline.jpg
+BLOCKS START 7
+California
+ENTITY: 82
+Federal-State Relations (US)
+Illegal Immigration
+Law and Legislation
+State Legislatures
+Vermont
+BLOCKS END
+Why Is Trump Fighting ISIS in Syria?
+http://www.nytimes.com/2017/04/12/opinion/why-is-trump-fighting-isis-in-syria.html
+A strategy built on territory won?t ultimately eliminate the terrorist group.
+https://static01.nyt.com/images/2017/04/12/opinion/12friedmanWeb/12friedmanWeb-articleInline.jpg
+BLOCKS START 7
+Assad, Bashar al-
+ENTITY: 83
+Islamic State in Iraq and Syria (ISIS)
+Syria
+Terrorism
+Trump, Donald J
+United States International Relations
+BLOCKS END
+What?s at Stake in Trump?s Proposed E.P.A. Cuts
+http://www.nytimes.com/2017/04/10/climate/trump-epa-budget-cuts.html
+President Trump?s proposed cuts in environmental programs go far beyond climate change. They would also affect clean water, law enforcement and pollution cleanup.
+https://static01.nyt.com/images/2017/04/10/science/10EPACUTS-quad/10EPACUTS-quad-articleInline.jpg
+BLOCKS START 20
+Air Pollution
+Chemicals
+Clean Water Act
+ENTITY: 84
+Environment
+Environmental Protection Agency
+Federal Budget (US)
+Fuel Efficiency
+Fuel Emissions (Transportation)
+Global Warming
+Greenhouse Gas Emissions
+Hazardous and Toxic Substances
+Lakes
+Pruitt, Scott
+Regulation and Deregulation of Industry
+Superfund
+Trump, Donald J
+United States Politics and Government
+Water
+Water Pollution
+BLOCKS END
+It Takes a Suburb: A Town Struggles to Ease Student Stress
+http://www.nytimes.com/2017/04/05/education/edlife/overachievers-student-stress-in-high-school-.html
+Lexington, Mass., is fighting the joy-killing, suicide-inducing performance anxiety so prevalent in turbocharged high schools. It has not been easy.
+https://static01.nyt.com/images/2017/04/09/education/09lextingtonrocks-3/09lextingtonrocks-3-articleInline-v2.jpg
+BLOCKS START 8
+Anxiety and Stress
+Asian-Americans
+Colleges and Universities
+ENTITY: 85
+Education (K-12)
+Education (Secondary)
+Happiness
+Lexington (Mass)
+BLOCKS END
+Worst Chemical Attack in Years in Syria; U.S. Blames Assad
+http://www.nytimes.com/2017/04/04/world/middleeast/syria-gas-attack.html
+Dozens of people including children were killed in the assault, one of the worst atrocities in the Syria conflict since President Trump took office.
+https://static01.nyt.com/images/2017/04/05/world/05Syria1/05Syria1-articleInline-v2.jpg
+BLOCKS START 6
+Assad, Bashar al-
+Biological and Chemical Warfare
+Civilian Casualties
+ENTITY: 86
+Idlib (Syria)
+Syria
+BLOCKS END
+Scott Pruitt Faces Anger From Right Over E.P.A. Finding He Won?t Fight
+http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html
+Critics charge the agency?s administrator should have challenged a legal finding that underpinned the Obama climate policies, but he refuses to budge.
+https://static01.nyt.com/images/2017/04/13/us/13PRUITT1/13PRUITT1-articleInline.jpg
+BLOCKS START 8
+Carbon Dioxide
+ENTITY: 87
+Environment
+Environmental Protection Agency
+Global Warming
+Greenhouse Gas Emissions
+Pruitt, Scott
+United States Politics and Government
+BLOCKS END
+Emma Morano, World?s Oldest Person, Turns 117
+http://www.nytimes.com/2016/11/29/world/europe/emma-morano-worlds-oldest-person-turns-117.html
+She celebrated the occasion in her home in Italy, with some of the festivities shown live on the state broadcaster.
+https://static01.nyt.com/images/2016/11/30/world/30oldestwoman/30oldestwoman-articleInline.jpg
+BLOCKS START 5
+Birthdays
+ENTITY: 88
+Italy
+Longevity
+Morano, Emma (1899- )
+BLOCKS END
+Student Charged With Hazing in Peanut Butter Allergy Case
+http://www.nytimes.com/2017/04/12/us/michigan-hazing-peanut-butter-allergy.html
+A college student was charged after another student with a serious peanut allergy passed out at an off-campus party and woke up with peanut butter on his face.
+https://static01.nyt.com/images/2017/04/13/us/13xp-peanutbutter/13xp-peanutbutter-articleInline.jpg
+BLOCKS START 6
+Central Michigan University
+ENTITY: 89
+Fraternities and Sororities
+Hazing
+Peanut Butter
+Peanuts
+BLOCKS END
+C.I.A. Had Evidence of Russian Effort to Help Trump Earlier Than Believed
+http://www.nytimes.com/2017/04/06/us/trump-russia-cia-john-brennan.html
+Former government officials said the agency told senior lawmakers last summer that it had information indicating that Russia was working to help get President Trump elected.
+https://static01.nyt.com/images/2017/04/07/us/07trumprussia/07trumprussia-articleInline.jpg
+BLOCKS START 9
+Brennan, John O
+Central Intelligence Agency
+Cyberwarfare and Defense
+ENTITY: 90
+Espionage and Intelligence Services
+Presidential Election of 2016
+Russia
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Yes, Your Sleep Schedule Is Making You Sick
+http://www.nytimes.com/2017/03/10/opinion/sunday/can-sleep-deprivation-cure-depression.html
+What jet lag, insomnia and mental illness have in common.
+https://static01.nyt.com/images/2017/03/12/opinion/sunday/12friedman/12friedman-articleInline-v3.jpg
+BLOCKS START 6
+Biorhythms
+Depression (Mental)
+ENTITY: 91
+Jet Lag
+Melatonin (Hormone)
+Sleep
+BLOCKS END
+Donald Trump?s Cabinet is Almost Complete. Here?s the Latest List.
+http://www.nytimes.com/interactive/2016/us/politics/donald-trump-administration.html
+A list of appointees and nominees for top posts in the new administration.
+null
+BLOCKS START 1
+ENTITY: 92
+BLOCKS END
+Lack of Oxford Comma Could Cost Maine Company Millions in Overtime Dispute
+http://www.nytimes.com/2017/03/16/us/oxford-comma-lawsuit.html
+An appeals court ruling on Monday was a victory for truck drivers and punctuation pedants.
+https://static01.nyt.com/images/2017/03/16/us/17xp-COMMAsub/16xp-comma_web1-articleInline.jpg
+BLOCKS START 4
+ENTITY: 93
+English Language
+Grammar
+Suits and Litigation (Civil)
+BLOCKS END
+After 264 Haircuts, a Marriage Ends
+http://www.nytimes.com/2017/02/10/style/modern-love-conversion-therapy-gay-husband-haircuts.html
+He acknowledged he was gay and left his wife, but he kept returning home for their monthly ritual.
+https://static01.nyt.com/images/2017/02/12/fashion/12LOVE/12LOVE-articleInline.jpg
+BLOCKS START 5
+Conversion Therapy
+Dating and Relationships
+ENTITY: 94
+Homosexuality and Bisexuality
+Love (Emotion)
+BLOCKS END
+James Baldwin?s Archive, Long Hidden, Comes (Mostly) Into View
+http://www.nytimes.com/2017/04/12/arts/james-baldwins-archive-long-hidden-comes-mostly-into-view.html
+The Schomburg Center in Harlem has bought this author?s rich archive. But the private letters admirers have longed to read will largely remain under seal.
+https://static01.nyt.com/images/2017/04/13/arts/13ARCHIVESUB2/13ARCHIVESUB2-articleInline.jpg
+BLOCKS START 8
+Archives and Records
+Baldwin, James (1924-87)
+Blacks
+ENTITY: 95
+Letters
+New York Public Library
+Schomburg Center for Research in Black Culture
+Writing and Writers
+BLOCKS END
+Ex-Professor Says Dismissed Racketeering Case Is Still ?Devastating?
+http://www.nytimes.com/2017/04/09/business/joy-laskar-georgia-tech-racketeering-case.html
+Joy Laskar, accused by Georgia Tech of misusing funds to help his start-up, didn?t get a chance to defend himself at a trial. Now he is speaking out about the unusual charges.
+https://static01.nyt.com/images/2017/04/10/business/10professor2/10professor2-articleInline.jpg
+BLOCKS START 5
+Colleges and Universities
+ENTITY: 96
+Georgia Institute of Technology
+Laskar, Joy
+Racketeering and Racketeers
+BLOCKS END
+Adam Schiff Leverages Democrats? Limited Power in Trump Inquiry
+http://www.nytimes.com/2017/03/20/us/politics/adam-schiff-house-intelligence-committee.html
+The congressman gently probed the F.B.I. chief, James B. Comey, for information and laid out the history of the Trump campaign?s contacts with Russian officials.
+https://static01.nyt.com/images/2017/03/21/us/21schiff/21schiff-articleInline.jpg
+BLOCKS START 10
+California
+Comey, James B
+ENTITY: 97
+House Committee on Intelligence
+House of Representatives
+Presidential Election of 2016
+Schiff, Adam B
+Surveillance of Citizens by Government
+Trump, Donald J
+United States Politics and Government
+BLOCKS END
+Bob Dylan&#8217;s Early Days in New York
+http://lens.blogs.nytimes.com/2017/04/17/how-does-it-feel-to-photograph-bob-dylan-ted-russell/
+Ted Russell spent time with a young Bob Dylan in New York. As a lifelong jazz fan, he was unimpressed. So were a lot of editors, until the nasally voiced folk singer became a star.
+null
+BLOCKS START 5
+Dylan, Bob
+ENTITY: 98
+Photography
+Steven Kasher Gallery
+Ted Russell
+BLOCKS END
+Fliers, Do You Know Your Rights?
+http://www.nytimes.com/interactive/2017/04/12/travel/airline-passenger-rights.html
+Take this quiz to see if you?re ready the next time an airline asks you to give up your seat, bumps you or subjects you to a long delay.
+https://static01.nyt.com/images/2017/04/14/travel/12quiz-airlines/12quiz-airlines-articleInline.jpg
+BLOCKS START 1
+ENTITY: 99
+BLOCKS END

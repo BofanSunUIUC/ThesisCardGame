@@ -1,0 +1,32 @@
+31
+Atwood, Margaret
+ENTITY: 26
+ENTITY: 33
+ENTITY: 42
+ENTITY: 47
+ENTITY: 65
+ENTITY: 69
+ENTITY: 7
+ENTITY: 70
+ENTITY: 71
+Facebook Inc
+Fox News Channel
+Fyre Festival
+Green, Kitty
+Invasive Species
+Kalanick, Travis
+Labor and Jobs
+Morningside Heights (Manhattan, NY)
+Munoz, Oscar (1959- )
+Murders, Attempted Murders and Homicides
+Netflix Inc
+O'Reilly, Bill
+Red Hook (Brooklyn, NY)
+Roads and Traffic
+Television
+TransCanada Corporation
+Trump, Donald J
+Trump, Ivanka
+United States Army
+United States Politics and Government
+Watters, Jesse
