@@ -1,0 +1,58 @@
+body {
+	margin:0%;
+	font-size:100%;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+}
+a:link, a:visited {
+	color:maroon;
+	text-decoration:none;
+}
+a:hover, a:active {
+	color:red;
+	text-decoration:none;
+}
+div.box {
+	width:660px;
+	padding:20px 20px;
+	margin:40px;
+	border:1px solid black;
+	text-align:left;
+	overflow:auto;
+}
+div.thumb-wrap {
+	height:180px;
+	width:180px;
+	margin:10px 20px;
+	float:left;
+	position:relative;
+}
+img.thumb {
+	max-height:180px;
+	max-width:180px;
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	margin:auto;
+}
+div.content {
+	float:left;
+	width:440px;
+}
+div.content-wide {
+	float:left;
+	width:660px;
+}
+p.text {
+	margin:10px 20px;
+	text-align:justify;
+}
+div.subject {
+	width:158px;
+	margin:10px 20px;
+	padding:5px 10px 7px;
+	border:1px solid maroon;
+	overflow:auto;
+	float:left;
+}
